@@ -1,6 +1,102 @@
 [
 
    {
+ "name": "SERIES-ESTRENOS",
+ "mode": true,
+ "lista": [
+  
+   {
+     "tipo": "serie",
+     "name": "ENVIDIOSA",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+     "temporada": [
+        {
+    "name": "Todo sobre Vicky",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yyJMXApYR61sfyd2v/r5P1XVGW4YszAA+X9NuZQo4wUM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Barrilete cósmico",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yCi8yEdx6ZBTdv5ghPZf14n4QcEcKCtByl43Pbmk2zJo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Ametralladora de likes",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yIWxzeK/7i3QUv9cjOIbFxbm564NM+YYgOx7k3u/Dq4s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Leona pero no campeona",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ykW1rJLK+Kb+pgXaIqTEsUgo5gb5gEbkNZ3vP42dHztU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El juego de la vida",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ygyS8rQYFFzYuoqJXJ9EaqcIKDkFQhVcXW5hVmfW+2S4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Pizza Delivery",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ysbeprvl27S8B+fN794gVgc2J8/EnfmOJbX9rmCxXaRg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Todas se casan menos vos",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yXSQCFNiV9PxjiifrgRFvjXtSWR1l1bcb/1ryQDOY0QQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rota y Roto",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yg04lpdw/30kSBwsrVMIR1f0K6BxNfaXmZn3qq0YyYc8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Historia clínica",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yZUUzxVC6qezw+ZV24+wSkQTr6pO58MTX13MzMVIu4fY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Un zapato feo y cómodo",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ythMVfdDRJiBsnwu0GoZyezdeziVXg1ZVtJoHKkf2pF0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Mujer quilombo",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yJkS/Lo39QybQDvs9qRZpaTrYOtu2HGrUDb9NDlf1wWQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La sirenita",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+    "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yR1eoPDTsUK91c+CftftIr3HyHadtIGPWKOZADOAPNXc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+   },
+   {
     "name": "▐ ESTRENOS 2024",
     "mode": false,
     "lista": [

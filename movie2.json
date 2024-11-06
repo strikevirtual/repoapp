@@ -1,145 +1,26 @@
 [
 
    {
-    "name": "🇦🇷 ARGENTINAS",
+    "name": "▐ ESTRENOS 2024",
     "mode": false,
     "lista": [
-      {
-    "name": "CASI MUERTA (2023)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSezYOBs7H3RG8rDcjsK3MqluxN.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiUA9YTXJ5EDs+IkuTZ69PC8=",
+     {
+    "name": "Apocalipsis Z: El principio del fin (2024)",
+    "ico": "https://image.tmdb.org/t/p/w300/2S7KFwcxTjlkjCu6jIbtUSrSQlT.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lRjRgUhed8JR8ObllUABnhLryOburXSTO1LT52lv+8nZfl9cJ5VmqyHWzxCMnMLtPZ9SMDQ66N7sqwPQkny1U01zMbur9Rlzds17MwjgE/Wc",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Ahí afuera. (2024)",
-    "ico": "https://i.ibb.co/X2g25nW/descarga-1.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lb7iDLaD3zQa87Jee2QYP29a0Ocwgmnb7pnpHDzXXiVdKgg4DEgEuDt1WySxMZeyDg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },     
-  {
-    "name": "Venom: El último baile. (2024)",
-    "ico": "https://i.ibb.co/Dk4H1ZG/descarga.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lfooEU+Rt0j01yqARbfDhUmUUqgtlpXdwjJQfxwf4Dtts/Dr8+IItsetE7I1+DyZcA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CUANDO ACECHA LA MALDAD (2023)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZMIXnSxEn64FDKciRnAxBCe3q9.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiRZrAepL/sd6DAqNC7I6bQ4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DESCANSAR EN PAZ (2024)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xdbXo63wcUZ3TLwrjwg35m1TEm.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxifIvsBW5sxUF1z31OOPoPPU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ECOS DE UN CRIMEN",
-    "ico": "https://image.tmdb.org/t/p/w780/1ilviUUwqRzWDgOYqjZTmlUFbxR.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxieNWNeEPpxSY6lE/cRJPb/g=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL HOMBRE QUE AMABA LOS PLATOS VOLADORES  LAT (2024)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE9PHoaOXF5HeLRvFuiqAm7SAU5.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiT1LRlb087J34eQEmG3Tym4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ESPERANDO LA CARROZA",
-    "ico": "https://image.tmdb.org/t/p/w780/qkSThbNiC6kimvLlWrgeTNYLCeq.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiSTI/MqRBCTS48cC5w0nV38=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GRANIZO (2022)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiUup9DdJ82pRjZ4hT8mCKwc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "INDUSTRIA ARGENTINA (2012)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAt1f09PAVccj4CKdhL4Q3j87qo.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxidEc7bLitQvaT0J6UmbAVBk=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA EXTORSION (2023)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fn3Z1gfVUDWd8ZQ9m2VhdwCFCMW.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiY1PNC15lx6WWeDbKked1ik=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA ODISEA DE LOS GILES (2019)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rVakDWkFn1G0z6e1tRRY5IZ3aa.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiWQwtSoU1qtvknI2Bcqcu+A=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS LADRONES: LA VERDADERA HISTORIA DEL ROBO DEL SIGLO (2022)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/WC1pBBTiUIvj2jfUI82Z3XheZK.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiVi6Pai9/TO4FKJK8ZppYhs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ME CASÉ CON UN BOLUDO (2016)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rWo38m3XwcbOeArt2UOixPtkoB9.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxifKnTJ/ODf8Q4wqI/L/R6U4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MI OBRA MAESTRA (2018)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiO0l4BwbcDqwxR4tz31GkK5ZJE.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiX/Np+LWVtdefIeJsC7zbUs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "NAHIR (2024) LAT (2024)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3lCerAA6lArxaVskPqR586GJqB5.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiQqkpy00apjGNfVPJMLyApk=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "RELATOS SALVAJES (2014)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ttaZHjuyiyBqH85sOBqgWxczqdJ.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiS8I9CfLLsNSVQlrfXb0AS4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SANGRE BLANCA (2018)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1NYu98NyGSbob0K0uM8qNKd9LI.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiWdLb5HvKPD7YphmI8Rx+Tc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SIN RETORNO (2020)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qn36s5wdg0l7bJzYijeQlZRxYkr.jpg",
-    "uri": "wIlS+wApZX+/QfT/rSF6aS9wfDtFKAJseYQGl4fjmN3SP8uruOZEVIZoGpfbn422UYNjlh7Zf3oe0mod/bbxiedemG00dOG5RMLANm2c5b0=",
+    "name": "MaXXXine (2024)",
+    "ico": "https://i.ibb.co/9G2phBk/maxx.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWGb+j22Otsa5j0fZAKEfrRkxLwzSWlDYN2sxRYSWl6E",
     "drm_scheme": "",
     "drm_license_url": ""
   }
     ]
   },
-   {
+  {
     "name": "▐ ESTRENOS 2024",
     "mode": false,
     "lista": [

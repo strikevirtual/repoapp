@@ -4,7 +4,7 @@
     "name": "▐ ESTRENOS 2024",
     "mode": false,
     "lista": [
-     {
+       {
     "name": "Apocalipsis Z: El principio del fin (2024)",
     "ico": "https://image.tmdb.org/t/p/w300/2S7KFwcxTjlkjCu6jIbtUSrSQlT.jpg",
     "uri": "nnQ4vk+dR/V6QKQ9uqk/lRjRgUhed8JR8ObllUABnhLryOburXSTO1LT52lv+8nZfl9cJ5VmqyHWzxCMnMLtPZ9SMDQ66N7sqwPQkny1U01zMbur9Rlzds17MwjgE/Wc",
@@ -12,6 +12,13 @@
     "drm_license_url": ""
   },
   {
+    "name": "Robot salvaje (2024)",
+    "ico": "https://image.tmdb.org/t/p/w300/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lf+bq/8P6orXzgVhxNRaTAWNPdwoDeeK7HSiFru3knbIRhzTzRLV3D+BBffLvcA955M7gAFUrLrm0yxveKqcjUQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
     "name": "MaXXXine (2024)",
     "ico": "https://i.ibb.co/9G2phBk/maxx.jpg",
     "uri": "nnQ4vk+dR/V6QKQ9uqk/lWGb+j22Otsa5j0fZAKEfrRkxLwzSWlDYN2sxRYSWl6E",

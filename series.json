@@ -5,19 +5,19 @@
     "mode": false,
     "lista": [
        {
-    "name": "Apocalipsis Z: El principio del fin (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/2S7KFwcxTjlkjCu6jIbtUSrSQlT.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lRjRgUhed8JR8ObllUABnhLryOburXSTO1LT52lv+8nZfl9cJ5VmqyHWzxCMnMLtPZ9SMDQ66N7sqwPQkny1U01zMbur9Rlzds17MwjgE/Wc",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-         "name": "Todo sobre Vicky",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yyJMXApYR61sfyd2v/r5P1XVGW4YszAA+X9NuZQo4wUM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+          "name": "Apocalipsis Z: El principio del fin (2024)",
+          "ico": "https://image.tmdb.org/t/p/w300/2S7KFwcxTjlkjCu6jIbtUSrSQlT.jpg",
+          "uri": "nnQ4vk+dR/V6QKQ9uqk/lRjRgUhed8JR8ObllUABnhLryOburXSTO1LT52lv+8nZfl9cJ5VmqyHWzxCMnMLtPZ9SMDQ66N7sqwPQkny1U01zMbur9Rlzds17MwjgE/Wc",
+          "drm_scheme": "",
+          "drm_license_url": ""
+      },
+      {
+          "name": "Guasón 2: Folie à Deux (2024)",
+          "ico": "https://image.tmdb.org/t/p/w300/tMMYwxrPwVPrxz3DqXs8DnVIOx0.jpg",
+          "uri": "nnQ4vk+dR/V6QKQ9uqk/lV5O0iOmn1/4ER6GUUTByyqK+jtOla7wXYXGoBwJ/s2MG0eKLvlkRJIf24VeUDI2OA==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+       },     
        {
          "name": "Barrilete cósmico",
          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",

@@ -1,6 +1,4 @@
-[
-   
-   {
+{
  "name": "SERIES-ESTRENOS",
  "mode": true,
  "lista": [
@@ -355,6 +353,5 @@
        }
      ]
    }
-  ] 
-      
- 
+ ]
+}

@@ -1,3 +1,4 @@
+]
 [
 
 {
@@ -11,23 +12,23 @@
      "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
      "temporada": [
        {
-    "name": "Rematch",
-    "ico": "https://image.tmdb.org/t/p/w300/X9iFHeIYgfqoZImvdidx8b9v4R.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lfkIBe+VEZpaM1jYTa51F/yYEjujiLG8+OwYiM9rafxvpYGy/7Z1A/oJLiZ3u5p/9kzq4nAFElaWxLKoEUczZ9FCXBk8MHDeTs9Tk/KoedjdYivBGLwtS+x0+wvg+0ov9w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+         "name": "Todo sobre Vicky",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yyJMXApYR61sfyd2v/r5P1XVGW4YszAA+X9NuZQo4wUM=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
        {
-    "name": "Rematch",
-    "ico": "https://image.tmdb.org/t/p/w300/X9iFHeIYgfqoZImvdidx8b9v4R.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lfkIBe+VEZpaM1jYTa51F/yYEjujiLG8+OwYiM9rafxvpYGy/7Z1A/oJLiZ3u5p/9kzq4nAFElaWxLKoEUczZ9FCXBk8MHDeTs9Tk/KoedjdYivBGLwtS+x0+wvg+0ov9w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+         "name": "Barrilete cósmico",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yCi8yEdx6ZBTdv5ghPZf14n4QcEcKCtByl43Pbmk2zJo=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
        {
-         "name": "Before (2024): 1×2",
-         "ico": "https://image.tmdb.org/t/p/w300/AeoPVoc7Ojq7zZ6bujJCZFeKhDM.jpg",
-         "uri": "http://62.146.179.159/series/Before.S01E01.2024.WEB-DL.1080p-Dual-Lat.mkv",
+         "name": "Ametralladora de likes",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
+         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yIWxzeK/7i3QUv9cjOIbFxbm564NM+YYgOx7k3u/Dq4s=",
          "drm_scheme": "",
          "drm_license_url": ""
        },
@@ -1071,15 +1072,15 @@
          "drm_license_url": ""
        },
        {
-         "name": "LOS SIMPSONS 27-30",
-         "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-         "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2SKCie2tZoqoMx9nesF7Tg7Z04lFLrCizTa77cbhCHe8=",
-         "drm_scheme": "",
-         "drm_license_url": ""
+        "name": "LOS SIMPSONS 27-30",
+        "ico": "https://logo.iptveditor.com/lessimpsons1.png",
+        "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2SKCie2tZoqoMx9nesF7Tg7Z04lFLrCizTa77cbhCHe8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
 }
 
-        ]
-      }
-    ]
-  }
+       ]
+     }
+   ]
+ }
 ]

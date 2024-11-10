@@ -1,4 +1,3 @@
-
 [
 
 {
@@ -1072,15 +1071,15 @@
          "drm_license_url": ""
        },
        {
-        "name": "LOS SIMPSONS 27-30",
-        "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-        "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2SKCie2tZoqoMx9nesF7Tg7Z04lFLrCizTa77cbhCHe8=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-}
+         "name": "LOS SIMPSONS 27-30",
+         "ico": "https://logo.iptveditor.com/lessimpsons1.png",
+         "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2SKCie2tZoqoMx9nesF7Tg7Z04lFLrCizTa77cbhCHe8=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+              }
 
-       ]
-     }
-   ]
- }
+        ]
+      }
+    ]
+  }
 ]

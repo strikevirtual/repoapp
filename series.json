@@ -74,34 +74,34 @@
     "drm_license_url": ""
   },
        {
-         "name": "Rota y Roto",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yg04lpdw/30kSBwsrVMIR1f0K6BxNfaXmZn3qq0YyYc8=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "La jaula (2024) EP 3",
+    "ico": "https://image.tmdb.org/t/p/w300/oqwXvmfgWV0lADWwfBlyGKepwjY.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lYD/rFR8JjJiXykf4kS4rQKyDumwaiizippPPn5C7IDl5HEQTtQaOSuAJY6VX+e4qsHLGoXnpwT4cUELa2JLWaA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "Historia clínica",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yZUUzxVC6qezw+ZV24+wSkQTr6pO58MTX13MzMVIu4fY=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "La jaula (2024) EP 4",
+    "ico": "https://image.tmdb.org/t/p/w300/3f3DujIo6Z52t4vb2U7JZAgnMPz.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lYD/rFR8JjJiXykf4kS4rQJ4RXNqUpEhOEKaxfXA71ZLDtqBOJZanWXBVzHufO95PfL22mD7vlEM2ZsAf0tz6ME=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "Un zapato feo y cómodo",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ythMVfdDRJiBsnwu0GoZyezdeziVXg1ZVtJoHKkf2pF0=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Mujer quilombo",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yJkS/Lo39QybQDvs9qRZpaTrYOtu2HGrUDb9NDlf1wWQ=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
+    "name": "La jaula (2024) EP 5",
+    "ico": "https://image.tmdb.org/t/p/w300/e43Wo6eyHMAYi4TL9NWWuMrSFDj.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lYD/rFR8JjJiXykf4kS4rQLPXdNDNmCwRoBiyma2FD8a9sO3d2opAqZA7MRA5BcsD9Rt4ooxUbtMOLoSmL9/il0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+   },
+   {
+     "tipo": "serie",
+     "name": "La jaula (2024)",
+     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+     "temporada": [
+        {
          "name": "La sirenita",
          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
          "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yR1eoPDTsUK91c+CftftIr3HyHadtIGPWKOZADOAPNXc=",

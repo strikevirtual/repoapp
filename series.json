@@ -51,7 +51,14 @@
          "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ygyS8rQYFFzYuoqJXJ9EaqcIKDkFQhVcXW5hVmfW+2S4=",
          "drm_scheme": "",
          "drm_license_url": ""
-       },
+       }
+     ]
+   },
+   {
+     "tipo": "serie",
+     "name": "MARGARITA: QUE TU CUENTO VALGA LA PENA",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+     "temporada": [
        {
          "name": "Pizza Delivery",
          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",

@@ -106,16 +106,9 @@
          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
          "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yR1eoPDTsUK91c+CftftIr3HyHadtIGPWKOZADOAPNXc=",
          "drm_scheme": "",
-         "drm_license_url": ""
-       }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "MARGARITA: QUE TU CUENTO VALGA LA PENA",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-     "temporada": [
-       {
+         "drm_license_url": ""  
+        },
+        {  
          "name": "Episodio 1",
          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
          "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y6ECrlYcQgCttzTzKKpywaH3+3wOcER2g8yKVkfpJlz0=",

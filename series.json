@@ -135,14 +135,14 @@
     "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGycmMXgpuEzlaPlX+oxgkmrQ==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-       {
-         "name": "Episodio 5",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yD63gjKz6uzzAqtNo1epI0H14C2+fQvs5o9ayEj3mO+I=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+  }
+     ]
+   },
+   {
+     "tipo": "serie",
+     "name": "La jaula (2024)",
+     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+     "temporada": [
        {
          "name": "Episodio 6",
          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",

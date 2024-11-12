@@ -108,13 +108,13 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-        {  
-         "name": "Episodio 1",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y6ECrlYcQgCttzTzKKpywaH3+3wOcER2g8yKVkfpJlz0=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+        {
+    "name": "Dragon Ball DAIMA EP 2",
+    "ico": "https://image.tmdb.org/t/p/w300/h6ZzSPzRbGqFhvPJwrDrL6E3zr0.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4FtSfnKSIoHITrjjbdAa5Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
          "name": "Episodio 2",
          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",

@@ -56,16 +56,16 @@
    },
    {
      "tipo": "serie",
-     "name": "MARGARITA: QUE TU CUENTO VALGA LA PENA",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wnkSL5NEHIRuEJ5A13R580WmXh.jpg",
+     "name": "La jaula (2024)",
+     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
      "temporada": [
        {
-         "name": "Pizza Delivery",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ysbeprvl27S8B+fN794gVgc2J8/EnfmOJbX9rmCxXaRg=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "La jaula (2024) EP 1",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lYD/rFR8JjJiXykf4kS4rQI7KRsqCvXlnlOpnV46AnROl0GUVTJH2SjV1y52coTtT9A9srPauw05iyeLL1/loP8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
          "name": "Todas se casan menos vos",
          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",

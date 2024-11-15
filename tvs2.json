@@ -27,10 +27,10 @@
   },
   {
     "name": "TELEFE",
-    "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDUxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400132950",
-    "uri": "EK37m29rGU7R9fv/4u/mwnC3C3+fznqNMt2HJu/wbWBmpT+Z+zS7zwFaSOkTN8Aqd+2mYCdvrMyo3O+cWUFzMkuwYA27Ilj8kDHUT2RlPufdg0OGKfg8O5BW4S5TGp33",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFC2tfgnqN5GPZiDwPbT/f/IyCJCm82JhxYz+9rCWzH+793nLsXMb8lw4SzBCLmPW5Q=="
+    "ico": "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/7f/d5/f6/7fd5f6b4-d631-caa8-8df0-fe475c67f6e4/source/256x256bb.jpg",
+    "uri": "http://tecnozone.site:8880/live/CarlosAw/AwaisCa/384.m3u8",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "EL TRECE",

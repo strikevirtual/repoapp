@@ -500,31 +500,80 @@
      "ico": "https://image.tmdb.org/t/p/w780/fVIeVmMg9ETRngnaFsAc3O6b3SS.jpg",
      "temporada": [
        {
-         "name": "1.ª parte: El profeta",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVIeVmMg9ETRngnaFsAc3O6b3SS.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DZWjYeNJtVekLZ7TaZofPv2WKP5Rx90EQf2iCHU/YCJM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "2.ª parte: Las plagas",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVIeVmMg9ETRngnaFsAc3O6b3SS.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DgNahdOKYjR0ne/LxZ57FCIDbbvfT+rYz44JlvDFZb6g=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "3.ª parte: La tierra prometida",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVIeVmMg9ETRngnaFsAc3O6b3SS.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DwMwNISx/8iOXVRICj18kZycOPEyQ2I0LdW/n7FTaHPU=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
+    "name": "La Biblia S1 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qF0UkyH865w6xLAIziuB0llyq4.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys1euogyefGP6qFts7F3arLrj5T0ft9Elz2XuOXRBqPaJUMfqCAn9KPi+hhkdj2FRW",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7f2lQ6JWN9ElylsSY3AOoQbayyw.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyss55bVWCtRHrMRgz29+FR7EZn0zeegrmC9fTXm2SfLvIBIRv/R4kfPuVMvUk1lYYT",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZp2PY6TJ1q13JFnBF4UVeIDg1s.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysvlkHS4gM5rEEEY/KghQE2rFL237T37mMGv7UyEehb7ywGBbuUaI5xH3w9tzu5cWI",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsOpKK93tCcu1E9XOqCx0aixRdB.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysnjRuNu0wAwEGMHPArRpE6TO7DqL0soYmMYTmt3JtAazP9Q9fGm7ZY3dPPDlUZXk7",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysZzt39cPGP4UHFFw1cM7ctZAj4fFkgkNPw/LKGZSxqJ+601gqbnz7eSW1zzj73BJi",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys0lzKoRchUCJOlEzUzmcG9UVB3qzXkqN217T5dS0iCzNvmYuuSVGCuZ6hm5MqInLj",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysoHsRqAvFWNcw0PvMY8/NVwGb2h3Asl08TmTCRlFAB5FAT1PqkV172nP4kBvJ5Zki",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E8",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyszMoV2U8yBy8069zwfStWDQ2uP76c86QwIqQKIpX6BJpNnDqeZ5wJhKpheO1ORbN1",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E9",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys+O7mKW64UUoxiiT8dW5cJQKzRtY/97MR8l20CPawe+5W6Z/1HOBUNQPO2znH7eXU",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "GIrU6PBIehQ2wyl37NFJ7w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+     }
      ]
    }
  ]
 },
-{
+{ 
  "name": "SERIES-DISNEY+",
  "mode": true,
  "lista": [

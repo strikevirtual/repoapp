@@ -568,13 +568,13 @@
     "uri": "GIrU6PBIehQ2wyl37NFJ7w==",
     "drm_scheme": "",
     "drm_license_url": ""
-     }
-     ]
-   },
+   }
+  ]   
+   }, 
    { 
- "name": "La Biblia temporada 2",
- "mode": true,
- "lista": [
+    "name": "La Biblia temporada 2",
+    "mode": true,
+    "lista": [
    {
     "name": "La Biblia S2 E1",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
@@ -659,7 +659,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-     ]
+   ]
    }
  ]
 },

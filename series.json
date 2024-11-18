@@ -571,12 +571,7 @@
    }
   ]   
    }, 
-   { 
-    "tipo": "serie",
-     "name": "La Biblia temporada 2",
-     "ico": "https://www.aciprensa.com/imagespp/miniserie-la-biblia-Telemundo.jpg?jpg",
-     "temporada": [
-       {
+   {
     "name": "La Biblia S2 E1",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
     "uri": "GIrU6PBIehQ2wyl37NFJ7w==",

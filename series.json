@@ -660,8 +660,10 @@
     "drm_license_url": ""
   }
      ]
-   },
-   {
+   }
+ ]
+},
+{
      "tipo": "serie",
      "name": "EL ENCARGADO TEMP 1",
      "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",

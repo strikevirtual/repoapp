@@ -573,7 +573,7 @@
    }, 
    { 
     "tipo": "serie",
-     "name": "La Biblia temporada 1",
+     "name": "La Biblia temporada 2",
      "ico": "https://www.aciprensa.com/imagespp/miniserie-la-biblia-Telemundo.jpg?jpg",
      "temporada": [
        {
@@ -660,11 +660,9 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-   ]
-   }
- ]
-},
-{
+  ]   
+   }, 
+   {
      "tipo": "serie",
      "name": "EL ENCARGADO TEMP 1",
      "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",

@@ -835,16 +835,15 @@
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/05a6f66b-4282-4a88-ab8e-8202aba86e14.mp4",
         "drm_scheme": "",
         "drm_license_url": ""
-        
     }
-  ]   
+   ]   
    }, 
    {
      "tipo": "serie",
      "name": "APOCALIPSIS TEMPORADA 2",
      "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2000/12/w1280/hOwTkAgULeJGSKWmI4C4YnWV5dD.jpg",
      "temporada": [
-       {
+          {
         "name": "Apocalipsis S1 E25",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/351d9b3a-fc7c-4bec-87c6-4fb289a11551.mp4",
@@ -1211,8 +1210,7 @@
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/1e170366-79b6-4475-bb15-647ddb975fc2.mp4",
         "drm_scheme": "",
         "drm_license_url": ""
-        
-    }
+   }
   ]   
    }, 
    {

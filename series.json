@@ -10,84 +10,75 @@
      "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
      "temporada": [
        {
-        "name": "La Biblia S1 E1",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qF0UkyH865w6xLAIziuB0llyq4.jpg",
-        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/34f417b2-792b-4d22-841f-03da2748fc5a.mp4",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        
-        "name": "La Biblia S1 E2",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7f2lQ6JWN9ElylsSY3AOoQbayyw.jpg",
-        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/bc28c063-5433-40b2-95e2-f96ae28e1405.mp4",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-       
-        "name": "La Biblia S1 E3",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZp2PY6TJ1q13JFnBF4UVeIDg1s.jpg",
-        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/42401624-1aa1-465a-a021-8117e0723f13.mp4",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-       
-        "name": "La Biblia S1 E4",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsOpKK93tCcu1E9XOqCx0aixRdB.jpg",
-        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/1efb9a00-cf60-45b0-82ac-6cf8af116d5d.mp4",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-   
-        "name": "La Biblia S1 E5",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/95ef32f6-280e-461c-afea-01bdb28f015e.mp4",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        
-        "name": "La Biblia S1 E6",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/c20edb89-5868-41a4-99b0-e8ed576709d5.mp4",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        
-        "name": "La Biblia S1 E7",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/8aadf4e2-d765-49cb-a1fa-28f17b10a15e.mp4",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        
-        "name": "La Biblia S1 E8",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/d93d4646-3652-47b4-9f9f-e7aea6074840.mp4",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        
-        "name": "La Biblia S1 E9",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/ae1a6a1c-76f2-465f-9294-add959ef49f6.mp4",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        
-        "name": "La Biblia S1 E10",
-        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/366b14f3-f070-4481-aa6e-3bd0a9cbe2af.mp4",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      }
+    "name": "La Biblia S1 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qF0UkyH865w6xLAIziuB0llyq4.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys1euogyefGP6qFts7F3arLrj5T0ft9Elz2XuOXRBqPaJUMfqCAn9KPi+hhkdj2FRW",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7f2lQ6JWN9ElylsSY3AOoQbayyw.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyss55bVWCtRHrMRgz29+FR7EZn0zeegrmC9fTXm2SfLvIBIRv/R4kfPuVMvUk1lYYT",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZp2PY6TJ1q13JFnBF4UVeIDg1s.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysvlkHS4gM5rEEEY/KghQE2rFL237T37mMGv7UyEehb7ywGBbuUaI5xH3w9tzu5cWI",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsOpKK93tCcu1E9XOqCx0aixRdB.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysnjRuNu0wAwEGMHPArRpE6TO7DqL0soYmMYTmt3JtAazP9Q9fGm7ZY3dPPDlUZXk7",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysZzt39cPGP4UHFFw1cM7ctZAj4fFkgkNPw/LKGZSxqJ+601gqbnz7eSW1zzj73BJi",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys0lzKoRchUCJOlEzUzmcG9UVB3qzXkqN217T5dS0iCzNvmYuuSVGCuZ6hm5MqInLj",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysoHsRqAvFWNcw0PvMY8/NVwGb2h3Asl08TmTCRlFAB5FAT1PqkV172nP4kBvJ5Zki",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E8",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyszMoV2U8yBy8069zwfStWDQ2uP76c86QwIqQKIpX6BJpNnDqeZ5wJhKpheO1ORbN1",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E9",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys+O7mKW64UUoxiiT8dW5cJQKzRtY/97MR8l20CPawe+5W6Z/1HOBUNQPO2znH7eXU",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Biblia S1 E10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysExcykELO1MkH/dvuDHd5niQWEQ0eXp/e4mfN2ChmVtNwOKKkVqgy62xmkU8XgSbd",
+    "drm_scheme": "",
+    "drm_license_url": ""
+ }
      ]
    },
    {

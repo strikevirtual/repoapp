@@ -1284,16 +1284,15 @@
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/5381fb34-e822-4d86-b7f0-6d11a2436975.mp4",
         "drm_scheme": "",
         "drm_license_url": ""
-        
     }
-     ]
-   },
+  ]   
+   }, 
    {
      "tipo": "serie",
      "name": "APOCALIPSIS TEMPORADA 2",
      "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2000/12/w1280/hOwTkAgULeJGSKWmI4C4YnWV5dD.jpg",
      "temporada": [
-       {
+          {
         "name": "Apocalipsis S1 E81",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/9f122cf7-06d9-41f3-b004-c721632ba48b.mp4",
@@ -1890,10 +1889,9 @@
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/04c662ee-7486-4516-93be-1025ed24fb44.mp4",
         "drm_scheme": "",
         "drm_license_url": ""
-        
-    }
-     ]
-   },
+   }
+  ]   
+   }, 
    {
      "tipo": "serie",
      "name": "EL ENCARGADO TEMP 3",

@@ -836,8 +836,15 @@
         "drm_scheme": "",
         "drm_license_url": ""
         
-    },
-    {
+    }
+  ]   
+   }, 
+   {
+     "tipo": "serie",
+     "name": "APOCALIPSIS TEMPORADA 2",
+     "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2000/12/w1280/hOwTkAgULeJGSKWmI4C4YnWV5dD.jpg",
+     "temporada": [
+       {
         "name": "Apocalipsis S1 E25",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/351d9b3a-fc7c-4bec-87c6-4fb289a11551.mp4",
@@ -1205,8 +1212,15 @@
         "drm_scheme": "",
         "drm_license_url": ""
         
-    },
-    {
+    }
+  ]   
+   }, 
+   {
+     "tipo": "serie",
+     "name": "APOCALIPSIS TEMPORADA 2",
+     "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2000/12/w1280/hOwTkAgULeJGSKWmI4C4YnWV5dD.jpg",
+     "temporada": [
+         {
         "name": "Apocalipsis S1 E71",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/89c74f7f-3fcc-4e64-a120-3ab72df17a66.mp4",

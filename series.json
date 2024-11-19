@@ -6,93 +6,88 @@
     "lista": [
        {
      "tipo": "serie",
-     "name": "ENVIDIOSA",
+     "name": "LA BIBLIA TEMPORADA 1",
      "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
      "temporada": [
        {
-         "name": "Todo sobre Vicky",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yyJMXApYR61sfyd2v/r5P1XVGW4YszAA+X9NuZQo4wUM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Barrilete cósmico",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yCi8yEdx6ZBTdv5ghPZf14n4QcEcKCtByl43Pbmk2zJo=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Ametralladora de likes",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yIWxzeK/7i3QUv9cjOIbFxbm564NM+YYgOx7k3u/Dq4s=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Leona pero no campeona",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ykW1rJLK+Kb+pgXaIqTEsUgo5gb5gEbkNZ3vP42dHztU=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El juego de la vida",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ygyS8rQYFFzYuoqJXJ9EaqcIKDkFQhVcXW5hVmfW+2S4=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Pizza Delivery",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ysbeprvl27S8B+fN794gVgc2J8/EnfmOJbX9rmCxXaRg=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Todas se casan menos vos",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yXSQCFNiV9PxjiifrgRFvjXtSWR1l1bcb/1ryQDOY0QQ=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Rota y Roto",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yg04lpdw/30kSBwsrVMIR1f0K6BxNfaXmZn3qq0YyYc8=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Historia clínica",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yZUUzxVC6qezw+ZV24+wSkQTr6pO58MTX13MzMVIu4fY=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Un zapato feo y cómodo",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ythMVfdDRJiBsnwu0GoZyezdeziVXg1ZVtJoHKkf2pF0=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Mujer quilombo",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yJkS/Lo39QybQDvs9qRZpaTrYOtu2HGrUDb9NDlf1wWQ=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "La sirenita",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/as8cTNJrvVc4mRsU6V1f8puPK4X.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yR1eoPDTsUK91c+CftftIr3HyHadtIGPWKOZADOAPNXc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
+        "name": "La Biblia S1 E1",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qF0UkyH865w6xLAIziuB0llyq4.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/34f417b2-792b-4d22-841f-03da2748fc5a.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        
+        "name": "La Biblia S1 E2",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7f2lQ6JWN9ElylsSY3AOoQbayyw.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/bc28c063-5433-40b2-95e2-f96ae28e1405.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+       
+        "name": "La Biblia S1 E3",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZp2PY6TJ1q13JFnBF4UVeIDg1s.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/42401624-1aa1-465a-a021-8117e0723f13.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+       
+        "name": "La Biblia S1 E4",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsOpKK93tCcu1E9XOqCx0aixRdB.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/1efb9a00-cf60-45b0-82ac-6cf8af116d5d.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+   
+        "name": "La Biblia S1 E5",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/95ef32f6-280e-461c-afea-01bdb28f015e.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        
+        "name": "La Biblia S1 E6",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/c20edb89-5868-41a4-99b0-e8ed576709d5.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        
+        "name": "La Biblia S1 E7",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/8aadf4e2-d765-49cb-a1fa-28f17b10a15e.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        
+        "name": "La Biblia S1 E8",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/d93d4646-3652-47b4-9f9f-e7aea6074840.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        
+        "name": "La Biblia S1 E9",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/ae1a6a1c-76f2-465f-9294-add959ef49f6.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        
+        "name": "La Biblia S1 E10",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/366b14f3-f070-4481-aa6e-3bd0a9cbe2af.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
      ]
    },
    {

@@ -1,7 +1,7 @@
+]
 [
 
- 
-   {
+{
  "name": "SERIES-ESTRENOS",
  "mode": true,
  "lista": [
@@ -1079,8 +1079,8 @@
         "drm_license_url": ""
 }
 
-        ]
-      }
-    ]
-  }
+       ]
+     }
+   ]
+ }
 ]

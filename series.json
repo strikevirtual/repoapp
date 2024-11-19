@@ -178,68 +178,188 @@
      "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
      "temporada": [
        {
-         "name": "Wanda Maximoff",
-         "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-         "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5DpzPEpC995avWpTu3S4Atg==",
-         "drm_scheme": "",
-         "drm_license_url": ""
+        
+        "name": "Apocalipsis S1 E1",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/a7bde198-1874-4593-87a8-1d5e14f0f907.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+       }, 
+       {
+        "name": "Apocalipsis S1 E2",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/541a2118-aead-42b9-b8ae-838ecb28367b.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
        },
        {
-         "name": "Visión",
-         "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-         "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5SpmOb7z2oec4TUagQ/UYlQ==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Falcon",
-         "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-         "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5rvBB19tY5M3oQ0qw0dL81g==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El Soldado de Invierno",
-         "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-         "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5yeYkoPuFPk1iyk0773F7pw==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Barón Zemo",
-         "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-         "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5WJTN8SFRjbbtOnslPt6dGA==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Sharon Carter",
-         "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-         "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5PwflbiUusksQwvtpsQ3hjA==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Loki",
-         "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-         "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5wlY+5PhfDZIr7xJA02akXQ==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El Teseracto",
-         "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-         "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5ejJ6AA6+tis1IkWG/WlSiw==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Viuda Negra",
-         "ico": "https://image.tmdb.org/t/p/w780/apFUonh1wVE3LWxbAjJC2zJqZOC.jpg",
-         "uri": "roKOglSAK7cbSKXXxafZtcaYFVLKtHejhK5iuvo3OttRaptSIjGaO/QV/mLkgLW5HsPZN/eoqloVNIGVSOPdOg==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
+        "name": "Apocalipsis S1 E3",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/32c97050-b20a-4dcf-a307-cf776f98fb47.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E4",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/d502643d-836f-4b57-89f0-fe395d889fa3.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E5",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/1b3b5be3-2a12-4cda-809b-94e7db3215ed.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+     },
+     {
+        "name": "Apocalipsis S1 E6",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/1b990764-5810-4325-aa79-9d9b860a9c70.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     },
+     {
+        "name": "Apocalipsis S1 E7",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/c6b8193a-1b47-4f07-ad9e-449c035384bb.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     },
+     {
+        "name": "Apocalipsis S1 E8",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/8c21ee32-ce66-4a8d-8feb-ccafc3a00dbc.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     },
+     {
+        "name": "Apocalipsis S1 E9",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/3f463130-4cca-4b32-866f-f82fd1bfae9b.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     },
+     {
+        "name": "Apocalipsis S1 E10",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/123b70bd-7ce7-49e8-909d-ea093811c16e.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     },
+     {
+        "name": "Apocalipsis S1 E11",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/0d100b82-d3da-4a85-ad04-75c6a10c2e39.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+     },
+     {
+        "name": "Apocalipsis S1 E12",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/cf8da85d-458d-43eb-ae4f-9d609818a0b1.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E13",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/61eeffa6-2cf0-4045-b634-c0c782f6e53f.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E14",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/692eedfb-8a82-419d-8676-c48a29ce0b51.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E15",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/b04baf88-fb4e-4c37-840f-0a5c08eed4d9.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E16",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/d2627af1-01ac-41c1-9309-1d2a0b4c8a51.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E17",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/91d25e68-191a-4139-b5a1-6a894c2f5ae8.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E18",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/05209440-3906-49b2-8f87-63a2c86bc38c.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E19",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/28d9921f-b74c-414d-b0b9-e782963897e7.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E20",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/9ff98a72-8137-43f5-8fd7-ed770dd1d4d3.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E21",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/50599a25-da37-4545-ab3b-240da8938e4b.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E22",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/c068dcca-bdc8-4ac3-b88f-5811fef98875.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E23",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/88d9eab2-e807-4aaf-bdff-e1a0a2c0d917.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     }
      ]
    },
    {

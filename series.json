@@ -550,7 +550,6 @@
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/7b3fb18f-1f60-470e-96de-b7eb641f166b.mp4",
         "drm_scheme": "",
         "drm_license_url": ""
-        
     }
      ]
    },
@@ -559,7 +558,7 @@
      "name": "APOCALIPSIS TEMPORADA 3",
      "ico": "https://m.media-amazon.com/images/M/MV5BMTYyMDEzODAyNV5BMl5BanBnXkFtZTgwMDQxNTYzNTE@._V1_.jpg",
      "temporada": [
-       {
+         {
         "name": "Apocalipsis S3 E1",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/cf3c6834-2cf9-43cc-a29c-5a9afb729656.mp4",
@@ -741,7 +740,6 @@
         "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/49d36332-045d-4404-8e07-e8994a7f0dc9.mp4",
         "drm_scheme": "",
         "drm_license_url": "",
-        
     }
      ]
    }

@@ -675,13 +675,19 @@
     "drm_license_url": ""
      }
      ]
-   },
+   }
+ ]
+},
+{
+ "name": "SERIES",
+ "mode": true,
+ "lista": [
    {
      "tipo": "serie",
      "name": "APOCALIPSIS TEMPORADA 4",
-     "ico": "https://m.media-amazon.com/images/M/MV5BMTYyMDEzODAyNV5BMl5BanBnXkFtZTgwMDQxNTYzNTE@._V1_.jpg",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
      "temporada": [
-         {
+       {
     "name": "Apocalipsis S4 E1",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
     "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysG9DRz+XBZscP56AT6uHMfkYhXVt6oSbez7tNlbtA4bXuGaCqE36+Hui7YYQKqPTA",

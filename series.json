@@ -178,670 +178,512 @@
      "ico": "https://m.media-amazon.com/images/M/MV5BMTYyMDEzODAyNV5BMl5BanBnXkFtZTgwMDQxNTYzNTE@._V1_.jpg",
      "temporada": [
        {
-    "name": "Apocalipsis S1 E1",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysr3bFyyVroCioVxxDePr9eovbf78NvRZznAEjjVJvFxpSSVv0AXz6sn/mBrjiIbwU",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E2",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysrn2M/KFB4j6LZ4dZRbV+jbta4ztWuIQ6AbetZEOAjvs9iidRRFLwgrwViYsUkBrr",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E3",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyscl4YO9s8fAwi+RykoQ4P5Yvi2byffMNRjy9PAGae42o7A14V37NGGP85AwuKs+Wp",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E4",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysY1dE3Lg4PvucCC7fPoCSZMvS7PsAN5zjpn5je89uh0L66fpMUZRgIpm6ozdXk68w",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E5",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyso9Yl5n7tqlc6Y+vedTjdto5ZZdOBubLv9SuUmz2Z4d8d5th+C9fCdIQcvX2l8mHM",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E6",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys2qMfarsmGZT8pvPkEC694y/N2OXktPZjilWlAaC5Zjkx5HfGLzdTQeCQ1S86QY45",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E7",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysBu+0YEb/ktLm1PEYZptWi4OlZ0OOFe8NswuoEyTJcK/AU8WdUEBpwodUIjtHL61W",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E8",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys9FCnN6NNX7vhD+yGGRSkXyNtpwwTpDGsUHMTCtJiVqwVBk1dESdABqie0V6NQLAY",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E9",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysDIHKbYOYKnnyJqRC1Wi9h5QClfx5IjCHDrpu1aP1viU5hmjrB/ICuJjisdxny3if",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E10",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysC8DGesGXyyLqNToCxWBLU89NzSTHjcAcfmoIfmMJuVT6xbBXC1G2Pym4j9zwh0QK",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E11",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysywh3siPmMvtm3MKoRctotEkB7GMPl+k5GbhERAlodQYAUu4acYmlUQXxYlzVUKgT",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E12",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys0+2eOXk50bptum2MrOhOLVRVblYjcnrx+paR4JNizowU4Ldlpkmn3BbJWMOj7KKf",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E13",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys3FAsdp09NODBe3r3rIAz4ZV+TbX1976PIwmAP9QZgpGQ0Sej4u5+CHgnkyrQfyQu",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E14",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysPX+rVx3cBL+cnZKCCwECjqeMcB9KGD7pFADIroo5bNh0a8EpckVXyXQcAdS+xHha",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E15",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysl2uxDeXeZaJC4w5H0shsGunjkSjtKrHO2iypoN3viGqWH6em7vgqh/Ia0KiIk8/w",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E16",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys/UEhhqzq7wZdpw4jibDC96obhe9JGLB+vC95pxLW7EHvZAo0SL1lIK4IneVteZMY",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E17",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysAKJdFLjhxqAHQZlVzFKmFWJTWNoYN5+Sxni/PS7+szbHcRS9pTifdas90Eqx/Cr0",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E18",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysTf5dbc9yKQIiekgme7fbYgw5883qhtsFKO1Ku80Qf51hi4prxxHcEssmdVjcrtyn",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E19",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysO0szjPOWfB3Tcte+2ZEqMWSbt/dm4PoFElar39fg9yUufDNubDU1pWhIo6vobI/1",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E20",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysWMwltdxTiZNaZ6VDOhOUqtoFB3x+HXMQlgaYBgVtcJEZrlBRHK4rGqWqGOXPQpms",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E21",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyse3t9q0HlzFEFLNNfqho76KKPacxwmkhuhwfwAVQyugJenFyocYHTGBkUl+7I3WSu",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E22",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyscfqlr7TGf3PLfX7ov0YyrHaPU8Ad/wwgA/InwNaSv0gPhq4jNCv8rWsbRKHBwV0D",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E23",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysEioatp4f/W/WHyIq7a4hZtx+DtRAdZyxse9TI7W9591TgSFjcAqwd5PAqylVGyH9",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "APOCALIPSIS TEMPORADA 2",
-     "ico": "ttps://m.media-amazon.com/images/M/MV5BMTYyMDEzODAyNV5BMl5BanBnXkFtZTgwMDQxNTYzNTE@._V1_.jpg"",
-     "temporada": [
+        
+        "name": "Apocalipsis S1 E1",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/a7bde198-1874-4593-87a8-1d5e14f0f907.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+       }, 
        {
-    "name": "Apocalipsis S2 E1",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys3GJ1AWiHo/vmCb5NUeIpfyzN/EQN+OdwlFQSaTKqxx6CVWPotxG4BLSpMJ502mJv",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E2",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyseZCQobf+O4QIgxNTCHWjHWp/sO0ck5TWxCi6/ska+RDlGGVRx13MGFkp3lXV2glX",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E3",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysSHwAImiffroV0p4XXojt8OpNih6cJmeEbOHQ7KAnich2Xj7TY0E6xNYENwvbgwnD",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E4",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysQbv3sHfWtsTswFBG4tsBRtnrJ+H1vDwVBW2o+A8DsPpVWIA7Xru/909pL4SSnn2O",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E5",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysohBBRsY5145Q/Ds9A1ompKTAI+3m6QXhUyAZihqgg4TNrlxQx83ry7mIbA9CTGal",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E6",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys/dhAsxoD4VryTTW7JNe/sOgZF3Qz6Fy4Zt0lmdqggRtWausfY14mo0tRnnUW3y+S",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E7",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysH5JMSlVvsm7U043bs+ppLBsTeuJfBWhBjBAZ7sV4JQKCJsW4MsQuZ7rOQ/YAtrPe",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E8",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys6mfXlUAk5dUkNbygHoV29I6ZiIy2PgKAnUNQJgG/SIgxMmy69lCcEOpXDga4zZKd",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E9",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysjhh9Yidnp9UlO20kDuNV+McxLqkN+HyhBCT7ptFMXLwJzexfjcyTwAFkcXhSbaec",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E10",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysy3KkHDK8bH+25IkjCMAmNaqTt/oKQz8AI7VNM72tFYYpaWTo4sxVQ4wPd9SYwXQD",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E11",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyswiFc1MxKxNjBwLi4whDwPnaYcAsLrOe+18Pu90tkrjuhIET3RSCQIouWcokddn8o",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E12",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys1/C7eorVo3llbgMDrk0PPou5HHKvRN/CtzODg2ouLrhCxP2OIRVuls8bkKw3jNyA",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E13",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys+ESF1iBecUKGEiWK8tNY2o7lphVFQt//I3MFQVZYn/2qD+eoMY0N9Vjyx+vyijcK",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E14",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys5BgZWnhkBHHXej6cGwbRimkaiUbbvHpBR0GSEUfSpXcZqRTW3yUk3M0Xs/d2d2Ac",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E15",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysGfUjeEHzwJbBr1IagcIVHvuI63WPZOcyrXa3M8MGbLs/eWRrHkZhYzedJ27Q7DSS",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E16",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyskMKU0MEbZFKmZLTDpvNTxb6Z/Ui9F5vJ5K9EMwoWDLqYhSUBHWpVELbmMuqh1nvV",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E17",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysP/ftxKbLkVpBVEDtqIa5HQ+F9+Mz/cGfB5vB+kc6xXY45Y0iKmoZW9MrbrPtgdlR",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E18",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysKpEcMLrFen9RN9SA+Qcq761y/epZmscoT1FcHaliHEJWGTVCkBbRQqrh9unVS6fn",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E19",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys86rzAfTdrGIAz9pvQ20xPSH63psUMVntBEnwnp8Jmx9yAHNt1Sb3jZDhoGpflzvn",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E20",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysdxsPNmE4EMMlLHn09EjmnEwD8emY+bAB3X+GzAwwhzzwi78KN3us1Kznd8RJzAhE",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E21",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyso2/sC+XBRgv+lR23wNTAP3wZFkm2HovXdHiUDRe6MoJ1cTBC0svBPJqdoxUKU+ls",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E22",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysAhg9jfBhFuNF2PMl62heqUSwSIy+SxwW4jIRAYknGUrqThSBhF7tFDi563zGDuIz",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E23",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysGd4qEKetgkpChR1Kn3c+eyCQCdb+gWidtpIubVFXlUD5xr5VwiphZEMnnVTg/BMe",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "APOCALIPSIS TEMPORADA 3",
-     "ico": "https://m.media-amazon.com/images/M/MV5BMTYyMDEzODAyNV5BMl5BanBnXkFtZTgwMDQxNTYzNTE@._V1_.jpg",
-     "temporada": [
-         {
-    "name": "Apocalipsis S3 E1",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysmFg7VzWbQBuBl7pVdnpR/0pXrvZD8xDm7FsPlUWKLG7LHulSfI1PKBkIl9iSnnAn",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E2",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyso0Cey2fXxmHqi/whEAX+Ijzzphnre7MdubxNT6wEZv1/9B2zKXC4jrb88+UErW7a",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E3",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysH4XloMWSxtU1QyHjFVaXMhxYn2mVIMnC7fuvdKekyyt8wUXFoQjirT1Op9isN+pZ",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E4",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysSiXUUTNdiNDtCbJYZKoV5hHr9WOdcNIs10D4GxweYvmdsHn4ZpV5q2ylq44jbGpc",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E5",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys3KCTw+Ur6TneWknrBP11nLSl2yLPX4+vi3B5PiHTrm5Wmk3R2tDkusAt3SLYPRRw",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E6",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysm0zMGmMOE9ayjvUc9EOd/X7GW6nISjUvtTTEHrm4c8FHJKwdjzpXABMH/bkEKWLg",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E7",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysKj3RSFcrOa/7SGuuUAHy2j5po/4ekApeiSA+BsDX3MOaCb6embNx6b8NakxEZuKe",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E8",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys4VhO10384PIgX4W2Mgq6eMgTM8MIjtfM4WmITGIReL97h2vgn5Dd9Q8vxW/0x2v7",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E9",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysInE3KDoe1yCFoU4R7jOpujj5W7zdx9b929I6sRm0ZbX6VW7tUsGJoWZMo9oJhg8s",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E10",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysOprPMcBW+Nn+7GKyiKJ/X/qvCQz0/NJh/obteUidTduY0RbXN76ft0haLJKalU7Y",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E11",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysZhXoVWqSUTNEx6zvwT8FPn9I1rcWKz95MGVvTfdgJJIdkxm13wVAuHqnrsD4oQV2",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E12",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyskFaL5/YEDNygXSxbPV4s+GYP1JINTYqoP8Gi9r2/ifIZSUW9f7trvKhF7lhN5QPG",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E13",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysExAEVRKNpM2+ydIreaVDQAajHkak2q95QRKBmjTOvpARbXSuNzfHXu8MgVJpSL0S",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E14",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysX8e1iXazChP+oQZpV+ff1L3WPNnRaFCq57GYkW50VwuUY23CEgg1WuKwKoFlnMo8",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E15",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysQYPTbMWutl6yr6UMOkqnu/CGSy5d+ZpxOX0FB2JcwfsIMTwH7mNKHO3aBGoHmhF9",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E16",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysfKtwfpf+coNXfRhYQObecDuhLOvjZRhgBCfpW9Uc1Sk+kz3PSbSDtXPFNOUnp53e",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E17",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyssO8tRrWLyxges/65gTh7HF/i1G7LJCE1HfOtA/B+f5WVEJwxdkrkz1I9vpK8tUh7",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E18",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysxv8BisON/lh86nhuAoAEbx7lQCCvZ5xdeab7Z58mtiB3DQtulB6149msErEHaSph",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E19",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysJU1MaHnFsBmnZH5+299ofl+aZDjAxGXBBOrQ2LJay9/6cXHhSrbnJjb3Ns9GDpgF",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E20",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysSksuAwtzUKeGOmY33rP1P02O0wN2EcD1rFhAOKd0iE1ES4MtNFNWb/RgZlzWcQcs",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E21",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysam7vF9i2dKhGybkRC46L5QvrwdYewRnzhRztKP+YS89rRvxq2JJSrCVQgfSajfUX",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E22",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys3FT77poUm18G2jU3sxOA5rAk4UuMr51yzWoxQcnT8i/oSfWqE/wgnFpSvK1GuSQ9",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E23",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysuuE4hkH1ubeJhpwIZMCVsAMxUrDuNncWs71MxuXrgXAW9R2sp2rN8iImOUB/xhvR",
-    "drm_scheme": "",
-    "drm_license_url": ""
+        "name": "Apocalipsis S1 E2",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/541a2118-aead-42b9-b8ae-838ecb28367b.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+       },
+       {
+        "name": "Apocalipsis S1 E3",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/32c97050-b20a-4dcf-a307-cf776f98fb47.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E4",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/d502643d-836f-4b57-89f0-fe395d889fa3.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E5",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/1b3b5be3-2a12-4cda-809b-94e7db3215ed.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+     },
+     {
+        "name": "Apocalipsis S1 E6",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/1b990764-5810-4325-aa79-9d9b860a9c70.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     },
+     {
+        "name": "Apocalipsis S1 E7",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/c6b8193a-1b47-4f07-ad9e-449c035384bb.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     },
+     {
+        "name": "Apocalipsis S1 E8",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/8c21ee32-ce66-4a8d-8feb-ccafc3a00dbc.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     },
+     {
+        "name": "Apocalipsis S1 E9",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/3f463130-4cca-4b32-866f-f82fd1bfae9b.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     },
+     {
+        "name": "Apocalipsis S1 E10",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/123b70bd-7ce7-49e8-909d-ea093811c16e.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+     },
+     {
+        "name": "Apocalipsis S1 E11",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/0d100b82-d3da-4a85-ad04-75c6a10c2e39.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+     },
+     {
+        "name": "Apocalipsis S1 E12",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/cf8da85d-458d-43eb-ae4f-9d609818a0b1.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E13",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/61eeffa6-2cf0-4045-b634-c0c782f6e53f.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E14",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/692eedfb-8a82-419d-8676-c48a29ce0b51.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E15",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/b04baf88-fb4e-4c37-840f-0a5c08eed4d9.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E16",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/d2627af1-01ac-41c1-9309-1d2a0b4c8a51.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E17",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/91d25e68-191a-4139-b5a1-6a894c2f5ae8.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E18",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/05209440-3906-49b2-8f87-63a2c86bc38c.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E19",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/28d9921f-b74c-414d-b0b9-e782963897e7.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E20",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/9ff98a72-8137-43f5-8fd7-ed770dd1d4d3.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E21",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/50599a25-da37-4545-ab3b-240da8938e4b.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E22",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/c068dcca-bdc8-4ac3-b88f-5811fef98875.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S1 E23",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/88d9eab2-e807-4aaf-bdff-e1a0a2c0d917.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
      }
      ]
    },
    {
      "tipo": "serie",
-     "name": "APOCALIPSIS TEMPORADA 3",
-     "ico": "https://m.media-amazon.com/images/M/MV5BMTYyMDEzODAyNV5BMl5BanBnXkFtZTgwMDQxNTYzNTE@._V1_.jpg",
+     "name": "APOCALIPSIS TEMPORADA 2",
+     "ico": "https://www.aciprensa.com/imagespp/miniserie-la-biblia-Telemundo.jpg?jpg",
      "temporada": [
-         {
-    "name": "Apocalipsis S3 E1",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysmFg7VzWbQBuBl7pVdnpR/0pXrvZD8xDm7FsPlUWKLG7LHulSfI1PKBkIl9iSnnAn",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E2",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyso0Cey2fXxmHqi/whEAX+Ijzzphnre7MdubxNT6wEZv1/9B2zKXC4jrb88+UErW7a",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E3",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysH4XloMWSxtU1QyHjFVaXMhxYn2mVIMnC7fuvdKekyyt8wUXFoQjirT1Op9isN+pZ",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E4",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysSiXUUTNdiNDtCbJYZKoV5hHr9WOdcNIs10D4GxweYvmdsHn4ZpV5q2ylq44jbGpc",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E5",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys3KCTw+Ur6TneWknrBP11nLSl2yLPX4+vi3B5PiHTrm5Wmk3R2tDkusAt3SLYPRRw",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E6",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysm0zMGmMOE9ayjvUc9EOd/X7GW6nISjUvtTTEHrm4c8FHJKwdjzpXABMH/bkEKWLg",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E7",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysKj3RSFcrOa/7SGuuUAHy2j5po/4ekApeiSA+BsDX3MOaCb6embNx6b8NakxEZuKe",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E8",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys4VhO10384PIgX4W2Mgq6eMgTM8MIjtfM4WmITGIReL97h2vgn5Dd9Q8vxW/0x2v7",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E9",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysInE3KDoe1yCFoU4R7jOpujj5W7zdx9b929I6sRm0ZbX6VW7tUsGJoWZMo9oJhg8s",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E10",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysOprPMcBW+Nn+7GKyiKJ/X/qvCQz0/NJh/obteUidTduY0RbXN76ft0haLJKalU7Y",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E11",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysZhXoVWqSUTNEx6zvwT8FPn9I1rcWKz95MGVvTfdgJJIdkxm13wVAuHqnrsD4oQV2",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E12",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyskFaL5/YEDNygXSxbPV4s+GYP1JINTYqoP8Gi9r2/ifIZSUW9f7trvKhF7lhN5QPG",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E13",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysExAEVRKNpM2+ydIreaVDQAajHkak2q95QRKBmjTOvpARbXSuNzfHXu8MgVJpSL0S",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E14",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysX8e1iXazChP+oQZpV+ff1L3WPNnRaFCq57GYkW50VwuUY23CEgg1WuKwKoFlnMo8",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E15",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysQYPTbMWutl6yr6UMOkqnu/CGSy5d+ZpxOX0FB2JcwfsIMTwH7mNKHO3aBGoHmhF9",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E16",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysfKtwfpf+coNXfRhYQObecDuhLOvjZRhgBCfpW9Uc1Sk+kz3PSbSDtXPFNOUnp53e",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E17",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyssO8tRrWLyxges/65gTh7HF/i1G7LJCE1HfOtA/B+f5WVEJwxdkrkz1I9vpK8tUh7",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E18",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysxv8BisON/lh86nhuAoAEbx7lQCCvZ5xdeab7Z58mtiB3DQtulB6149msErEHaSph",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E19",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysJU1MaHnFsBmnZH5+299ofl+aZDjAxGXBBOrQ2LJay9/6cXHhSrbnJjb3Ns9GDpgF",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E20",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysSksuAwtzUKeGOmY33rP1P02O0wN2EcD1rFhAOKd0iE1ES4MtNFNWb/RgZlzWcQcs",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E21",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysam7vF9i2dKhGybkRC46L5QvrwdYewRnzhRztKP+YS89rRvxq2JJSrCVQgfSajfUX",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E22",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys3FT77poUm18G2jU3sxOA5rAk4UuMr51yzWoxQcnT8i/oSfWqE/wgnFpSvK1GuSQ9",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S3 E23",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysuuE4hkH1ubeJhpwIZMCVsAMxUrDuNncWs71MxuXrgXAW9R2sp2rN8iImOUB/xhvR",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+       {
+        "name": "Apocalipsis S2 E1",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/05a6f66b-4282-4a88-ab8e-8202aba86e14.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E2",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/351d9b3a-fc7c-4bec-87c6-4fb289a11551.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E3",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/dbf3d596-f397-4c54-9e5a-f12deb4bd507.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E4",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/2f2bf8c4-e4e8-493a-a7d6-3da1118b9e57.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E5",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/dd36c37a-2c9a-4151-8b0b-1a6416d07611.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E6",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/57e0847c-a062-4272-b72c-2fd6cb1efc33.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E7",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/c52203a1-c767-4a1c-aef3-30bf85cf6bf6.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E8",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/30f0f51b-0fbe-49f1-a4d9-44ebba9bedc6.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E9",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/daf8d44c-70e4-483e-8d8e-cf70cb0ee902.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E10",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/9ba9421d-ce6c-4e1e-aea4-768badfb99e2.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {   
+        "name": "Apocalipsis S2 E11",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/a6ccfbf3-f877-4dcb-a120-3ceabbfe0605.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E12",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/d8e71fe3-654a-420a-ac81-c0f9f152d1b0.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E13",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/e2f7f0b0-049d-4565-b46d-d5e4a6af7161.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E14",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/e962eb52-b687-4c3c-b6b5-49bb24fef56e.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E15",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/7d82eaac-61a1-42e8-900d-be0a2deca242.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E16",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/cb754dae-6558-443e-8ea4-8b9f282157c5.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E17",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/9779e758-e186-4671-bb4d-8e6ce567b220.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+     
+     },
+     { 
+
+        "name": "Apocalipsis S2 E18",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/d2b7cec3-5b8a-45dd-8cbf-fd8670d043e7.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E19",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/8156d513-a687-4d58-8b79-d92a2212a53f.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E20",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/bdfc218b-cc99-471d-82f7-d828aee01ae1.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E21",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/f6c262d7-0470-42e3-8c57-f3a6e3028752.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E22",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/59ad89f2-a570-4f42-9e21-fd0ae598d27c.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    },
+    {
+        "name": "Apocalipsis S2 E23",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
+        "uri": "http://cineflex.cc:8080/series/robinluna1/vgcFdDYAtCfS/7b3fb18f-1f60-470e-96de-b7eb641f166b.mp4",
+        "drm_scheme": "",
+        "drm_license_url": ""
+        
+    }
+     ]
+   },
+   {
+     "tipo": "serie",
+     "name": "CAZADORES DE LEYENDA",
+     "ico": "https://image.tmdb.org/t/p/w780/pfD26Lsst9auQkoHb7GxTzuvuo3.jpg",
+     "temporada": [
+       {
+         "name": "El Amazonas Cap. 1",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAYpW831jBJLsZXhM9jT2/UA3JCB/FpNDyOtOMCfSN/1s=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Roma Cap. 2",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAj6XJEyQ/38ydyo7RU3d5q1ucgDy3crcKDWqe8ZM9Sjc=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Egipto Cap. 3",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAFgIbxmehxppf2AseFWMRMAyw3AosCH971vOkzvQTsPE=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Butan Cap. 4",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAh7rZdTcPk1tfJbXJE6N7PMh8eQFWLKPqqwvReBwWFsE=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Etiopia Cap. 5",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAxG44N71Zr9nyPDscq8ZN7Yt0Kdy+CqkRrvFNzDHlfWU=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Moscu Cap. 6",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAFkfzZ6o4lsCei2fRLyu4+5vnqUZ2x1ikOzfhsgn/oNU=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Camboya Cap. 7",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVA0OYeN6h+VkEPfLYDvsV9Y4v0bwrcaYjXLNaxsrIKVJI=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Caribe Cap. 8",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAlwjM94YYq9YTG1sKM5If1yzJN9ulQA/5YnlGa9F6WaA=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       }
+     ]
+   }
+ ]
+},
+{
+ "name": "SERIES-NETFLIX",
+ "mode": true,
+ "lista": [
+   {
+     "tipo": "serie",
+     "name": "EXPEDIENTES DE LO INEXPLICABLE (2024)",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+     "temporada": [
+       {
+         "name": "Abducción alienígena en Pascaguola",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DpezImpjLzoq8Q+QPVM05EvxRA26KXr9wmgQ+4Yv/W1U=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Los fantasmas de la plantación Myrtles",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNFh6cT4mIL8t6NM+PGKM/i9wtgnMo6SZt2ys6NoCjqc=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Los Cinco de Yuba",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DAY13FmrAzNTbMbv1POjnNiJhNUWhb+jHFiiDXhp0ci8=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "La conspiración ovni",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DnFKGMDG1ggEFbnKIndPffgLVS9IrYptu67IMgNiubEg=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "La maldición del lago Lanier",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DDXkOhwKn2F6jC6R41KXAYKRUlIKwz+M4rcqkqeBcEGU=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Los misterios del monte Shasta",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D1COhBLeG3b7Ur/824csmqUFtqJZ59tCi2+KiP6RMMC8=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Masas sobre Washington",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNy6Gc6psnPnaWNjreRStcuzCD2UZYA4tD3wUIyzxcyo=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Los pies del mar de los Salish",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DTYUzAPcorSjXwLxIpl17+0z7GtXG6fY2kFc0FUZEZFk=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       }
      ]
    },
    {

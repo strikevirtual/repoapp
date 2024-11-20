@@ -5,11 +5,11 @@
     "mode": false,
     "lista": [
       {
-    "name": "AMERICA",
-    "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDcxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400102283",
-    "uri": "ZylNRmvg22ulyw8uQe0okw57sV7qUrC6sPdnAwU2pZUHnB1yMeHciEEkynvi6TbjvB+/gUftT+lRYPg0JvmHu228dvvCSuQ5SRAVlBD9+3/RfmNqH7fEuLdd0PUKJBt9",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFC2tfgnqN5GPZiDwPbT/f/Kqd/ji7NwgUQx8NvZjTy9zIl8gAtRCZiccqO8l21nYhw=="
+    "name": "AMERICA TV HD",
+    "ico": "http://flx.lat:8080/images/dda7f5a793b54dfab5b942e1953901f2.jpg",
+    "uri": "XepxCT78JeVmI0IJow1cyFLEmoqvZoy3YdFBt6dsiLDk+ANCGp5kGxhwwwafEJI2anUtNk+VNBiV9gipKf5SvyZX12FOYOr9dITVjdsOXKSbZO16dckstVBQ09sDkH1g",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "TV PUBLICA",

@@ -696,45 +696,19 @@
     "drm_license_url": ""
    }
      ]
-   }
- ]
-},
-}
- "name": "SERIES-DISNEY+",
- "mode": true,
- "lista": [
+   },
    {
      "tipo": "serie",
-     "name": "ECHO (2024)",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
+     "name": "Las hermanas Guerra",
+     "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
      "temporada": [
-       {
-         "name": "Chafa",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5De2dI9Xl0Vv/7APivewmowLsZjpkvrtTpuIsMZ6jsI9w=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
-     ]
-   }
- ]
-},
-{
- "name": "SERIES-NETFLIX",
- "mode": true,
- "lista": [
-   {
-     "tipo": "serie",
-     "name": "EXPEDIENTES DE LO INEXPLICABLE (2024)",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-     "temporada": [
-       {
-         "name": "Abducción alienígena en Pascaguola",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DpezImpjLzoq8Q+QPVM05EvxRA26KXr9wmgQ+4Yv/W1U=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+           {
+    "name": "Las hermanas Guerra  E1",
+    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOerUDpIJGXMBZHr+T7cCCpiyB+lNZpVJFjIDPV2v/IsQ0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+     },
        {
          "name": "Los fantasmas de la plantación Myrtles",
          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",

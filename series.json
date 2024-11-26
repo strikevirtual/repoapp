@@ -680,12 +680,8 @@
      ]
    },
    {
- "name": "SERIES-NETFLIX",
- "mode": true,
- "lista": [
-   {
      "tipo": "serie",
-     "name": "EXPEDIENTES DE LO INEXPLICABLE (2024)",
+     "name": "Las hermanas Guerra",
      "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
      "temporada": [
        {

@@ -514,48 +514,48 @@
      "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
      "temporada": [
        {
-    "name": "La jaula (2024)",
+    "name": "La jaula E1",
     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2y02yghMtADnT10vkEdeZkKOw+h41ijSJ8bJirWJpCkdrW0qN3XpvtAwBjWRIcp2V",
     "drm_scheme": "",
     "drm_license_url": ""
   },
        {
-         "name": "Roma Cap. 2",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAj6XJEyQ/38ydyo7RU3d5q1ucgDy3crcKDWqe8ZM9Sjc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "La jaula E2",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W28/INVPYp3wnIue/4o4FLoSd5qwiSIZPMUCZ038NdDxBvwEJt81SQv8m3vxidRVBK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "Egipto Cap. 3",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAFgIbxmehxppf2AseFWMRMAyw3AosCH971vOkzvQTsPE=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "La jaula E3",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2U+64C4nTgSAZ6fYx9chQ/jnZroIZ7N9F8DGmz/gdylCFPWJT8x3nV2n5xsK/TI0k",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "Butan Cap. 4",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAh7rZdTcPk1tfJbXJE6N7PMh8eQFWLKPqqwvReBwWFsE=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "La jaula E4",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2ntmYAzkCGbhvfSS7pivp4B2Qj61iKKE4C/geDM0VZHIa0IChylIxb3GB/41yzWGP",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "Etiopia Cap. 5",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAxG44N71Zr9nyPDscq8ZN7Yt0Kdy+CqkRrvFNzDHlfWU=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Moscu Cap. 6",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAFkfzZ6o4lsCei2fRLyu4+5vnqUZ2x1ikOzfhsgn/oNU=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
+    "name": "La jaula E5",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2ydEf2E8/1whtfQAJYsSbQlmju0JyWOYFUqb/YSPX72BxinNP+FmChjNGwdviCGWH",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+   },
+   {
+     "tipo": "serie",
+     "name": "La jaula (2024)",
+     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+     "temporada": [
+           {
          "name": "Camboya Cap. 7",
          "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
          "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVA0OYeN6h+VkEPfLYDvsV9Y4v0bwrcaYjXLNaxsrIKVJI=",

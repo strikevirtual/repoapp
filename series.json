@@ -748,23 +748,58 @@
    },
    {
      "tipo": "serie",
-     "name": "ENGAÑOS (2024)",
-     "ico": "https://image.tmdb.org/t/p/w780/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
+     "name": "Bandidos",
+     "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
      "temporada": [
        {
-         "name": "Episodio 1",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D24ljcQIgHye+tCsForm0RTlXHV/DsCw7byUb+dZcWhE=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Los pies del mar de los Salish",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DTYUzAPcorSjXwLxIpl17+0z7GtXG6fY2kFc0FUZEZFk=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
+    "name": "Bandidos E1",
+    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HAnfVQ1bfai7fACNUP0ciFEGNlqUurbjWeCUNA+fW7Sw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "Bandidos E2",
+    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GFSVSHLBN1y7de/qApcHB11HfSSsMZf3/UUyHthBfbYQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Bandidos E3",
+    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F8H+prVM+MWnCo2u9tzLyjbkbw7+SiJPE7CseUUs1vAQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "Bandidos E4",
+    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FYqFr5HHNNYNcx14SPrSWjxXp3eVflvgeNlwOCq2gQ6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Bandidos E5",
+    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FTdtZlNZmK94CBjcEeBnMDoDdWHzecz0XHqBqYF4Qxcg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Bandidos E6",
+    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EnqBfNr1xWB8DjgJNkJrV1eI/FGgikpJCuZhw59LJiHA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Bandidos",
+    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GvniKfcoZznne8faWG0RKx9s1LizevT2fhwKxhWjMuKQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
      ]
    },
    {

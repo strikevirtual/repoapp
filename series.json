@@ -510,155 +510,6 @@
    },
    {
      "tipo": "serie",
-     "name": "Las hermanas Guerra",
-     "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-     "temporada": [
-           {
-    "name": "Las hermanas Guerra  E1",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOerUDpIJGXMBZHr+T7cCCpiyB+lNZpVJFjIDPV2v/IsQ0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra E2",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeQi1JNQ/HGxpP0L8SvsGFPHL9dmfhLxODO+y4CAQe8f0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E3",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOejxVK05SauxvJJm3PyI7vlchJY2vc9Dh9OOjezqxP17k=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra E4",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeUd7VJbNEx4EEansfrU+BkTyPLKJUpnsYwtSCRI1eKRw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E5",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOe0TPoAnCteLEkGw9IQ7qfqIH4HXRprRmzHWCRbGAnifA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E6",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeqTiDwuZyv37kqa0Er2tmzrG5Ofx9brk5vj+SF4iG2Lc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E7",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeN5nP8HYU2we8Qh8/7M+eOldQqaaItqRPig4tXyL8PRo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E8",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOedSlmroiwzjuCvHo77SXSp+qpqh8Dm2mWB5pN0GsuKM0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E9",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOetSaNAaf+E78zxtapvsftFdZ8z9dw7knDB8v/zOE0w2I=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E10",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeHOsZL1UHphZuDVbum/7eQL+s1Vog7JTj7WE5eP3T1CY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E11",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOezHltIwNjXb/wBic2i+uh9LYcHn+8QCdx6exkcEI9ibU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E12",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOec4EBKUt0m3QTq1HFRig/AqE4h7I1cCpXEjIH/hjiFNY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E13",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeBzcDA3mnWJPP2IjhvpsCbIkGLA95pvb+aWZjwhvLer8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E14",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOedAmo3Xo1H7s/NnhUVQIodWd87Ioo/MbdwyXfyNq5u+Q=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E15",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeupIyUIc+lBEA+T70pAoB6HzFVE5cRBYFRsknX5qiyPg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E16",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOedJ4hmAKsLYAIzRADVjbNNWD9Tvj0VUBvKwIhV3ar9ws=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E17",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOef0zmZAXXACovg7XH6sU4P3VdLq7bSACLqazdP2uNlSQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E18",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeRfMDuiVSHvLHw6ZYis4Rj68GeEErgpJm19YU2W6FdVo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E19",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeHuxtYC+AXmecwoFniEi0h21JKdvV9upOvS+APzzJ+sw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Las hermanas Guerra  E20",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeek4y8Nk/54zZrJ8+fx1X0oqJtu7QuDbQM98aUJGfomA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   }
- ] 
-   }
- ]
-},
-{
-     "tipo": "serie",
      "name": "La jaula (2024)",
      "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
      "temporada": [
@@ -669,35 +520,125 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+       {
     "name": "La jaula E2",
     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W28/INVPYp3wnIue/4o4FLoSd5qwiSIZPMUCZ038NdDxBvwEJt81SQv8m3vxidRVBK",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+       {
     "name": "La jaula E3",
     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2U+64C4nTgSAZ6fYx9chQ/jnZroIZ7N9F8DGmz/gdylCFPWJT8x3nV2n5xsK/TI0k",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+       {
     "name": "La jaula E4",
     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2ntmYAzkCGbhvfSS7pivp4B2Qj61iKKE4C/geDM0VZHIa0IChylIxb3GB/41yzWGP",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+       {
     "name": "La jaula E5",
     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2ydEf2E8/1whtfQAJYsSbQlmju0JyWOYFUqb/YSPX72BxinNP+FmChjNGwdviCGWH",
     "drm_scheme": "",
     "drm_license_url": ""
+  }
+     ]
+   },
+   {
+     "tipo": "serie",
+     "name": "La jaula (2024)",
+     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+     "temporada": [
+           {
+    "name": "La jaula E5",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOerUDpIJGXMBZHr+T7cCCpiyB+lNZpVJFjIDPV2v/IsQ0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+       {
+         "name": "Caribe Cap. 8",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAlwjM94YYq9YTG1sKM5If1yzJN9ulQA/5YnlGa9F6WaA=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       }
+     ]
    }
-    ]
+ ]
+},
+{
+ "name": "SERIES-NETFLIX",
+ "mode": true,
+ "lista": [
+   {
+     "tipo": "serie",
+     "name": "EXPEDIENTES DE LO INEXPLICABLE (2024)",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+     "temporada": [
+       {
+         "name": "Abducción alienígena en Pascaguola",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DpezImpjLzoq8Q+QPVM05EvxRA26KXr9wmgQ+4Yv/W1U=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Los fantasmas de la plantación Myrtles",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNFh6cT4mIL8t6NM+PGKM/i9wtgnMo6SZt2ys6NoCjqc=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Los Cinco de Yuba",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DAY13FmrAzNTbMbv1POjnNiJhNUWhb+jHFiiDXhp0ci8=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "La conspiración ovni",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DnFKGMDG1ggEFbnKIndPffgLVS9IrYptu67IMgNiubEg=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "La maldición del lago Lanier",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DDXkOhwKn2F6jC6R41KXAYKRUlIKwz+M4rcqkqeBcEGU=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Los misterios del monte Shasta",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D1COhBLeG3b7Ur/824csmqUFtqJZ59tCi2+KiP6RMMC8=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Masas sobre Washington",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNy6Gc6psnPnaWNjreRStcuzCD2UZYA4tD3wUIyzxcyo=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
+       {
+         "name": "Los pies del mar de los Salish",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DTYUzAPcorSjXwLxIpl17+0z7GtXG6fY2kFc0FUZEZFk=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       }
+     ]
    },
    {
      "tipo": "serie",

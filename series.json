@@ -510,10 +510,10 @@
    },
    {
      "tipo": "serie",
-     "name": "La jaula (2024)",
-     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+     "name": "Las hermanas Guerra",
+     "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
      "temporada": [
-       {
+           {
     "name": "Las hermanas Guerra  E1",
     "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
     "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOerUDpIJGXMBZHr+T7cCCpiyB+lNZpVJFjIDPV2v/IsQ0=",
@@ -652,83 +652,51 @@
     "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeek4y8Nk/54zZrJ8+fx1X0oqJtu7QuDbQM98aUJGfomA=",
     "drm_scheme": "",
     "drm_license_url": ""
-   },
-       {
-         "name": "Caribe Cap. 8",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAlwjM94YYq9YTG1sKM5If1yzJN9ulQA/5YnlGa9F6WaA=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
+   }
      ]
    }
  ]
 },
 {
- "name": "SERIES-NETFLIX",
- "mode": true,
- "lista": [
-   {
      "tipo": "serie",
-     "name": "EXPEDIENTES DE LO INEXPLICABLE (2024)",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
+     "name": "La jaula (2024)",
+     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
      "temporada": [
        {
-         "name": "Abducción alienígena en Pascaguola",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DpezImpjLzoq8Q+QPVM05EvxRA26KXr9wmgQ+4Yv/W1U=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "La jaula E1",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2y02yghMtADnT10vkEdeZkKOw+h41ijSJ8bJirWJpCkdrW0qN3XpvtAwBjWRIcp2V",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "Los fantasmas de la plantación Myrtles",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNFh6cT4mIL8t6NM+PGKM/i9wtgnMo6SZt2ys6NoCjqc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "La jaula E2",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W28/INVPYp3wnIue/4o4FLoSd5qwiSIZPMUCZ038NdDxBvwEJt81SQv8m3vxidRVBK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "Los Cinco de Yuba",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DAY13FmrAzNTbMbv1POjnNiJhNUWhb+jHFiiDXhp0ci8=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "La jaula E3",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2U+64C4nTgSAZ6fYx9chQ/jnZroIZ7N9F8DGmz/gdylCFPWJT8x3nV2n5xsK/TI0k",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "La conspiración ovni",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DnFKGMDG1ggEFbnKIndPffgLVS9IrYptu67IMgNiubEg=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "La jaula E4",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2ntmYAzkCGbhvfSS7pivp4B2Qj61iKKE4C/geDM0VZHIa0IChylIxb3GB/41yzWGP",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "La maldición del lago Lanier",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DDXkOhwKn2F6jC6R41KXAYKRUlIKwz+M4rcqkqeBcEGU=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Los misterios del monte Shasta",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D1COhBLeG3b7Ur/824csmqUFtqJZ59tCi2+KiP6RMMC8=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Masas sobre Washington",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNy6Gc6psnPnaWNjreRStcuzCD2UZYA4tD3wUIyzxcyo=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Los pies del mar de los Salish",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DTYUzAPcorSjXwLxIpl17+0z7GtXG6fY2kFc0FUZEZFk=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
+    "name": "La jaula E5",
+    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2ydEf2E8/1whtfQAJYsSbQlmju0JyWOYFUqb/YSPX72BxinNP+FmChjNGwdviCGWH",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
      ]
    },
    {

@@ -699,55 +699,62 @@
    },
    {
      "tipo": "serie",
-     "name": "Las hermanas Guerra",
-     "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
+     "name": "Ciudad de Dios (2002)",
+     "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
      "temporada": [
        {
-    "name": "Las hermanas Guerra  E1",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOerUDpIJGXMBZHr+T7cCCpiyB+lNZpVJFjIDPV2v/IsQ0=",
+    "name": "Ciudad de Dios E1",
+    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOVAUaDj4Rr+QsFna9urGijQ==",
     "drm_scheme": "",
     "drm_license_url": ""
-      },
+  },
        {
-         "name": "Los fantasmas de la plantación Myrtles",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNFh6cT4mIL8t6NM+PGKM/i9wtgnMo6SZt2ys6NoCjqc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "Ciudad de Dios E2",
+    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOMG3nlQASwR9qdggf13S4AA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "Los Cinco de Yuba",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DAY13FmrAzNTbMbv1POjnNiJhNUWhb+jHFiiDXhp0ci8=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "Ciudad de Dios E3",
+    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOV5HUPwo6MuxISYf/2wkXhg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "La conspiración ovni",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DnFKGMDG1ggEFbnKIndPffgLVS9IrYptu67IMgNiubEg=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "Ciudad de Dios E4",
+    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOz9Jnry6hssgUd8u1n+nOxg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "La maldición del lago Lanier",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DDXkOhwKn2F6jC6R41KXAYKRUlIKwz+M4rcqkqeBcEGU=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "Ciudad de Dios E5",
+    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOevTnh+tJzzFl5YZJTcfDxw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
        {
-         "name": "Los misterios del monte Shasta",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D1COhBLeG3b7Ur/824csmqUFtqJZ59tCi2+KiP6RMMC8=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
+    "name": "Ciudad de Dios E6",
+    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOsdHB2ELNqBU2hb038megxQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+   },
+   {
+     "tipo": "serie",
+     "name": "ENGAÑOS (2024)",
+     "ico": "https://image.tmdb.org/t/p/w780/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
+     "temporada": [
        {
-         "name": "Masas sobre Washington",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNy6Gc6psnPnaWNjreRStcuzCD2UZYA4tD3wUIyzxcyo=",
+         "name": "Episodio 1",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
+         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D24ljcQIgHye+tCsForm0RTlXHV/DsCw7byUb+dZcWhE=",
          "drm_scheme": "",
          "drm_license_url": ""
        },

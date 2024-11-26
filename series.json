@@ -552,137 +552,35 @@
    },
    {
      "tipo": "serie",
-     "name": "Las hermanas Guerra",
-     "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
+     "name": "La jaula (2024)",
+     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
      "temporada": [
            {
-    "name": "Las hermanas Guerra  E1",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOerUDpIJGXMBZHr+T7cCCpiyB+lNZpVJFjIDPV2v/IsQ0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+         "name": "Camboya Cap. 7",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVA0OYeN6h+VkEPfLYDvsV9Y4v0bwrcaYjXLNaxsrIKVJI=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       },
        {
-    "name": "Las hermanas Guerra E2",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeQi1JNQ/HGxpP0L8SvsGFPHL9dmfhLxODO+y4CAQe8f0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E3",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOejxVK05SauxvJJm3PyI7vlchJY2vc9Dh9OOjezqxP17k=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra E4",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeUd7VJbNEx4EEansfrU+BkTyPLKJUpnsYwtSCRI1eKRw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E5",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOe0TPoAnCteLEkGw9IQ7qfqIH4HXRprRmzHWCRbGAnifA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E6",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeqTiDwuZyv37kqa0Er2tmzrG5Ofx9brk5vj+SF4iG2Lc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E7",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeN5nP8HYU2we8Qh8/7M+eOldQqaaItqRPig4tXyL8PRo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E8",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOedSlmroiwzjuCvHo77SXSp+qpqh8Dm2mWB5pN0GsuKM0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E9",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOetSaNAaf+E78zxtapvsftFdZ8z9dw7knDB8v/zOE0w2I=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E10",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeHOsZL1UHphZuDVbum/7eQL+s1Vog7JTj7WE5eP3T1CY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E11",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOezHltIwNjXb/wBic2i+uh9LYcHn+8QCdx6exkcEI9ibU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E12",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOec4EBKUt0m3QTq1HFRig/AqE4h7I1cCpXEjIH/hjiFNY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E13",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeBzcDA3mnWJPP2IjhvpsCbIkGLA95pvb+aWZjwhvLer8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E14",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOedAmo3Xo1H7s/NnhUVQIodWd87Ioo/MbdwyXfyNq5u+Q=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E15",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeupIyUIc+lBEA+T70pAoB6HzFVE5cRBYFRsknX5qiyPg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E16",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOedJ4hmAKsLYAIzRADVjbNNWD9Tvj0VUBvKwIhV3ar9ws=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E17",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOef0zmZAXXACovg7XH6sU4P3VdLq7bSACLqazdP2uNlSQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E18",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeRfMDuiVSHvLHw6ZYis4Rj68GeEErgpJm19YU2W6FdVo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E19",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeHuxtYC+AXmecwoFniEi0h21JKdvV9upOvS+APzzJ+sw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  {
-    "name": "Las hermanas Guerra  E20",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeek4y8Nk/54zZrJ8+fx1X0oqJtu7QuDbQM98aUJGfomA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   }
+         "name": "Caribe Cap. 8",
+         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur2ed26ypch4qQiFlx5VB0tlW7L.jpg",
+         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clG0am/ef/h3y3uSY8y43ZVAlwjM94YYq9YTG1sKM5If1yzJN9ulQA/5YnlGa9F6WaA=",
+         "drm_scheme": "",
+         "drm_license_url": ""
+       }
      ]
-   },
+   }
+ ]
+},
+{
+ "name": "SERIES-NETFLIX",
+ "mode": true,
+ "lista": [
    {
      "tipo": "serie",
-     "name": "ENGAÑOS (2024)",
-     "ico": "https://image.tmdb.org/t/p/w780/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
+     "name": "EXPEDIENTES DE LO INEXPLICABLE (2024)",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dogpT47yjFTBQ5N3T5x64YHMWZK.jpg",
      "temporada": [
        {
          "name": "Abducción alienígena en Pascaguola",

@@ -27,10 +27,10 @@
   },
   {
     "name": "TELEFE",
-    "ico": "http://flx.lat:8080/images/4eed808f3d72487e29b77cdb71de8f43.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyFLEmoqvZoy3YdFBt6dsiLDk+ANCGp5kGxhwwwafEJI2EtEEHj7BLLYxE9Qu46FBRjwwotFWkbIohflG2Vk5TkSVVs71k8tn3P81C8eDnN+f",
-    "drm_scheme": "",
-    "drm_license_url": ""
+    "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/argentina/telefe-ar.png",
+    "uri": "EK37m29rGU7R9fv/4u/mwnC3C3+fznqNMt2HJu/wbWBmpT+Z+zS7zwFaSOkTN8Aqd+2mYCdvrMyo3O+cWUFzMkuwYA27Ilj8kDHUT2RlPufdg0OGKfg8O5BW4S5TGp33",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvMFK8KR9NdzOJxHLGo36OmRPR1tJXx64+UGjDKn6qMUtAO4ZXfz1C65uMsHNSSjUQzxCd4b6MFlPixbkTqWgTe0bHsumnJ1JVJRHrMkntwmWZHfuvF9eU2Wn/NDku8xAw=="
   },
   {
     "name": "EL TRECE",

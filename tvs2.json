@@ -426,6 +426,103 @@
     ]
   },
   {
+    "name": "📻RADIOS ARGENTINA",
+    "mode": false,
+    "lista": [
+      {
+    "name": "ELECTRÓNICA",
+    "ico": "https://iili.io/2dEqtd7.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qfw2j1MNdx4LMeNUZNQrNkj",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EXITOS 80/90",
+    "ico": "https://iili.io/2dEqL12.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QctYKf3J2HVM0wox//4itP5",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RADIO CNN",
+    "ico": "https://iili.io/2dEx9yP.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QfO5EBKr0GOql8eU6EL7h6j",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RADIO DEL PLATA",
+    "ico": "https://web.app.flow.com.ar/img/radios/radioDelPlata.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QdfGAJqjkm062PCBDp7RsVg",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RADIO DISNEY",
+    "ico": "https://web.app.flow.com.ar/img/radios/radioDisney.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qcp52CeF253lqLFK1qWSfBu",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RADIO FRANCE",
+    "ico": "https://web.app.flow.com.ar/img/radios/radioFranciaInternacional.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qchd07cMFHaQpo1nsb9bnHm",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RADIO MITRE",
+    "ico": "https://web.app.flow.com.ar/img/radios/radioMitre.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QfmmqykKTLKAONVLorvTUH2",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RADIO MITRE CORDOBA",
+    "ico": "https://web.app.flow.com.ar/img/radios/radioMitreCordoba.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QeN+/1jOzov8M6Hopz2r1/u",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RADIO MPB BRASIL",
+    "ico": "https://iili.io/2dEqQgS.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QfciK9ZzzjjHuo0twUGMiDl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RADIO NACIONAL",
+    "ico": "https://web.app.flow.com.ar/img/radios/radioNacional.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QdMvswZ6DdvqzUJIP5M0P00",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RADIO RIVADAVIA",
+    "ico": "https://web.app.flow.com.ar/img/radios/radioRivadavia.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QextOmLxulnOXxoiMud3Eky",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TANGO ARGENTINO",
+    "ico": "https://iili.io/2dEqmmu.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70Qfs5b2l6sAujfXHA2Vsxqkz",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TOP 40",
+    "ico": "https://iili.io/2dEqD79.png",
+    "uri": "23QlTtqhRZkCx6/WPUopy/8ZqZi9nsZXR/OzL6q70QcLtUNC3iELTvttbBBPRQBy",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
+  {
     "name": "▐ Digital TV MOVIES",
     "mode": false,
     "lista": [

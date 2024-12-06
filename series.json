@@ -1,10 +1,5 @@
 [
-   
-   {
-    "name": "▐ ESTRENOS 2024",
-    "mode": false,
-    "lista": [
-       {
+{
     "name": "▐ SERIES 2024",
     "mode": true,
     "lista": [
@@ -1326,8 +1321,9 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-       ]
-     }
-   ]
- }
+       
+        ]
+      }
+    ]
+  }
 ]

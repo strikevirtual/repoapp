@@ -5,867 +5,10 @@
     "mode": false,
     "lista": [
        {
-     "tipo": "serie",
-     "name": "LA BIBLIA TEMPORADA 1",
-     "ico": "https://http2.mlstatic.com/la-biblia-la-miniserie-epica-the-bible-serie-completa-dvd-D_NQ_NP_254525-MLM25455106100_032017-F.jpg",
-     "temporada": [
-       {
-    "name": "La Biblia S1 E1",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7qF0UkyH865w6xLAIziuB0llyq4.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys1euogyefGP6qFts7F3arLrj5T0ft9Elz2XuOXRBqPaJUMfqCAn9KPi+hhkdj2FRW",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S1 E2",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7f2lQ6JWN9ElylsSY3AOoQbayyw.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyss55bVWCtRHrMRgz29+FR7EZn0zeegrmC9fTXm2SfLvIBIRv/R4kfPuVMvUk1lYYT",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S1 E3",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZp2PY6TJ1q13JFnBF4UVeIDg1s.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysvlkHS4gM5rEEEY/KghQE2rFL237T37mMGv7UyEehb7ywGBbuUaI5xH3w9tzu5cWI",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S1 E4",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsOpKK93tCcu1E9XOqCx0aixRdB.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysnjRuNu0wAwEGMHPArRpE6TO7DqL0soYmMYTmt3JtAazP9Q9fGm7ZY3dPPDlUZXk7",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S1 E5",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysZzt39cPGP4UHFFw1cM7ctZAj4fFkgkNPw/LKGZSxqJ+601gqbnz7eSW1zzj73BJi",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S1 E6",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys0lzKoRchUCJOlEzUzmcG9UVB3qzXkqN217T5dS0iCzNvmYuuSVGCuZ6hm5MqInLj",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S1 E7",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysoHsRqAvFWNcw0PvMY8/NVwGb2h3Asl08TmTCRlFAB5FAT1PqkV172nP4kBvJ5Zki",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S1 E8",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyszMoV2U8yBy8069zwfStWDQ2uP76c86QwIqQKIpX6BJpNnDqeZ5wJhKpheO1ORbN1",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S1 E9",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys+O7mKW64UUoxiiT8dW5cJQKzRtY/97MR8l20CPawe+5W6Z/1HOBUNQPO2znH7eXU",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S1 E10",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysExcykELO1MkH/dvuDHd5niQWEQ0eXp/e4mfN2ChmVtNwOKKkVqgy62xmkU8XgSbd",
-    "drm_scheme": "",
-    "drm_license_url": ""
-    }
-    ]
-   },
-   {
-     "tipo": "serie",
-     "name": "LA BIBLIA TEMPORADA 2",
-     "ico": "https://www.aciprensa.com/imagespp/miniserie-la-biblia-Telemundo.jpg?jpg",
-     "temporada": [
-       {
-    "name": "La Biblia S2 E1",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys88pvIvCI7FFirqgCPVnDod+hycO4IW9JDB16K62CrW/UMcgCTUsvHAUksDRDxKmK",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E2",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysrBx6dx3GgcGGDAxNbhqm5NLXdPDLTSEViJFG+91qrfYbiXdKN1OFITJhQ1c4xE8t",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E3",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyscNMnygPijTRmpdpP3zavQNmd/7T99GdSKYawq8Snt5mpAeWbZzOW0Ox1M7mo16CY",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E4",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysii8jf0WxvHOIvM+EBxmK49k0Lj1bF+7hik0aFwgnb+c0iEpoqaNDwmAPXG4X9jps",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E5",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysWAkRo9ouplcAiuF4ADlMwDt7CiZAnUjGGp5Bbc0W4HXupHMRwP8J5cTj00bn524k",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E6",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys49ZiddEU0sdpt3iAwJ+95PzsQMyw7fs4iOA8MwNqgxJ0qftzVcBpwNgEt+MC0oom",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E7",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys7Z+D/Z0QFm3XmlI0sL8YgR43QKiN/d5u34GoynT3a285yOMcgly6Qx3EUbAjtyq1",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E8",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysITcJn/Mz5m6qHY2VgoucHfqFWEupgp/d/1zkd0Hof4YH2lzUCepB8rXxGX7VLGRL",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E9",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysTQ6hwysUoSxlcBeK5rZWs0YmyOJHuWLeRunm3oiiQCtAel7On8STBm+VgxAu6zbr",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E10",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysl/kSJKiNMkOEDdWY48cZhU2iyKRBtOORcLA22Hw9nGbux2fyicwb8yu5/o8ziS3X",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E11",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysRlJ5EPwRB0e4V1b6a5xL09xbEXrVRP3PhTLG3yKj/vza+1pmM3J2BJ/9JmmA0rcQ",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La Biblia S2 E12",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysy2GGOTPH73XCkwK/6CwFCOR/hPuMSGgqm+/tQbrfO9rYeRpiJVJ9wVsReQTgabXc",
-    "drm_scheme": "",
-    "drm_license_url": ""
-     }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "APOCALIPSIS TEMPORADA 1",
-     "ico": "https://m.media-amazon.com/images/M/MV5BMTYyMDEzODAyNV5BMl5BanBnXkFtZTgwMDQxNTYzNTE@._V1_.jpg",
-     "temporada": [
-       {
-    "name": "Apocalipsis S1 E1",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysr3bFyyVroCioVxxDePr9eovbf78NvRZznAEjjVJvFxpSSVv0AXz6sn/mBrjiIbwU",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E2",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysrn2M/KFB4j6LZ4dZRbV+jbta4ztWuIQ6AbetZEOAjvs9iidRRFLwgrwViYsUkBrr",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E3",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyscl4YO9s8fAwi+RykoQ4P5Yvi2byffMNRjy9PAGae42o7A14V37NGGP85AwuKs+Wp",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E4",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysY1dE3Lg4PvucCC7fPoCSZMvS7PsAN5zjpn5je89uh0L66fpMUZRgIpm6ozdXk68w",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E5",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyso9Yl5n7tqlc6Y+vedTjdto5ZZdOBubLv9SuUmz2Z4d8d5th+C9fCdIQcvX2l8mHM",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E6",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys2qMfarsmGZT8pvPkEC694y/N2OXktPZjilWlAaC5Zjkx5HfGLzdTQeCQ1S86QY45",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E7",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysBu+0YEb/ktLm1PEYZptWi4OlZ0OOFe8NswuoEyTJcK/AU8WdUEBpwodUIjtHL61W",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E8",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys9FCnN6NNX7vhD+yGGRSkXyNtpwwTpDGsUHMTCtJiVqwVBk1dESdABqie0V6NQLAY",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E9",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysDIHKbYOYKnnyJqRC1Wi9h5QClfx5IjCHDrpu1aP1viU5hmjrB/ICuJjisdxny3if",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E10",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysC8DGesGXyyLqNToCxWBLU89NzSTHjcAcfmoIfmMJuVT6xbBXC1G2Pym4j9zwh0QK",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E11",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysywh3siPmMvtm3MKoRctotEkB7GMPl+k5GbhERAlodQYAUu4acYmlUQXxYlzVUKgT",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E12",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys0+2eOXk50bptum2MrOhOLVRVblYjcnrx+paR4JNizowU4Ldlpkmn3BbJWMOj7KKf",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E13",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys3FAsdp09NODBe3r3rIAz4ZV+TbX1976PIwmAP9QZgpGQ0Sej4u5+CHgnkyrQfyQu",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E14",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysPX+rVx3cBL+cnZKCCwECjqeMcB9KGD7pFADIroo5bNh0a8EpckVXyXQcAdS+xHha",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E15",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysl2uxDeXeZaJC4w5H0shsGunjkSjtKrHO2iypoN3viGqWH6em7vgqh/Ia0KiIk8/w",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E16",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys/UEhhqzq7wZdpw4jibDC96obhe9JGLB+vC95pxLW7EHvZAo0SL1lIK4IneVteZMY",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E17",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysAKJdFLjhxqAHQZlVzFKmFWJTWNoYN5+Sxni/PS7+szbHcRS9pTifdas90Eqx/Cr0",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E18",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysTf5dbc9yKQIiekgme7fbYgw5883qhtsFKO1Ku80Qf51hi4prxxHcEssmdVjcrtyn",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E19",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysO0szjPOWfB3Tcte+2ZEqMWSbt/dm4PoFElar39fg9yUufDNubDU1pWhIo6vobI/1",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E20",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysWMwltdxTiZNaZ6VDOhOUqtoFB3x+HXMQlgaYBgVtcJEZrlBRHK4rGqWqGOXPQpms",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E21",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyse3t9q0HlzFEFLNNfqho76KKPacxwmkhuhwfwAVQyugJenFyocYHTGBkUl+7I3WSu",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E22",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyscfqlr7TGf3PLfX7ov0YyrHaPU8Ad/wwgA/InwNaSv0gPhq4jNCv8rWsbRKHBwV0D",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S1 E23",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysEioatp4f/W/WHyIq7a4hZtx+DtRAdZyxse9TI7W9591TgSFjcAqwd5PAqylVGyH9",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "APOCALIPSIS TEMPORADA 2",
-     "ico": "https://m.media-amazon.com/images/M/MV5BMTYyMDEzODAyNV5BMl5BanBnXkFtZTgwMDQxNTYzNTE@._V1_.jpg",
-     "temporada": [
-       {
-    "name": "Apocalipsis S2 E1",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys3GJ1AWiHo/vmCb5NUeIpfyzN/EQN+OdwlFQSaTKqxx6CVWPotxG4BLSpMJ502mJv",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E2",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyseZCQobf+O4QIgxNTCHWjHWp/sO0ck5TWxCi6/ska+RDlGGVRx13MGFkp3lXV2glX",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E3",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysSHwAImiffroV0p4XXojt8OpNih6cJmeEbOHQ7KAnich2Xj7TY0E6xNYENwvbgwnD",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E4",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysQbv3sHfWtsTswFBG4tsBRtnrJ+H1vDwVBW2o+A8DsPpVWIA7Xru/909pL4SSnn2O",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E5",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysohBBRsY5145Q/Ds9A1ompKTAI+3m6QXhUyAZihqgg4TNrlxQx83ry7mIbA9CTGal",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E6",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys/dhAsxoD4VryTTW7JNe/sOgZF3Qz6Fy4Zt0lmdqggRtWausfY14mo0tRnnUW3y+S",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E7",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysH5JMSlVvsm7U043bs+ppLBsTeuJfBWhBjBAZ7sV4JQKCJsW4MsQuZ7rOQ/YAtrPe",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E8",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys6mfXlUAk5dUkNbygHoV29I6ZiIy2PgKAnUNQJgG/SIgxMmy69lCcEOpXDga4zZKd",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E9",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysjhh9Yidnp9UlO20kDuNV+McxLqkN+HyhBCT7ptFMXLwJzexfjcyTwAFkcXhSbaec",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E10",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysy3KkHDK8bH+25IkjCMAmNaqTt/oKQz8AI7VNM72tFYYpaWTo4sxVQ4wPd9SYwXQD",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E11",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyswiFc1MxKxNjBwLi4whDwPnaYcAsLrOe+18Pu90tkrjuhIET3RSCQIouWcokddn8o",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E12",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys1/C7eorVo3llbgMDrk0PPou5HHKvRN/CtzODg2ouLrhCxP2OIRVuls8bkKw3jNyA",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E13",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys+ESF1iBecUKGEiWK8tNY2o7lphVFQt//I3MFQVZYn/2qD+eoMY0N9Vjyx+vyijcK",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E14",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys5BgZWnhkBHHXej6cGwbRimkaiUbbvHpBR0GSEUfSpXcZqRTW3yUk3M0Xs/d2d2Ac",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E15",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysGfUjeEHzwJbBr1IagcIVHvuI63WPZOcyrXa3M8MGbLs/eWRrHkZhYzedJ27Q7DSS",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E16",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyskMKU0MEbZFKmZLTDpvNTxb6Z/Ui9F5vJ5K9EMwoWDLqYhSUBHWpVELbmMuqh1nvV",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E17",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysP/ftxKbLkVpBVEDtqIa5HQ+F9+Mz/cGfB5vB+kc6xXY45Y0iKmoZW9MrbrPtgdlR",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E18",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysKpEcMLrFen9RN9SA+Qcq761y/epZmscoT1FcHaliHEJWGTVCkBbRQqrh9unVS6fn",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E19",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThys86rzAfTdrGIAz9pvQ20xPSH63psUMVntBEnwnp8Jmx9yAHNt1Sb3jZDhoGpflzvn",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E20",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysdxsPNmE4EMMlLHn09EjmnEwD8emY+bAB3X+GzAwwhzzwi78KN3us1Kznd8RJzAhE",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E21",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThyso2/sC+XBRgv+lR23wNTAP3wZFkm2HovXdHiUDRe6MoJ1cTBC0svBPJqdoxUKU+ls",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E22",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysAhg9jfBhFuNF2PMl62heqUSwSIy+SxwW4jIRAYknGUrqThSBhF7tFDi563zGDuIz",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis S2 E23",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYGXiYCgq3gynK36nUyiKCXCHyL.jpg",
-    "uri": "XepxCT78JeVmI0IJow1cyGrIEepqrAnt7WGGk6w9Vgr+OnUM4PVdkg0uNkUCThysGd4qEKetgkpChR1Kn3c+eyCQCdb+gWidtpIubVFXlUD5xr5VwiphZEMnnVTg/BMe",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "La jaula (2024)",
-     "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
-     "temporada": [
-       {
-    "name": "La jaula E1",
-    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2y02yghMtADnT10vkEdeZkKOw+h41ijSJ8bJirWJpCkdrW0qN3XpvtAwBjWRIcp2V",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La jaula E2",
-    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W28/INVPYp3wnIue/4o4FLoSd5qwiSIZPMUCZ038NdDxBvwEJt81SQv8m3vxidRVBK",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La jaula E3",
-    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2U+64C4nTgSAZ6fYx9chQ/jnZroIZ7N9F8DGmz/gdylCFPWJT8x3nV2n5xsK/TI0k",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La jaula E4",
-    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2ntmYAzkCGbhvfSS7pivp4B2Qj61iKKE4C/geDM0VZHIa0IChylIxb3GB/41yzWGP",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La jaula E5",
-    "ico": "https://image.tmdb.org/t/p/w300/vXHT389RDcYbvTpkxm44hRjEDcy.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F43IiQrsLgITZV5cWvt/W2ydEf2E8/1whtfQAJYsSbQlmju0JyWOYFUqb/YSPX72BxinNP+FmChjNGwdviCGWH",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "Las hermanas Guerra",
-     "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-     "temporada": [
-           {
-    "name": "Las hermanas Guerra  E1",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOerUDpIJGXMBZHr+T7cCCpiyB+lNZpVJFjIDPV2v/IsQ0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "Las hermanas Guerra E2",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeQi1JNQ/HGxpP0L8SvsGFPHL9dmfhLxODO+y4CAQe8f0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E3",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOejxVK05SauxvJJm3PyI7vlchJY2vc9Dh9OOjezqxP17k=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra E4",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeUd7VJbNEx4EEansfrU+BkTyPLKJUpnsYwtSCRI1eKRw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E5",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOe0TPoAnCteLEkGw9IQ7qfqIH4HXRprRmzHWCRbGAnifA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E6",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeqTiDwuZyv37kqa0Er2tmzrG5Ofx9brk5vj+SF4iG2Lc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E7",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeN5nP8HYU2we8Qh8/7M+eOldQqaaItqRPig4tXyL8PRo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E8",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOedSlmroiwzjuCvHo77SXSp+qpqh8Dm2mWB5pN0GsuKM0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E9",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOetSaNAaf+E78zxtapvsftFdZ8z9dw7knDB8v/zOE0w2I=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E10",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeHOsZL1UHphZuDVbum/7eQL+s1Vog7JTj7WE5eP3T1CY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E11",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOezHltIwNjXb/wBic2i+uh9LYcHn+8QCdx6exkcEI9ibU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E12",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOec4EBKUt0m3QTq1HFRig/AqE4h7I1cCpXEjIH/hjiFNY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E13",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeBzcDA3mnWJPP2IjhvpsCbIkGLA95pvb+aWZjwhvLer8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E14",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOedAmo3Xo1H7s/NnhUVQIodWd87Ioo/MbdwyXfyNq5u+Q=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E15",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeupIyUIc+lBEA+T70pAoB6HzFVE5cRBYFRsknX5qiyPg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E16",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOedJ4hmAKsLYAIzRADVjbNNWD9Tvj0VUBvKwIhV3ar9ws=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E17",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOef0zmZAXXACovg7XH6sU4P3VdLq7bSACLqazdP2uNlSQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E18",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeRfMDuiVSHvLHw6ZYis4Rj68GeEErgpJm19YU2W6FdVo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E19",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeHuxtYC+AXmecwoFniEi0h21JKdvV9upOvS+APzzJ+sw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "Las hermanas Guerra  E20",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.43SY4-3dQWA9JtifizIVOwHaEK&pid=Api&P=0&w=300&h=300",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HXqld0uksv+zJeuGYpvpOeek4y8Nk/54zZrJ8+fx1X0oqJtu7QuDbQM98aUJGfomA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "Ciudad de Dios (2002)",
-     "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
-     "temporada": [
-       {
-    "name": "Ciudad de Dios E1",
-    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOVAUaDj4Rr+QsFna9urGijQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-       {
-    "name": "Ciudad de Dios E2",
-    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOMG3nlQASwR9qdggf13S4AA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-       {
-    "name": "Ciudad de Dios E3",
-    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOV5HUPwo6MuxISYf/2wkXhg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-       {
-    "name": "Ciudad de Dios E4",
-    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOz9Jnry6hssgUd8u1n+nOxg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-       {
-    "name": "Ciudad de Dios E5",
-    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOevTnh+tJzzFl5YZJTcfDxw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-       {
-    "name": "Ciudad de Dios E6",
-    "ico": "https://image.tmdb.org/t/p/w300/4Ooe9P11JTfCTFsMjO9XZT4EWvA.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOsdHB2ELNqBU2hb038megxQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "Bandidos",
-     "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
-     "temporada": [
-       {
-    "name": "Bandidos E1",
-    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HAnfVQ1bfai7fACNUP0ciFEGNlqUurbjWeCUNA+fW7Sw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "Bandidos E2",
-    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GFSVSHLBN1y7de/qApcHB11HfSSsMZf3/UUyHthBfbYQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Bandidos E3",
-    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F8H+prVM+MWnCo2u9tzLyjbkbw7+SiJPE7CseUUs1vAQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "Bandidos E4",
-    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FYqFr5HHNNYNcx14SPrSWjxXp3eVflvgeNlwOCq2gQ6w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Bandidos E5",
-    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FTdtZlNZmK94CBjcEeBnMDoDdWHzecz0XHqBqYF4Qxcg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Bandidos E6",
-    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EnqBfNr1xWB8DjgJNkJrV1eI/FGgikpJCuZhw59LJiHA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Bandidos",
-    "ico": "https://newspack-yucatan.s3.amazonaws.com/uploads/2024/02/Bandidos-scaled.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GvniKfcoZznne8faWG0RKx9s1LizevT2fhwKxhWjMuKQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "ENGAÑOS (2024)",
-     "ico": "https://image.tmdb.org/t/p/w780/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-     "temporada": [
-       {
-         "name": "Episodio 1",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D24ljcQIgHye+tCsForm0RTlXHV/DsCw7byUb+dZcWhE=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 2",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DS79VqFRUvgKhUNcXImFXoar9ETMr6G3q1LUFej3salE=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 3",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DorN9x3JQAxTbzRGYXkEAxN2Le7vLOv0uF/SuuklvkJA=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 4",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DrMRlD7JrjBFHE1gN7QE0FMPuI1ofOh/fIgMFz0hZCtI=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 5",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DgOn1oYmCtvHMJZGfRP4sbWXKeJnGhktMi9/YEAv20ig=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 6",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DqzBBsmyGy0JocRbbkECfwXsyWm4uGUvBJvuf9Orsdqc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 7",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNYby7yH7GZZpM2udaxj+CxROlYBjkjn6ZD3K6n5oiUs=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 8",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DBImQ49NpcFR5lmk1I4Kn8GCi/7GqUn6c6aPtvahZBpc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
-     ]
-   },
-   {
+    "name": "▐ SERIES 2024",
+    "mode": true,
+    "lista": [
+     {
      "tipo": "serie",
      "name": "TESTAMENTO: LA HISTORIA DE MOISÉS (2024)",
      "ico": "https://image.tmdb.org/t/p/w780/fVIeVmMg9ETRngnaFsAc3O6b3SS.jpg",
@@ -892,569 +35,1297 @@
          "drm_license_url": ""
        }
      ]
-   }
- ]
-},
-{
- "name": "SERIES-DISNEY+",
- "mode": true,
- "lista": [
-   {
-     "tipo": "serie",
-     "name": "ECHO (2024)",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-     "temporada": [
-       {
-         "name": "Chafa",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5De2dI9Xl0Vv/7APivewmowLsZjpkvrtTpuIsMZ6jsI9w=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Lowak",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D5zYLdW4YjhMmC8F0imcb2kDYciFL5SyVXCuFIxrJEjQ=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Tuklo",
-         "ico": "https://imaage.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DVW6Fij9yhD6fLyz43FaytJ1aO6O8dgdjcDVnVcvudNI=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Taloa",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5Dfep6N+ROkacJU6AK9w4I6GoqpZwWhha7iz6EH5iWego=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Maya",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RFLMSnFng8G23zZ1G5Q6lFVRfY.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DdGXVOvlcYv3S1x2oAl0IiGPkYt/zjsYLIiFupy1Jxfk=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
-     ]
    },
-   {
+	
+   
+	{
      "tipo": "serie",
-     "name": "EL ENCARGADO TEMP 1",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+     "name": "Dragon Ball Daima",
+     "ico": "https://i.ibb.co/4fpqx1M/da.jpg",
      "temporada": [
-       {
-         "name": "Un proyecto peligroso E1",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HD6T4MSlFAwxGTA3t7tHf7z2zJUDYnRJLxoH9aoiatPtGPCRqx4O33ggzLKIGRyC09j4EV6ynWY5Fe6nSzSSdr",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Una acción solidaria E2",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HD6T4MSlFAwxGTA3t7tHf7q5Nk5o8BCX8ADw8eEDqdOjstFp0viHjrc7+bNLJg7WEfos4gGMkeZALkjAkeg78L",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Una turista en Buenos Aires E3",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DbodfdVhMMNpdFvXA7MOY3gNZ2jTHKkmABQPD9utx86Q=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Una amante para Zambrano E4",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DdT8XrbaH/AcNUz5fjvZLNERro2tH2hIVxUWhb7Wl85U=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Visita sorpresa E5",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HD6T4MSlFAwxGTA3t7tHf7Fj3RhNLqRw9DP4COJM2+aDZH9bcZoD7CqdbWnq9RmClaJXhPRyFGFBQM19uI3Qts",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Chofer nocturno E6",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5De/0/gBfDitpczMP+BruxMVeJ65lCjM2gDogyrZcPnmg=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Acompañante terapéutico E7",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DvmIxs0yMO9QTerJS6nr+ZdMlb47ayCO8qpQMpgLe4Jw=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Sabotaje en la sala de máquinas E8",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HD6T4MSlFAwxGTA3t7tHf7EwM7GwrJP/5lv12+I7teEw==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El ocupa del 5B E9",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DiMnMsBrrmoqw3nOf62tGh/alkv/sgAV/SQwEG6INUns=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "La hora de la verdad E10",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DYzlr55QB1CzItg8mJ0HwW15TcfPjXpFRCll/YWyO4wA=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El ave fénix E11",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
-         "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HD6T4MSlFAwxGTA3t7tHf7mVH0qezprrhu8BFRFEmdHDACxhkJabiBJlGooSlqeR6pbGdAveF9KLZg6EaGkhIc",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "Los Amos Del Universo Revelación",
-     "ico": "https://i.ibb.co/G22kZk0/Whats-App-Image-2024-12-04-at-9-31-07-PM-1.jpg",
-     "temporada": [
-       {
-    "name": "Los Amos Del Universo Revelación",
-    "ico": "https://i.ibb.co/G22kZk0/Whats-App-Image-2024-12-04-at-9-31-07-PM-1.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Fv+Y2C7jNPvEFRUO2YaMULjEzAc0r3e7kKmGIW/Y4KbmFUQiO4nCuEZyX+DTpBmio=",
+          
+ {
+    "name": "Capitil 1",
+    "ico": "https://i.ibb.co/K2gwKrx/cap.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyG7e6gwDWGSN4VR/hW8BkVg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-       {
-    "name": "Los Amos Del Universo Revelación",
-    "ico": "https://i.ibb.co/G22kZk0/Whats-App-Image-2024-12-04-at-9-31-07-PM-1.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Fv+Y2C7jNPvEFRUO2YaMULjEzAc0r3e7kKmGIW/Y4KbvX+JBs/+/48ayk/wlqeNVY=",
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/d5RcXrr/cap-2.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4FtSfnKSIoHITrjjbdAa5Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-       {
-         "name": "Un pequeño susto",
-         "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yFqHg53iOZ5tdBb6JnYM/50LuTCGSclpFYnMLO69n7nc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El último adiós",
-         "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ytLN9dsU3ug2Daew2MkuHSSvWHC7ErhaRf7ZGm0dIu0Y=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-    "name": "Allanamiento sorpresa",
-    "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HD6T4MSlFAwxGTA3t7tHf7Fj3RhNLqRw9DP4COJM2+aDZH9bcZoD7CqdbWnq9RmClaJXhPRyFGFBQM19uI3Qts",
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/7Kp3WZv/cap-3.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyC4bTQ5tAqtok1PsEIpFSuA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-       {
-         "name": "Junta médica",
-         "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yBed0wDVHdMcFWyQnCYU/IRzoy8+EGtwSoBZtkVFu/zQ=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Aceitunas para todos",
-         "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yfV7vDfaE8pHQmwg4XVaBSRE4eN1Wbv/fAVe9pd4/+zI=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Sabotaje en la sala de máquinas",
-         "ico": "https://pics.filmaffinity.com/el_encargado-933596616-large.jpg",
-         "uri": "2tUqre4Ve6UnTDqhbnokh/JRzCXafSlLUS2BNULa+O+IqqeNtczi7SJ8oUeqV+SLTJPNYhgf2J6qu7gYNEwXMYm9hai8Xs2sLPKQ3LpsrMZjv4tnMtU0u+VOXnc86xSffqysgvyKE87jBqN2JNvszw==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "EL ENCARGADO TEMP 3",
-     "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-     "temporada": [
-       {
-         "name": "La Convención",
-         "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y9qnlcW1CueocvvklaMtZB6qtZZsH4yTsD6lshDWBjxw=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Soluciones integrales Basurto",
-         "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yoS2P89+DctAYNyiTxbGHqQKIg5roYQ+QI4/cDHhjZWM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Y bueh...",
-         "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5y2T/mTeD5nSln1P+f/qqF08dRsOpthrT3F/yC3fK+KW8=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Otra oportunidad",
-         "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ySi82ZDFcyQ/3uHrE9DJHZjpbhwfB/NRls5HI7Mr0AVc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Un beso en los labios",
-         "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ySFmBpeuU0mBpq54xj866tx6eWXP5ytuk3YaI3UQ0ZKM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Portericidio",
-         "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5yuBlvRrf1QmUnui1rKr2IA9hpOUMs8VEFuCkqGiPa2ns=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Eliseo versus el Estado Nacional Argentino",
-         "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-         "uri": "DxwY6mlGMXDr4sSgitkPBRYqciktYpPtxGP2I/wKKJf1xLQ0O+8yI8CwHKByLw5ydd8z09xFgcwff8acO/0wJEvElK291SIVfdqZSfI8Cyk=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "INVASIÓN SECRETA (2023)",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-     "temporada": [
-       {
-         "name": "Resurrección",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DUxbHiCmI1JFij4D2RdylLJxtgWLFthS4e3aJXksZdig=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Promesas",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DrBqBRRNIX7bSL2/Px25F/r9lKbn4O/N+KJ7wThFbDNA=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Traicionado",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D8ZJs91dDaPbNLO4DgpxAYO57ZbFAj+t3DfqN2RthOuc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Amado",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DgsgpKUESamjnKaNBnpwlvrKO3ttvE2mObrh/YVXYGv4=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Cosecha",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DXO/+575n5KuqN1D2clJuuTwONhk4ht4cBSW02zvenCM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Hogar",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D0QzAGPqkMIT+oZHngQ3FMdVC3AdK6XuZaRYrrWiJm2o=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
-     ]
-   }
- ]
-},
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/c6BYFTH/cap-4.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4G/hZ0VMAa2wPJFSZ3Im6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/q9rq626/cap-5.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGycmMXgpuEzlaPlX+oxgkmrQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
 {
- "name": "SERIES-INFANTILES",
- "mode": true,
- "lista": [
-   {
-     "tipo": "serie",
-     "name": "PACIFIC RIM: TIERRA DE NADIE",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-     "temporada": [
-       {
-         "name": "Desde las sombras",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lpQg13Et/4DBdCIG3ruWVYC84olFjLWzR6tiCFpl2Gms=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Hacia la oscuridad",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lTiqlHGeRYf7MvmvJ5CSJaFhMXuy4skBBpX/q04ir7BM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Bogan",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0ltCJmN9ZPAN0CF+HXv2fIEb+rg17i3hI5qcLBnalDwmM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "En marcha",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lBaXHCjSkglcA41MSHhc5T5eLVJQFKqEzFWFAPKguQJU=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "La huida de Bogan",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0l3OxvtBfrah/7AawyssHGcmhjJdwNwHKMrj7dCwHmwhs=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El cementerio",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lj6b8bbGyNuxFq5GM1GjuP5+0oXqgeE1kKUtkFHSjgik=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "La hora de la verdad",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lVcKKCCHoIkCQ01qSNZyapzLGyOOoSVTTeUyHGQrowgk=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/B4N0stv/cap6.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyb8KqNQ8Eh2oGn+SCgK7jlg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/PQP0mxd/cap7.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3CIzyxRTvf6jqR6TorRnBc1auHz8wlyFSFj8eyFWIy0tOB8NhPCmlG6lVND9Y7HuY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/jM8ktZf/Whats-App-Image-2024-11-29-at-23-31-06.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HcjcyxWTF9SsmcI1WGhVukUl7A54wjaRyUmeDOIkGbRQQbvAG4Llg+ABDQ88w7QJw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }	     
      ]
    },
-   {
+          {
      "tipo": "serie",
-     "name": "RECORD OF RAGNAROK",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
+     "name": "Detective Alex Cross (2024)",
+     "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
      "temporada": [
-       {
-         "name": "El Ragnarok",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0liMlzB8506TXcjvkPt3StrHt4ofZmfW6EFkvzEQDOVtg=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Un adversario a la altura",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lByMI0tHu2tHa7dJRIks9USl0RNlq5b30YnyaoYJuJb8=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El golpe maestro",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lLHyKbniBLXgOGs+vULi6yTCUkzxtrP6fVYBX1+yvxcM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Alegría",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lyXlO9WbskB/h0xzXx+GKKNNAlYsk1RtrUMt1ZeMCZ9g=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Archivo n.º 00000000001",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0l1OxooQ3ru0ocsWn7X0P9HNJShVsG+yPlQhLN3hPCXKA=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Una gran imitación",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0ljta24YaCUAU4XRVvmMs28bbpw5C6GyuWDq4mI+VaRA4=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Expulsados del paraíso",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lJtj+bRCsXh26EY5LvsSdkAFK/hKcsWi2ukBlKbcgEms=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Lleno de gracia",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lVVdeDRRgjeKKtqFZch90VFNzSk1yNx26ZoTM3lCbLUA=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El tirano del océano",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lSr4mIV8T1u3YdHgxRcTwlcLVyXhw1XcigmNQbjI5a3g=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El gran perdedor",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0loMMHTfaQrOXp4OLXrEHj681DWzxYdWDBt04tKUh8a14=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "La golondrina se asoma al abismo",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lpAkPW08A/gLPn+Otdy7pdhuZSOZ/NdmS4jXKxKTgouQ=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Y el Ragnarok continúa",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygE1AEV6pXFuCzbjS9ts59LxDm5.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lRPmaEh5S2WOJ7gC17UXyqm+N4vbdERkypgJgMwuP+BM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
-     ]
-   },
-   {
-     "tipo": "serie",
-     "name": "LOS LOPEGGS",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-     "temporada": [
-       {
-         "name": "Episodio 1",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lEFKWFuHvSOCQE25t3fQnc7Ggn5cqIURCFxjxUkvYCbU=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 2",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0l9/UjOSEjzLbjbOMWnBlnaAQVbq5NfUJlaXiM02DmFCU=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 3",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lkPK2Xw4ZqpxLWRinOgkpldjOS3NV5SLl/eYDiSKXVS0=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 4",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0l1XUT7AAxpQ0Wm/x7GKlNTHkAlL60h9oj1uJop3PODsM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 5",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lM6hOvfkvo/KDzAS/qBeW/hudMfb2H0ZxN44CrKA2NO0=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 6",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzb6s3BXjyXthMiAxcVYqAhFsac.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lWx3ROTz/uFcX3rdW8EAZ9GB4KH0Q2R0bL8hP1kfoofk=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "EL ENCARGADO TEMP 3",
-         "ico": "https://pics.filmaffinity.com/el_encargado-467125987-large.jpg",
-         "uri": "GIrU6PBIehQ2wyl37NFJ7w==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "INVASIÓN SECRETA (2023)",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SAIwUnkDsRjLNGQcsxyVqQny7D.jpg",
-         "uri": "GIrU6PBIehQ2wyl37NFJ7w==",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
-     ]
-   }
- ]
-},
-{
- "name": "SERIES-ANIMADAS",
- "mode": true,
- "lista": [
-   {
-     "tipo": "serie",
-     "name": "SIMPSONS",
-     "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-     "temporada": [
-       {
-         "name": "LOS SIMPSONS 1-5",
-         "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-         "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2nMx1VNAXE7jKVhpZDAhmfPZgfUjjklNvOz3TSem9amQ=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "LOS SIMPSONS 6-11",
-         "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-         "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw29+vbgcPm8fxyvzQ/ygrhDKLJqxdTu3xHtkWSaGqtbjQ=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "LOS SIMPSON 12-17",
-         "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-         "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2wyOUtajVYtoCPYNFhafoBcYH+vwhOmEOd+0NhRyChGE=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "LOS SIMPSONS 18-26",
-         "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-         "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw29V23iETdDLWifizMcj8eCEZuuLWFhHo1poSJkSorw28=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-        "name": "LOS SIMPSONS 27-30",
-        "ico": "https://logo.iptveditor.com/lessimpsons1.png",
-        "uri": "DxwY6mlGMXDr4sSgitkPBcxrtwX7WQbb3YiwQdvXTVoPTTGGmveg64a9WN/sstw2SKCie2tZoqoMx9nesF7Tg7Z04lFLrCizTa77cbhCHe8=",
+      {
+        "name": "Capitulo 1",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDhaxgHmfMsC94h3V00k+D2GDiJEA6zgB2U3LSZOaqrVl+c=",
         "drm_scheme": "",
         "drm_license_url": ""
-       }
+      },
+      {
+        "name": "Capitulo 2",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDha9Kw01J12kKR8Rn1mqIeA/7sK6zLt13Bq3GYVUo8eDBA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 3",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDhaZWOoCmmxZZWSpop1PMjTvmNF8EvEGPyMOvJKMZLzVR8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 4",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDhaHzS4jDs+qg4Bg2ZgrVRYsm118x+OrZzm1RNmoreokpg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 5",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDhasdvcOiYy/SVZnauAn4wt2+kmZWip0+Ul1YyHa4qz0cw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 6",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDhaNlnzFKUt47JsexKMQCx3j8gTUUANnkBJDishdcn6vF4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 7",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDha4lYR+zJVtQmpwafGWNM4gp7iTPgAOUKoPt2WTdZQYx8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 8",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDha3IqA2n7hc9Z0z4PS2bNuhZ4b21GCs0YXxU6lvZOc9No=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+     ]
+       },
+	    {
+     "tipo": "serie",
+     "name": "CIUDAD DE DIOS (2024)",
+     "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+     "temporada": [
+      {
+        "name": "Capitulo 1",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOVAUaDj4Rr+QsFna9urGijQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 2",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOMG3nlQASwR9qdggf13S4AA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 3",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOV5HUPwo6MuxISYf/2wkXhg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 4",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOz9Jnry6hssgUd8u1n+nOxg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 5",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOevTnh+tJzzFl5YZJTcfDxw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 6",
+        "ico": "https://i.ibb.co/yf5T928/Ciudad-de-Dios-La-lucha-sigue-Serie-de-TV-319106713-large.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HC42i34ZXlwwFqatRZTWSOsdHB2ELNqBU2hb038megxQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
+     ]
+       },
+	{
+     "tipo": "serie",
+     "name": "DESPRECIO (2024)",
+     "ico": "https://i.ibb.co/3YQmJwJ/vz-WE1v-T95-FNUnwv1bgl5d-JWVZUL.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/3YQmJwJ/vz-WE1v-T95-FNUnwv1bgl5d-JWVZUL.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAbaUnoPCR4EF0xtRLHgneyMXvKlxQJ/yT6FxBgZXQnGqvWCq095PGDI5FpRyXGjvk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/3YQmJwJ/vz-WE1v-T95-FNUnwv1bgl5d-JWVZUL.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAbaUnoPCR4EF0xtRLHgneyQTAJiMqcxoZykaWaKEwAllTti4YOiGFjZEFuFld8PT4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/3YQmJwJ/vz-WE1v-T95-FNUnwv1bgl5d-JWVZUL.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAbaUnoPCR4EF0xtRLHgneyeZwhTazXCIzVDtfhGNHeccJj8ZeZIkG8SRQM/YlB5AY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/3YQmJwJ/vz-WE1v-T95-FNUnwv1bgl5d-JWVZUL.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAbaUnoPCR4EF0xtRLHgneyupb0prqfR6XB+I5v0doB7DEdt/zT23fnF9YoVypczrs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/3YQmJwJ/vz-WE1v-T95-FNUnwv1bgl5d-JWVZUL.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxABaWs+Yfg33BebzQwx9zQ3fPsXo0CH3wwddouXnvU1QTSS9xubkeAKQy9t6hNQGH+UHYcs+zDxkvKZAXk6SbTN",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/3YQmJwJ/vz-WE1v-T95-FNUnwv1bgl5d-JWVZUL.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxABaWs+Yfg33BebzQwx9zQ3Gjko+IbFIPKXEycquSfcoeQ2oQwQy003OIfaVIO+YradEJ0WWZHcC5V+oApFQ5Ne",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/3YQmJwJ/vz-WE1v-T95-FNUnwv1bgl5d-JWVZUL.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAbaUnoPCR4EF0xtRLHgneyqCj4R/fcbalBzmZjVZUvOROxOh2OpCznP3jWcl4IGpY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+       },
+	     
+	    {
+     "tipo": "serie",
+     "name": "Bandidos (2024)",
+     "ico": "https://i.ibb.co/ZdPWKRm/Bandidos-Serie-de-TV-128291859-large.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/ZdPWKRm/Bandidos-Serie-de-TV-128291859-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HAnfVQ1bfai7fACNUP0ciFEGNlqUurbjWeCUNA+fW7Sw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/ZdPWKRm/Bandidos-Serie-de-TV-128291859-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GFSVSHLBN1y7de/qApcHB11HfSSsMZf3/UUyHthBfbYQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/ZdPWKRm/Bandidos-Serie-de-TV-128291859-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5F8H+prVM+MWnCo2u9tzLyjbkbw7+SiJPE7CseUUs1vAQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/ZdPWKRm/Bandidos-Serie-de-TV-128291859-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FYqFr5HHNNYNcx14SPrSWjmZGxMDfcdVQl7yf0+V31iw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/ZdPWKRm/Bandidos-Serie-de-TV-128291859-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FTdtZlNZmK94CBjcEeBnMDoDdWHzecz0XHqBqYF4Qxcg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/ZdPWKRm/Bandidos-Serie-de-TV-128291859-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EnqBfNr1xWB8DjgJNkJrV1eI/FGgikpJCuZhw59LJiHA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/ZdPWKRm/Bandidos-Serie-de-TV-128291859-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GvniKfcoZznne8faWG0RKx9s1LizevT2fhwKxhWjMuKQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+       },
+	{
+     "tipo": "serie",
+     "name": "Marvel Studios: Legends (2024)",
+     "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAv/rEuFLw76xtoZdco1nk1xbAMe+Vpn4wNIdof9uSanAfJIx4fU9IkcXGEUphbZzo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAv/rEuFLw76xtoZdco1nk1h8KFvL5E65Z+9ageFBjTnAlU0kBVdpj2BNB6wdM/qDU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAv/rEuFLw76xtoZdco1nk1epheCiSk0UEbSiI1tQijCpoTK05aC2d++KIELPXuZCc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAv/rEuFLw76xtoZdco1nk1C8zgEQpoHoFOBgNjcUMIfb3aTE9BwRBcWxSxJhpieys=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAv/rEuFLw76xtoZdco1nk1tQMAibVIeapp5uTTQJX+zcjU1ZCu4IgD37KTd5Nh4Y8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAv/rEuFLw76xtoZdco1nk1AZNZaPE3kvJAxhiiXEy0HrqR/ZPQECNM+L3pwFUcOpc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/cY9y7Pv/lg.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxAv/rEuFLw76xtoZdco1nk1sTtev5qQjcS4zIB9p/rVGaYGL0dvH+tabSPLwhwYjLs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },    
+    {
+     "tipo": "serie",
+     "name": "Teacup (2024)",
+     "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxD9DbchwwtqegfsGsSDMp+sOUw7x15+xgbYd3lQy5ASLBPlRhS2N0F2LvQU8O9lC3M=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxD9DbchwwtqegfsGsSDMp+sNbbAbEBddAZ6TM5lALgtklf4uypUukXRywNH0ISK5/0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxD9DbchwwtqegfsGsSDMp+suC4ICz74ANBEyLYsTHAzDwy4ztnQplundA4TNvuMkKk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxD9DbchwwtqegfsGsSDMp+sWd3HAsuTUomY6Wwj4fECAIj+NxV+BCDOfQx6pHoCmmI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxD9DbchwwtqegfsGsSDMp+soEb0j/hKT9T6iao8hABRqFfGMN4DmMbdp0SieVI4f80=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxD9DbchwwtqegfsGsSDMp+sBhf7oVxo8areMbMTs7NSkXVqZGlJDB0+TlMmrSGF8Dk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxD9DbchwwtqegfsGsSDMp+sh28ri1Nmf/tso+fpLLowIJskLsaLjZOLkGcAysLnyLs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/VNht8Gz/teacup-824971681-mmed.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxD9DbchwwtqegfsGsSDMp+s8uRr3sdcrhw0n8rZilMMdRrXlVVphYZcYUWFL+903cw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },	    
+   {
+     "tipo": "serie",
+     "name": "Cromañon Temporada 1 (2024)",
+     "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cU4prRFniqFrucJSil0yniHvtlwzuci9nxdBUIeaPs8CUnDoY2M4FZaZh+1OYWcJ/U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cW6Hnvs5tuETRuC4cgOoEXUcmci1d+esh4/12lsRc1xVp4niXOLtt+D/j07NPNIxoc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cVdTDkrf2ORlBE+G8nFgDEwOmOADURvBZye/Ra1H4CCILpCBcNR0h6iJddrMLRVLt8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cUPvmw/wIGdmgv6AtY00m7eNukEEyAd9VBxrgm3fEMqDOTZWCCNxGIdQM/dgUY2rvk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cWcGc+Tg/RuohMnTCF2najqGtOgBcSfoxdRLVnq5VRPEepi64YnLbcttf+XhbXsu8M=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cUOgf+jyEHTHAuUOndEoKB23qTJ6kYxqX9ZXlmi1kBpM2tHHhlsPCV3FWdjyMr41bY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cXP3wGKGJx5cTXT7GS/vWIIIr+1k4gdsoLgUhnaXaJygni1z4CVGvD/6WPNJwr1j+w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/9h2zrtD/crom.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWrkE7Pu9E396BN2hX/D3cV935eH2KxEd5aQ862bQdvYTGq3x073YHjd/Snx/KNcWtr1o5le7z9P9WaZwKq2kcM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+       },
+	   {
+     "tipo": "serie",
+     "name": "Coppola: El representante Temp 1 (2024)",
+     "ico": "https://i.ibb.co/Qnjgmjg/coppo.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/Qnjgmjg/coppo.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxB37n59JjaceamohRwnGiIJn5r6kn5XKGaybCf3LJMuQNwimkK4UYV3toLNR0gHIvk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/Qnjgmjg/coppo.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxB37n59JjaceamohRwnGiIJn5r6kn5XKGaybCf3LJMuQBuGGdscCLls303+DunsyBw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/Qnjgmjg/coppo.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxB37n59JjaceamohRwnGiIJn5r6kn5XKGaybCf3LJMuQGiGZA/bjNU4h8vaCGvtbns=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/Qnjgmjg/coppo.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxB37n59JjaceamohRwnGiIJn5r6kn5XKGaybCf3LJMuQKub/a8t2gbUbQcMg3SK6O8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/Qnjgmjg/coppo.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxB37n59JjaceamohRwnGiIJn5r6kn5XKGaybCf3LJMuQHQdTNJZiSR7gpOk4u6hG4o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/Qnjgmjg/coppo.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxB37n59JjaceamohRwnGiIJn5r6kn5XKGaybCf3LJMuQOLvrQQJYYnrRHpiXGVTADA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "▐ SERIES NETFLIX",
+    "mode": true,
+    "lista": [
+	    {
+     "tipo": "serie",
+     "name": "Arcane Temp 1 (2021)",
+     "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW9tLlh9NRkVEWefDTanu9VM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW5qGvax2dAXEjLyosQvbrqs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW+pEF4FZeRFcDCYMJ2h+OwQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW286X7MuUNqbNixzt1FKtp8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW83VODGWdzI4iCBwqADC8Tg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW/uBdJb7a4Hs46Nd7OB/NJ0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW3BlhPBGjQofII8uRekR2Q4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW+H2OaeuP+40B/tIrXNCa2g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/w09Z7df/temporada-1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW1eX8hva6egbKhiUyRL8NP0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },
+ {
+     "tipo": "serie",
+     "name": "Arcane Temp 2 (2024)",
+     "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW9jlzfIezidEp8JXGED/bzc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVWx/Il8TZCJiRLM8gpXqFw1E=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW3hagy4f4cVFqp+WrxDIZSQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW0pDS319q+Sh1DBljREQPww=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW5LclhbfGWNBXXYz4oaGHyU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW5ke/+gvLbTWyLMTIDueMig=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW6gyzXCRvtCWwcwweJE1PQ4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVWxcAOsfDkJrZJMuQmbVfjc8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/s6rvYTb/arcane-temporada-2-2-66e30b96abf6e.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GyfSbucJwgHb30WEITe6SK0Q58bLwxO4XGMpi/l3OVW4BvDoVBc2q3U1Jy4C31Oto=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "From Temp. 1 (2023)",
+     "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCfmrpKF9Tix6P91sTO1nLtaWIMAvvefUBpCi+wvckylw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCNaMZySJOtm4QjRkTVkPBG8E3T36/mcLisy0lQxwXIVk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCH/38qWr+fEYxR/jlV1540KrFPJqUH/Y/6Ii9JYPgbDU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCCsbyKGrlS9cavYb3Laa3PzpWLUrSRA4NMA3M23fReK0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCPyOCwOfp6GRIXCEfkNcZ+OI/B3/xrcE2Qv8sd17p6uM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItC9JpIe080wE0DmtzTjxNiXkAZLXZkBxOYOdL2YaeUBxY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCDosWEF3+awXa/Pe5aX9Bu5DN2yGkJQgWBtfqBp2udrU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCWnnq7MFTv+i0Eb9ZWlfqLYkbuo6tUV8/OkY7gAIUcVo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCdVyxXOPQNRTqLalFBHtGwnb8HUXIE3/Ll8sJeIoY31A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://i.ibb.co/tBDPpjw/from.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Gy7Uw4Aorjk+F1rIQVMItCN9dNCmhRHXktUOswhUGhay/zbb9nqr8jEg9kvHAqYHc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },
+	    
+        {
+     "tipo": "serie",
+     "name": "From Temp. 2 (2023)",
+     "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzSnyiF7WqxfYVICsJIOz5SF9bHbAmuDHgiBwKsKzsgqA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzciiUZf15QEeVmQG8zlvjRdEloCIUdbbTtgqWObD7D5g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzd5JJKLpuChZlqnIQskwX6+9P/7aznW0e/hMZo6eO7Rg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzmiUf1NtTu8fChPMYRmaamB5NuasnQVOmNXZ6AgLIO3A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzf4Bd5Nflh0s3+bB1Vip5SujgPZIC/RUHRGckhNGJeDk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzSx/2skYXNBFtib/hqmbDhdEkr43gDGmyxxOXd/jK0Rs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzvoo1wRPmOiuQm+CdQPguKIuSB4PSozBrinuw6jQOmNU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzO9Y7dxNvJSX6ZA8boUtzPnc9CyPnDoopCMkyr8Bv0pY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzZ1O5ae071Xx0J59ohJrqQFDPSy9kypoCzV6mfOq7AC0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://i.ibb.co/pd6dtDT/temporada-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5EoPzi+GN1crXqOPuA51ZZzRGsleWy9MJBSgpNWHsEvr3cHHaTzOuxp564pAZwCGnI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	   
+     ]
+       },
+      
+	{
+     "tipo": "serie",
+     "name": "Ángel Di María: Romper la pared (2024)",
+     "ico": "https://i.ibb.co/CvDYf9Z/dimari.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/CvDYf9Z/dimari.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FPpy7u2go5oj/z3wsny5n3hyywhNk5Nck6F+7I9wo2BD2w1gkPKpneFUOuS7k8vbQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/CvDYf9Z/dimari.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FPpy7u2go5oj/z3wsny5n3hyywhNk5Nck6F+7I9wo2BCyLBte/1yMr2glDKDkzPsI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/CvDYf9Z/dimari.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FPpy7u2go5oj/z3wsny5n3hyywhNk5Nck6F+7I9wo2BAtA/fzhfiWTj/KDi0x6eec=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+       },    
+	{
+     "tipo": "serie",
+     "name": "Las hermanas Guerra",
+     "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+     "temporada": [
+      {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kqluFBLRWRYIBkn3vY5aALTpTXPEEgRGTskBcu9Pc6KQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kkU9kelGBgBAiR5lMTclNp+dR9ocnvg8iPqYX4AsaZfQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kxWxqu8bPMQg4YHV/0PbXoloG+nuIC4Z8DnnIzrG3KVk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6k6lO3T+XER2oSBxPYzfvlHMQ/akx/n2d++YLY3EoH2z8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6k4K9KUe4nSdMI7F51/J5resFKzDLmp8hgDzkiXbNbCwM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kFbnUCwwCyyeIn3d7Z+YRj6XITmFG6qBb4ECPWP1NT5E=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kz1GbxKiNSUa4cXd2XQyjZ2QJmwNxbhU3Q3R0cB0NAKQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kg8iafWwKfNfO3QecpEsv2JyytEKwRx3d1VcRIxROONI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kIA2NLT+VV6qJLg5jg3P7Bp/hLiQHoQBXavG6q/w0RjQ=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kmLe7q7gPlasA+q/tCQGXV/i8X+qTXSVcuOfoUzhltSk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 11",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kcEJ3l9o5yfosoLc46Fpd05UHRZKF8FpFsDeHWYbqmyo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 12",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kk3MZQITCLHdhQCAbn7pm8rWgmEY3Rs8aDdAAtoOkt84=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 13",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kblNTSRgG2fBWqeo5zJ86/ganz7F1ee7mC+bDoNNwANg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 14",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6k/8c1bJDktg4wsz7Ucz+Uj2zLIg4ISdJMZOELMrKCUsc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 15",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kYViYVEPLskJRQWynJqaz5iEg0lXliB70l/XMcvSJsjk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 16",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kZMkuaR6ZCYLn0T/R4DuRaoB7ODrfRz1hL8Df9XfihTU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 17",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kT6h1EETmxcx0/yECUw4wZYEcwjUqf/Ezn9dVqT5QEdI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 18",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kfeBhriQgkSSi6gHRq5vYBQGmlPpseCEXg2IQngq8ZN4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 19",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6kJ5JTU9ZjShB34KNLdpl+c2OL5FvM2PBvuWdgAaesdJU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 20",
+    "ico": "https://i.ibb.co/093HWQt/las-hr.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxCQdiW6b7GQmflQtFyqNL6k8GvdvNdVMp44GbvBdynF83Ba4cKDC/skVk7e1SpuXME=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+       },
+	{
+     "tipo": "serie",
+     "name": "Nacidas para brillar",
+     "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KITFKus/knGH2Mb6sIUkqxwyEesrBWP/ukUu1gNZcCEiw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KItPDgUqEN2t2Lgoo5mXjtfv/C+ErekLY5PcBgCEy1wRU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KI6r46qpKET55OMOhJXe/uXpl2NggPuBWPlXJjeUbQ288=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KIjVtEBpUdXFzlT1dDXbTmQOt3l00ukKrRJXhOuO/TJuk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KI976u2MhdmvJu0PuDXbq8TfuuFlmfzv2zvZ1Q0+5Uh+I=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KIfPgi37boKT3kfjOo5fLrMyPhZa9ChQ1Aj+LyY7YqhQ0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KIl9SHBjAkd1gvLeoG47+2kOX7UxW469LbqduANqEcIN4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KIerXMi0iMgFFoM2VD6H5w4W8naOtSnlRJA0fSGplw7XU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KIeOt3jVDMroseUUQOo4d85VOd7lqWwKBF3BczmbDC+4o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KI3w3lgMVwOgqKHE0zoQEvfGfojlo6BPWlltnXsjwsY+o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 11",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KIRsm0mzNHOKjS5Iaabsc2GTA/I4JYFTHfNe3Khuq/zW0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 12",
+    "ico": "https://i.ibb.co/tQftJ3C/Nacidas-para-brillar-Poster.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxC+CtsbkRf/dNc9qTYZN4KIjvJ3jDAF29H8O2pcj/0O25hCP4f927DZc9/jMpcctzc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+]
+  },
+ {
+     "tipo": "serie",
+     "name": "La jaula (2024)",
+     "ico": "https://i.ibb.co/BGCLbTc/La-jaula-Serie-de-TV-164376954-large.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/BGCLbTc/La-jaula-Serie-de-TV-164376954-large.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxDxDHLZ7fFp3YHrXsvyzSm7zDBanmXOYzSyr/VrDo5VDWIlUHxYNdtK9QTeNIvraI0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/BGCLbTc/La-jaula-Serie-de-TV-164376954-large.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxDxDHLZ7fFp3YHrXsvyzSm7AGlICwC7DJ9+PezHGWF0Vo39jx/wOuRM/hzYoBhgIpY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/BGCLbTc/La-jaula-Serie-de-TV-164376954-large.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxDxDHLZ7fFp3YHrXsvyzSm7IzqkcagAMLL2wFEaiUqg/2dw9hEehzKYAILwapSz068=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/BGCLbTc/La-jaula-Serie-de-TV-164376954-large.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxDxDHLZ7fFp3YHrXsvyzSm73D/uDPfm0BxUqdmdBcFG9PU98UWdmV2uPzQUicmv5MY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/BGCLbTc/La-jaula-Serie-de-TV-164376954-large.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxDxDHLZ7fFp3YHrXsvyzSm7flyRF2mcJ+AXWJ91tgsQmc6Uz8cMUaw1f6yaUPatxBM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }   
+     ]
+       },
+{
+"tipo": "serie",
+"name": "Asalto al Banco Central (2024)",
+"ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+"temporada": [
+ {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxBsI8OrOk4WK8YT8Ef5RLzULGvMO/tUH9XKXekhgjj2piQDlWcTzzCL1ufO9WuGrcs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxBsI8OrOk4WK8YT8Ef5RLzUxFz2tGabAG9VO48C8YSVXXCKICiwUlJnqGgL5KxZ+2o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxBsI8OrOk4WK8YT8Ef5RLzUpUgz3r2dvpcrWKoDkUyQuwsKv53EzrBL/w8FvPFUhH4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxBsI8OrOk4WK8YT8Ef5RLzURrFfQ8QTk4nRTuUM4VyvlHb2pdfrQTVhDSjkzwQeoZ0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/dKz9QRS/asalto-al-banco-central-977152455-large.jpg",
+    "uri": "LBDC+EY3WDiB/8FAA5kYpgQa5fzab1z24eq+Dt9ixxBsI8OrOk4WK8YT8Ef5RLzUNdVh1qcpk60yn3X/EhTdAfluZOuRctmTWhAMUcf644w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "▐ SERIES DISNEY+",
+    "mode": true,
+    "lista": [
+	{
+     "tipo": "serie",
+     "name": "Argentina ’78 (2024)",
+     "ico": "https://i.ibb.co/6PMSfB0/arg.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/6PMSfB0/arg.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Hgt+ufIWZB7mR1Km8ZyG5to7WZVJIY2q1a1ltRnS4W7w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/6PMSfB0/arg.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Hgt+ufIWZB7mR1Km8ZyG5tBYpkTK451hTpe3TucNe5Uw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/6PMSfB0/arg.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Hgt+ufIWZB7mR1Km8ZyG5tJpeWPwO69WaZH5havLDBng==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/6PMSfB0/arg.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5Hgt+ufIWZB7mR1Km8ZyG5tYwsVp+wB15kdfc4PRwWOiA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+       
+     ]
+   },
+       {
+     "tipo": "serie",
+     "name": "Agatha en todas partes (2024) Temporada 1",
+     "ico": "https://i.ibb.co/Wvd81jt/1638792agathaallalong-digital-ka-payoff2-v4-lgjpg.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/Wvd81jt/1638792agathaallalong-digital-ka-payoff2-v4-lgjpg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lUXht/7+T+23dDrd3F32YlqXTRp8KmIQd1oWocXtLnmlB+ps/9LEUsUjcN6nivoorA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/Wvd81jt/1638792agathaallalong-digital-ka-payoff2-v4-lgjpg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lUXht/7+T+23dDrd3F32YlqXTRp8KmIQd1oWocXtLnmlgfxojOKsHGVGKD2zoXMqAA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/Wvd81jt/1638792agathaallalong-digital-ka-payoff2-v4-lgjpg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lUXht/7+T+23dDrd3F32YlqXTRp8KmIQd1oWocXtLnmlsOgf6zJ9MHD/ju+lwhTMWw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/Wvd81jt/1638792agathaallalong-digital-ka-payoff2-v4-lgjpg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lUXht/7+T+23dDrd3F32YlqXTRp8KmIQd1oWocXtLnmlL5avsHbJmbLpjeJffu/zjw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/Wvd81jt/1638792agathaallalong-digital-ka-payoff2-v4-lgjpg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lakZZls1rVnVczBukdkVaxKzunCVhKAYcp4esDVyP7K+Jdjt89ILsFaVUxZ3f0FbXx3rnORVv8+QLQwBEJl3A1YQoITHb4ZdyS44vMN0XR8x3pr3zaqCsNdIdRT+e2U0cg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/Wvd81jt/1638792agathaallalong-digital-ka-payoff2-v4-lgjpg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lakZZls1rVnVczBukdkVaxKzunCVhKAYcp4esDVyP7K+Jdjt89ILsFaVUxZ3f0FbXw9WTQCEGkT6bYjZ+rVGF5T4+gZUR6UrmnccGh6AD6yOb5gQpEQ3JOy5izYemyDe6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/Wvd81jt/1638792agathaallalong-digital-ka-payoff2-v4-lgjpg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lUXht/7+T+23dDrd3F32YlqXTRp8KmIQd1oWocXtLnmljgY6J7052u28vE87PCZVvw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/Wvd81jt/1638792agathaallalong-digital-ka-payoff2-v4-lgjpg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lakZZls1rVnVczBukdkVaxKzunCVhKAYcp4esDVyP7K+Jdjt89ILsFaVUxZ3f0FbX9uiLEveOzQDRh4bWOfYs7rgEdrQBOFterhVnl7uS03F91B5smgJ3rcy5EtmABXP0ARCGn8oYhgQ9dui9bdvKkA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 9",
+    "ico": "https://i.ibb.co/Wvd81jt/1638792agathaallalong-digital-ka-payoff2-v4-lgjpg.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/lakZZls1rVnVczBukdkVaxKzunCVhKAYcp4esDVyP7K+Jdjt89ILsFaVUxZ3f0FbX+Xo37SfL1Lh39X/h0FD6jua50Ulip4LIb8yOIaQFzzUGCI0hofIvs0fKr7I+bi5xw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

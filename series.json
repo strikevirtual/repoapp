@@ -804,65 +804,66 @@
    },
    {
      "tipo": "serie",
-     "name": "ENGAÑOS (2024)",
-     "ico": "https://image.tmdb.org/t/p/w780/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
+     "name": "Dragon Ball Daima",
+     "ico": "https://i.ibb.co/4fpqx1M/da.jpg",
      "temporada": [
-       {
-         "name": "Episodio 1",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5D24ljcQIgHye+tCsForm0RTlXHV/DsCw7byUb+dZcWhE=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 2",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DS79VqFRUvgKhUNcXImFXoar9ETMr6G3q1LUFej3salE=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 3",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DorN9x3JQAxTbzRGYXkEAxN2Le7vLOv0uF/SuuklvkJA=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 4",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DrMRlD7JrjBFHE1gN7QE0FMPuI1ofOh/fIgMFz0hZCtI=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 5",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DgOn1oYmCtvHMJZGfRP4sbWXKeJnGhktMi9/YEAv20ig=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 6",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DqzBBsmyGy0JocRbbkECfwXsyWm4uGUvBJvuf9Orsdqc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 7",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DNYby7yH7GZZpM2udaxj+CxROlYBjkjn6ZD3K6n5oiUs=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Episodio 8",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1LjGpkGv4RLcp6KMga7E5zk2h.jpg",
-         "uri": "gnM2Pl1UQqhVm57+2mFhDCfPaz7KrL8E6toZ1VJT6VMJZUnklhTQNyYRDFErvl5DBImQ49NpcFR5lmk1I4Kn8GCi/7GqUn6c6aPtvahZBpc=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
+          
+      {
+    "name": "Capitil 1",
+    "ico": "https://i.ibb.co/K2gwKrx/cap.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyG7e6gwDWGSN4VR/hW8BkVg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/d5RcXrr/cap-2.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4FtSfnKSIoHITrjjbdAa5Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/7Kp3WZv/cap-3.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyC4bTQ5tAqtok1PsEIpFSuA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/c6BYFTH/cap-4.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGy4G/hZ0VMAa2wPJFSZ3Im6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/q9rq626/cap-5.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGycmMXgpuEzlaPlX+oxgkmrQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/B4N0stv/cap6.jpg",
+    "uri": "nnQ4vk+dR/V6QKQ9uqk/ld5E7jx52uEb2nxLEC+fPaY3JSX6Tlxxrv+leE5Y4dGyb8KqNQ8Eh2oGn+SCgK7jlg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/PQP0mxd/cap7.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3CIzyxRTvf6jqR6TorRnBc1auHz8wlyFSFj8eyFWIy0tOB8NhPCmlG6lVND9Y7HuY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/jM8ktZf/Whats-App-Image-2024-11-29-at-23-31-06.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HcjcyxWTF9SsmcI1WGhVukUl7A54wjaRyUmeDOIkGbRQQbvAG4Llg+ABDQ88w7QJw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
      ]
    },
    {

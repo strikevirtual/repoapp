@@ -1202,58 +1202,65 @@
  "lista": [
    {
      "tipo": "serie",
-     "name": "PACIFIC RIM: TIERRA DE NADIE",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
+     "name": "Detective Alex Cross (2024)",
+     "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
      "temporada": [
-       {
-         "name": "Desde las sombras",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lpQg13Et/4DBdCIG3ruWVYC84olFjLWzR6tiCFpl2Gms=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Hacia la oscuridad",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lTiqlHGeRYf7MvmvJ5CSJaFhMXuy4skBBpX/q04ir7BM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "Bogan",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0ltCJmN9ZPAN0CF+HXv2fIEb+rg17i3hI5qcLBnalDwmM=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "En marcha",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lBaXHCjSkglcA41MSHhc5T5eLVJQFKqEzFWFAPKguQJU=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "La huida de Bogan",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0l3OxvtBfrah/7AawyssHGcmhjJdwNwHKMrj7dCwHmwhs=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "El cementerio",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lj6b8bbGyNuxFq5GM1GjuP5+0oXqgeE1kKUtkFHSjgik=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       },
-       {
-         "name": "La hora de la verdad",
-         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3mOpPwrcKCPVkSWGqEwOah4jdX.jpg",
-         "uri": "By+sB9ZemkbhlrohRyLOmoWv3/Hn622wrO8Ooke8clGeqEkKwEu47gQ/G5cd/o0lVcKKCCHoIkCQ01qSNZyapzLGyOOoSVTTeUyHGQrowgk=",
-         "drm_scheme": "",
-         "drm_license_url": ""
-       }
+      {
+        "name": "Capitulo 1",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDhaxgHmfMsC94h3V00k+D2GDiJEA6zgB2U3LSZOaqrVl+c=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 2",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDha9Kw01J12kKR8Rn1mqIeA/7sK6zLt13Bq3GYVUo8eDBA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 3",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDhaZWOoCmmxZZWSpop1PMjTvmNF8EvEGPyMOvJKMZLzVR8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 4",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDhaHzS4jDs+qg4Bg2ZgrVRYsm118x+OrZzm1RNmoreokpg=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 5",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDhasdvcOiYy/SVZnauAn4wt2+kmZWip0+Ul1YyHa4qz0cw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 6",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDhaNlnzFKUt47JsexKMQCx3j8gTUUANnkBJDishdcn6vF4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 7",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDha4lYR+zJVtQmpwafGWNM4gp7iTPgAOUKoPt2WTdZQYx8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Capitulo 8",
+        "ico": "https://i.ibb.co/gRGx0n3/f768x1-973083-973210-5050.jpg",
+        "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HiVTdd48+X9+Fgx4oIvDha3IqA2n7hc9Z0z4PS2bNuhZ4b21GCs0YXxU6lvZOc9No=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      }
      ]
    },
    {

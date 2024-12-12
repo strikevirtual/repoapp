@@ -1638,6 +1638,69 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+     ]
+   },
+   {
+     "tipo": "serie",
+     "name": "El Zorro Temp. 1 (2024)",
+     "ico": "https://i.ibb.co/2hFRnxr/c3f27dc133878aabdd9f8936e7ceb5e2.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/2hFRnxr/c3f27dc133878aabdd9f8936e7ceb5e2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G55WpGNyKTPqCx7SpuwUoff/UKV29nBkERndbYpw3f1648bwYjX8ti1eTVv/mYehs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/2hFRnxr/c3f27dc133878aabdd9f8936e7ceb5e2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G55WpGNyKTPqCx7SpuwUoff/UKV29nBkERndbYpw3f179PkQZ2VIUi5PeQX2ed47k=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/2hFRnxr/c3f27dc133878aabdd9f8936e7ceb5e2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G55WpGNyKTPqCx7SpuwUoff/UKV29nBkERndbYpw3f16hpUA4cgsztwsDjqyUp/28=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/2hFRnxr/c3f27dc133878aabdd9f8936e7ceb5e2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G55WpGNyKTPqCx7SpuwUoff/UKV29nBkERndbYpw3f11c0WbrrvhRYM1AiKdDMCTg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/2hFRnxr/c3f27dc133878aabdd9f8936e7ceb5e2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G55WpGNyKTPqCx7SpuwUoff/UKV29nBkERndbYpw3f1xi1QiwDj1SczQRR7to4uyU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/2hFRnxr/c3f27dc133878aabdd9f8936e7ceb5e2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G55WpGNyKTPqCx7SpuwUoff/UKV29nBkERndbYpw3f13f9xkdj2eCHF9On3+B5qnA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/2hFRnxr/c3f27dc133878aabdd9f8936e7ceb5e2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G55WpGNyKTPqCx7SpuwUoff/UKV29nBkERndbYpw3f1zsUH2tsF2QBfMa6koxer68=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 8",
+    "ico": "https://i.ibb.co/2hFRnxr/c3f27dc133878aabdd9f8936e7ceb5e2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5G55WpGNyKTPqCx7SpuwUoff/UKV29nBkERndbYpw3f12UnVLWtvVCz//z18U6HvBE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
         ]
       }
     ]

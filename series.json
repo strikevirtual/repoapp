@@ -1596,6 +1596,41 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+     ]
+   },
+   {
+     "tipo": "serie",
+     "name": "Producciones de Ensueño Temp 1 (2024)",
+     "ico": "https://i.ibb.co/x5GVm0G/Producciones.jpg",
+     "temporada": [
+      {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/x5GVm0G/Producciones.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FmKQSnSSvIImP7sLlP8J1gBiwpet/lWM23TeEcht8DEtXCCLnBIRetes9Zp3DYyAU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/x5GVm0G/Producciones.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FmKQSnSSvIImP7sLlP8J1gBiwpet/lWM23TeEcht8DEiWwH9r7bcGgtRtJXtm7hHY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/x5GVm0G/Producciones.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FmKQSnSSvIImP7sLlP8J1gBiwpet/lWM23TeEcht8DEjs5phXGxtVwLrt/QEpImcA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/x5GVm0G/Producciones.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FmKQSnSSvIImP7sLlP8J1gBiwpet/lWM23TeEcht8DEvJscqoRsIWXbwDaGh0/m6A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
         ]
       }
     ]

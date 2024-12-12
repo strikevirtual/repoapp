@@ -2014,6 +2014,70 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "SECRET LEVEL",
+     "ico": "https://tse1.mm.bing.net/th?id=OIF.%2bifAQXdLDx%2fonJw%2b0N%2fIeg&pid=Api&P=0&h=180",
+     "temporada": [
+       {
+    "name": "SECRET LEVEL E 1",
+    "ico": "https://tse1.mm.bing.net/th?id=OIF.%2bifAQXdLDx%2fonJw%2b0N%2fIeg&pid=Api&P=0&h=180",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GYcdWvc0lnuvgzn1HKuSuZn8Dxgs2nGhGd8PVSY2SmVw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SECRET LEVEL E 2",
+    "ico": "https://tse1.mm.bing.net/th?id=OIF.%2bifAQXdLDx%2fonJw%2b0N%2fIeg&pid=Api&P=0&h=180",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GYcdWvc0lnuvgzn1HKuSuZrqvt/cVap1r5rDBg3cbGGQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SECRET LEVEL E 3",
+    "ico": "https://tse1.mm.bing.net/th?id=OIF.%2bifAQXdLDx%2fonJw%2b0N%2fIeg&pid=Api&P=0&h=180",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GYcdWvc0lnuvgzn1HKuSuZ4kHiaQUPoAGEjkgBdtP1GA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SECRET LEVEL E 4",
+    "ico": "https://tse1.mm.bing.net/th?id=OIF.%2bifAQXdLDx%2fonJw%2b0N%2fIeg&pid=Api&P=0&h=180",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GYcdWvc0lnuvgzn1HKuSuZlZkND2FbLYANn6NZiyGuRA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SECRET LEVEL E 5",
+    "ico": "https://tse1.mm.bing.net/th?id=OIF.%2bifAQXdLDx%2fonJw%2b0N%2fIeg&pid=Api&P=0&h=180",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GYcdWvc0lnuvgzn1HKuSuZ+rAle0QVja6xTKZRggHE8A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SECRET LEVEL E 6",
+    "ico": "https://tse1.mm.bing.net/th?id=OIF.%2bifAQXdLDx%2fonJw%2b0N%2fIeg&pid=Api&P=0&h=180",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GYcdWvc0lnuvgzn1HKuSuZzHvYVKGfsUq8WpnNGRcytw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SECRET LEVEL E 7",
+    "ico": "https://tse1.mm.bing.net/th?id=OIF.%2bifAQXdLDx%2fonJw%2b0N%2fIeg&pid=Api&P=0&h=180",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GYcdWvc0lnuvgzn1HKuSuZFiBN+Okp8jysntfH3TOa9A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SECRET LEVEL E 8",
+    "ico": "https://tse1.mm.bing.net/th?id=OIF.%2bifAQXdLDx%2fonJw%2b0N%2fIeg&pid=Api&P=0&h=180",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5GYcdWvc0lnuvgzn1HKuSuZKx4Q3jy2kTmjXJSj8KHSDA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

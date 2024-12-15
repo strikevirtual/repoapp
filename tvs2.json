@@ -411,14 +411,42 @@
   },
   {
     "name": "TELEFE ROSARIO",
-    "ico": "https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Telefe-Rosario-en-vivo-Online.png?w=1920&ssl=1",
+    "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/argentina/telefe-ar.png",
     "uri": "EK37m29rGU7R9fv/4u/mwjrEScjWtiboCDyYYTaqwuR7YcBgQGsFjRWdQdvR4+Gs/7rQ+5fHFdcDLBNAUciS/+qTIJtTlElhHTydTch5A3OfWCDoeKSiLunURetlnwshPctN2IGW1EPsIAXq4hUkqA==",
     "drm_scheme": "clearkey",
     "drm_license_url": "LS6qxNscpFe9rDy2K+y73KCayB5nWoYJboCvHCLpvYNvHCQ7Kn66/PBcL936kv2b/QlEi7hlnvCeVsKH28SIEwXoArIc3IkzVZaaGN1TOoR1rysMmY7Dap7Rdo1ev3VbsvgwgDUQo61Z85C8D1Dkn8f62gIGUf7p3SIt7CJtmJI="
   },
   {
+    "name": "TELEFE ROSARIO",
+    "ico": "https://raw.githubusercontent.com/DryKillLogic/tv-logos/main/countries/argentina/telefe-ar.png",
+    "uri": "EK37m29rGU7R9fv/4u/mwjrEScjWtiboCDyYYTaqwuR7YcBgQGsFjRWdQdvR4+Gs/7rQ+5fHFdcDLBNAUciS/+qTIJtTlElhHTydTch5A3OfWCDoeKSiLunURetlnwshPctN2IGW1EPsIAXq4hUkqA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "LS6qxNscpFe9rDy2K+y73KCayB5nWoYJboCvHCLpvYNvHCQ7Kn66/PBcL936kv2b/QlEi7hlnvCeVsKH28SIEwXoArIc3IkzVZaaGN1TOoR1rysMmY7Dap7Rdo1ev3VbsvgwgDUQo61Z85C8D1Dkn8f62gIGUf7p3SIt7CJtmJI="
+  },
+  {
+    "name": "TELEFE ROSARIO",
+    "ico": "https://static.tvar.io/imagenes/teleferosario.png",
+    "uri": "EK37m29rGU7R9fv/4u/mwjrEScjWtiboCDyYYTaqwuR7YcBgQGsFjRWdQdvR4+Gs/7rQ+5fHFdcDLBNAUciS/+qTIJtTlElhHTydTch5A3OfWCDoeKSiLunURetlnwshPctN2IGW1EPsIAXq4hUkqA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "LS6qxNscpFe9rDy2K+y73KCayB5nWoYJboCvHCLpvYNvHCQ7Kn66/PBcL936kv2b/QlEi7hlnvCeVsKH28SIEwXoArIc3IkzVZaaGN1TOoR1rysMmY7Dap7Rdo1ev3VbsvgwgDUQo61Z85C8D1Dkn8f62gIGUf7p3SIt7CJtmJI="
+  },
+  {
+    "name": "TELEFE ROSARIO",
+    "ico": "https://static.tvar.io/imagenes/teleferosario.png",
+    "uri": "EK37m29rGU7R9fv/4u/mwjrEScjWtiboCDyYYTaqwuR7YcBgQGsFjRWdQdvR4+Gs/7rQ+5fHFdcDLBNAUciS/+qTIJtTlElhHTydTch5A3OfWCDoeKSiLunURetlnwshPctN2IGW1EPsIAXq4hUkqA==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "LS6qxNscpFe9rDy2K+y73KCayB5nWoYJboCvHCLpvYNvHCQ7Kn66/PBcL936kv2b/QlEi7hlnvCeVsKH28SIEwXoArIc3IkzVZaaGN1TOoR1rysMmY7Dap7Rdo1ev3VbsvgwgDUQo61Z85C8D1Dkn8f62gIGUf7p3SIt7CJtmJI="
+  },
+  {
+    "name": "TELEFE ROSARIO Santa Fe",
+    "ico": "https://static.tvar.io/imagenes/teleferosario.png",
+    "uri": "4FUtlCgU/TEkGdhXpMGt6/6hUY5RlgKGcrTY/PZ6dJhVxWPWIWDLYJy4hgBjqoVfIuyeQkaCG3IVeDhcrOuILFi++iysmDEWEkNz3Fs/Ziu/PDQOozyPItEkJGbzAY4h/0GQHUuYHReI9S70YO1d3Ex2PSwOwZ+m2IKhS0xhMoZFHXmE5sThVsq8rWyNq9j6FhIwb+3IJJQbvQq4cCoBjGpRNEhV0GqqpOiRL8dH5K/epER0/nTPodXydfkot2XngViZEW1m+GQmnuE3AAXqKw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "TELEFE SANTA FE",
-    "ico": "https://i.ibb.co/NmgWmYP/Telefe-Santa-Fe.png",
+    "ico": "https://static.tvar.io/imagenes/telefesfe.png",
     "uri": "EK37m29rGU7R9fv/4u/mwjrEScjWtiboCDyYYTaqwuRQkYbokza2l17itSgK2JPvGh55ieQaq1Acmy4NezwAvqKowe/xJ3mqm+eRudB0XvPHzvUUq52cGXRBT1KBEIeAwm3WsTndsr4zVibHFotAWA==",
     "drm_scheme": "clearkey",
     "drm_license_url": "LS6qxNscpFe9rDy2K+y73PRrc7/FsC3FhXgTgx05oimgLiiFPPruVmfYI200KHnYy+Wzt33PBu1HcO9qq1x6yg5aU/fDOjv/qWhMvQhnkHKXi+H1XVkM7QxQjjb7a5Qj/Wo9htPk31zyLEHj2H/loCzMtzioogc5U2XM4hwwWZc="

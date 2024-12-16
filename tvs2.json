@@ -1508,75 +1508,75 @@
     "mode": false,
     "lista": [
       {
-    "name": "HBO",
-    "ico": "https://static.flow.com.ar/images/68/CH_LOGO/350/500/0/0/8527518907875.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzEFbc9oDtfXpVudN+LDgOGw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HBO 2",
-    "ico": "https://static.flow.com.ar/images/881/CH_LOGO/350/500/0/0/30164333072684.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzNX7ZXPOjCdelIC5nfU8R7w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HBO PLUS",
-    "ico": "https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSz7ybhiIXghZ+R3Buq4Kb2Ag==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HBO Mundi",
-    "ico": "https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSz3UuF3BihfD5Av6HlfUr78Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HBO XTREME",
-    "ico": "https://static.flow.com.ar/images/705/CH_LOGO/350/500/0/0/7754024707334.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzfvN9uw6X7WI0OwBIEZi62Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HBO FAMILY ",
-    "ico": "https://static.flow.com.ar/images/882/CH_LOGO/60/40/350/500/9358483307335.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzXzczHEwqEaVcG6I/TprZ3w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "HBO SIGNATURE",
-    "ico": "https://static.flow.com.ar/images/884/CH_LOGO/350/500/0/0/1793376207500.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzSmSiXZosv0DonAJcc8bQ6Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UNIVERSAL PREMIERE",
-    "ico": "https://ayuda.tigo.com.bo/hc/article_attachments/17871817726099",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSze25x3+2QN02Zfq505QFwHA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UNIVERSAL COMEDY",
-    "ico": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzDng91XzWJKEx+sk6HmWQBQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UNIVERSAL CRIME",
-    "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png",
-    "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzwcMT90fgbFuwRTevAspPLA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
+      "name": "HBO",
+      "ico": "https://static.flow.com.ar/images/68/CH_LOGO/350/500/0/0/8527518907875.png",
+      "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQ7+8u26Eaq26Uo8rNRS7ZPIuYlWkF4zQFncWAl78aZAKW7qBUXruqxwFsyMvHxv3s=",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFF0zaDtgcXZbjOFb7oyS1nLetdVB2FRqkOdOn2ZfM5gW5BDmdrBWXHO5osP2c8qjIHtQp5nK4iY8Wa3lR8HZvbD2HLF11M4PQ28ToG07zPdACtPZ9DabVMeaQyjAI9BorOQwiLnGD9/vXdPn7/v/++A="
+    },
+    {
+      "name": "HBO 2",
+      "ico": "https://static.flow.com.ar/images/881/CH_LOGO/350/500/0/0/30164333072684.png",
+      "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCZWy9gr5+UB8JA9dnC1z7bKkLENAxCz4M/nGKat2J+8ZwD9uqmCW109CH4psptw/0=",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFC2tfgnqN5GPZiDwPbT/f/JUbcdA6f3J0sa3h3rue/mjOkW6LtCjJRv+ZlYPVRflMQ=="
+    },
+    {
+      "name": "HBO PLUS",
+      "ico": "https://static.flow.com.ar/images/883/CH_LOGO/350/500/0/0/17024645072165.png",
+      "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwR4Wn96M+DcJ90tU922xktIDaFO6DI4xbRU2ASnxRsu8Iibwvk1vC+aZRgterjU0HGUUeI7p6QxuNITuwB5soWU",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFF0zaDtgcXZbjOFb7oyS1nLetdVB2FRqkOdOn2ZfM5gWjrWP4TLQo+CEPQwDJ0Dvdm2+qb4bHk5gLyVjK9BjykRtbD1uezzZeMfeuZZRfoUp4zJ1FPHhhhxdUGp2iuhuUFwIDqQY41co5EiAt77dxXI="
+    },
+    {
+      "name": "HBO Mundi",
+      "ico": "https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true",
+      "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCZWy9gr5+UB8JA9dnC1z7bWJ/G/YdcwCx+1qPg07Z0F+97PHgDecBhjoMZTHlLSPqnBJCbQSAjeXy9R8iZuvuH",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKtw/NGhsIA36irXHpDlxFjYeZRKEas7fqr0ca7YUG4Hj79VZ45iMM/zjyJu47H7gfeYo4jZk1Kpjbcnev0pfChbwhp5kk/7U1zxI/oAb/Auh1NQWvyY9RW5+b6m86c48oA=="
+    },
+    {
+      "name": "HBO XTREME",
+      "ico": "https://static.flow.com.ar/images/705/CH_LOGO/350/500/0/0/7754024707334.png",
+      "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwRT3yPg+sqgeHncMFOTI8dZpZend8SRkuTWi6Lycvgep5G9RmNXV8VavR2tsQkzrEWwdZKHVVZJ1TFpbkHdsGv2",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFF0zaDtgcXZbjOFb7oyS1nLetdVB2FRqkOdOn2ZfM5gWssaTNbLKRPYfl32+ZWjnabBSCodrYI+88DpvRgGennIpmhvMA1aQJcrvRKTGPT7Yq8cpQqPDKk/5Ky1Rj4Lgg/f5MudTLTBNIAl+ls6rtbU="
+    },
+    {
+      "name": "HBO FAMILY ",
+      "ico": "https://static.flow.com.ar/images/882/CH_LOGO/60/40/350/500/9358483307335.png",
+      "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCZWy9gr5+UB8JA9dnC1z7beZ75K+Zg1liHz2zA1APbqCSgRXQ/nv2v+12/nxQOOCm6I5urr5I7KWVNBH1Kfwf7",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFC2tfgnqN5GPZiDwPbT/f/LSfcjCQfOVdxANSaYIVAQRnuV8VpwwPOqOQmTDLRyEog=="
+    },
+    {
+      "name": "HBO SIGNATURE",
+      "ico": "https://static.flow.com.ar/images/884/CH_LOGO/350/500/0/0/1793376207500.png",
+      "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCZWy9gr5+UB8JA9dnC1z7b3VxhDz8pM16ZqAXMy7fPJ8yeCkO53MUxKJ2VksWXuVeabMSqcx4KgwfPh228dFTd",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFC2tfgnqN5GPZiDwPbT/f/LWEJbH0EzyrT/GwnKnTg/2YAD6KZsQDvVfsFu0DUiF9A=="
+    },
+    {
+      "name": "UNIVERSAL PREMIERE",
+      "ico": "https://ayuda.tigo.com.bo/hc/article_attachments/17871817726099",
+      "uri": "EK37m29rGU7R9fv/4u/mwk1Fcl4rbW40ad1aChLtHIqQPPypmrREZDGB8g96tBq+hllbDlu1N2XSajdZ6McQq2W2AMvutrMEGAHcbhwSU37px65aceJgcPUw4g0/5DOp9vFhULKam4uCAoXvmo0eDw==",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFC2tfgnqN5GPZiDwPbT/f/LtiPaUSJylRtsCu0i33HCj0MjqJr/xSOdLB+9uk1Wmlg=="
+    },
+    {
+      "name": "UNIVERSAL COMEDY",
+      "ico": "https://i.ibb.co/GVxjP47/universal-comedy-dark-logo.png",
+      "uri": "EK37m29rGU7R9fv/4u/mwk1Fcl4rbW40ad1aChLtHIqQPPypmrREZDGB8g96tBq+3YdSrOXs/1o5y5Bi3vHyy98YBDmnrl0k3bLrR6tVW9sU4Br5znUmeLHQlBSzGuO1OGJNhGRLtNSNOqIklmT3DA==",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFC2tfgnqN5GPZiDwPbT/f/Kh4KBBFudAwlxpjIpHOHcaOx9WHAtmmPDF4hRC2rickw=="
+    },
+    {
+      "name": "UNIVERSAL CRIME",
+      "ico": "https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.4aae93a0b99c367cbf5a8009be92aa7d.png",
+      "uri": "qAkPpcqwDaGiIQEhKarGaNVQCbNCePjXzS17b7JN13hwY2AwEfpEJEdLyLOrkT4k6ZQ1MesKFugHwcrtPUYcoek6x+45Y6ib5+IVoa9uXahVw2h3wh1EU3ijTyvNnKTs",
+      "drm_scheme": "clearkey",
+      "drm_license_url": "cq8lmqYbdUxwFC26Y+SbFC2tfgnqN5GPZiDwPbT/f/L/z/xQOpa9EowNAma1LhP06A/Xl4GX4eTTIiL1G9fwew=="
+    }
     ]
   },
   {

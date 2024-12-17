@@ -2078,6 +2078,56 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "Kingdom TEMPORADA 1",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
+     "temporada": [
+       {
+    "name": "Kingdom S1 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vvaz/otS5MhjMxV7omvVohg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Kingdom S1 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VGNBe7CgmW5ZguKC6QJrySg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Kingdom S1 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VWMYfy3aVf5+Bpf90BlJl/w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Kingdom S1 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VVL44Ujzdv1K4MVrzaX+Ylw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Kingdom S1 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V1mmssYzY4CRWXdK6mdknGg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Kingdom S1 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VykQbm9W/WirY98wNHkTpxA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

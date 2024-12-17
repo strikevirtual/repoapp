@@ -2222,13 +2222,6 @@
     "drm_license_url": ""
   },
   {
-    "name": "EWTN CATÓLICO",
-    "ico": "https://iili.io/dblYQJn.png",
-    "uri": "dez5A4z4WD5QF8gm7PEZMC3Vpk5/scohOnRA2EUHVN1wTC/3+iiMmW2YtWiscz5mkjFJtVjpHpkZipBEwfCuer5x0usSv3uYZzbltDgXN+60E5xPVp72xgmDUugPFZCm",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKudzk5hE2BUoPEg3F17wZMzjv2aW/4MUNuz7WlW/jlgahoLOalD5tNEcfDKkHQDNq2kdlXZoEpkNDXzNZvSeq9LJJnmTsebWvoWmCblboSF3ZnPLsJ/fpRSSvZsMEE26xA=="
-  },
-  {
     "name": "CANAL LUZ",
     "ico": "https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDlDWQjneejAb5ubM9NMXyyBmFrXrGpd9LjK48+2GWfBgoZHvAFXbtAYn2ULURSnBozzIAsOk36lwGE6YSD+yu3",
@@ -2241,13 +2234,6 @@
     "name": "ENLACE TV",
     "ico": "https://media.licdn.com/dms/image/C4E0BAQGkzVsyv8wkAQ/company-logo_200_200/0/1630629848056/enlace_tv_logo?e=2147483647&v=beta&t=X71naiwFtfy324-44u9p7qo7Sjau7U-0eOVIPGo4a74",
     "uri": "O0d3EQuudX7XPiHXPxtE00ldzzSfvM4KBg5BNOMX2110ruhIZ4E4xj76JE/qrAX7G3nkN/33xY6Og40+l5vKHcfcs6t7qgVuC9AJLP2ia4BdMf2iNzHoFz+Sf5m6Wztu",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EBENEZER HONDURAS",
-    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/367dce69c71ae47d73ab92638794369e.webp",
-    "uri": "PDXXkF66a1n1sWst+R/kK+xetG4j77i8NQPnyPz+ZHDnbrsdgOHEYboNtEzX9ak+LmLhDZBr+Q9gYvj8jgV3vrTxNXXuEj05UtLz4l4zu8avTF5Y+XJDFvxnl7Aj4dPp",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2266,22 +2252,8 @@
     "drm_license_url": ""
   },
   {
-    "name": "MISION VIDA TV",
-    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/352e33e766ec2e3d17271c7faeac54c4.webp",
-    "uri": "X3/0TETygVWWYE5By4wW3mjBZuE0dnYv69zORhIe+ie+SH+X877ZXWHEly8AFweMS945dQoeGboG4Et1ejVpfJRWnqb1rtjq1xm+UT4hLLTEJUT8G6QzHCLmpNNVi+FR",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PRESENCIA TV",
-    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c32e4c6d73b63dd532a48dd4e17f634.webp",
-    "uri": "w6RHsSrrsq1yRXpg8JN2gIzpJVhIQ2z/fz4JQyrdWQFpO/91OviY0h4Oe2WF4H5qMuRvSMLAi01oURkd17yfxg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "CBN ESPAÑOL",
-    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd3c736b140e74c9afb1c88fb207892.webp",
+    "ico": "http://www.cbn.com/images8/cbn-espanol-OG.jpg",
     "uri": "F4FG8AWk0axJDxy4C4WUbzaoEmehGPSHiOIFsOKzOfJYOvGh4bRPfiJEopr7j9i86HLvkBrkgPF78VFxwID+c3Rp1v/LHDACoCogAA9mY6wjdjUpvYMKLSdLTi9efjx9pOvttznNYCYN5eTb2dz8JQm/RRYC52Ffo12Beozmw8s=",
     "drm_scheme": "",
     "drm_license_url": ""

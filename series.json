@@ -2833,6 +2833,77 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "La canción de los bandidos  TEMPORADA 1 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
+     "temporada": [
+       {
+    "name": "La canción de los bandidos  T1 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VNf1zgoR79gDB7mNL1T5egQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La canción de los bandidos  T1 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VOiFf/K1Z4zS6u+D29JuV8Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La canción de los bandidos  T1 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VthiyvZZbz78wv90kSx4wMg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La canción de los bandidos  T1 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VusmyXf/Kgttk0yVTcH1jYw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La canción de los bandidos  T1 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vp8do99e8w6HMGjF2S23JoQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La canción de los bandidos  T1 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V+ygJPlVJluoDslBPxQinkw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La canción de los bandidos  T1 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VPx0lHYyXzfDqeyGdbIKReA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La canción de los bandidos  T1 E8",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VGYA8KYadFukL2mRwtB2ZDA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La canción de los bandidos  T1 E9",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBwRSywED04vCkZgnhHPHqBcBL2.jpg",
+    "uri": "gDmzyYDGPRUFYjeqo42LBWxqKTZFSNHRKE7dRq0c8FpM+Bmblb3K8j0bk1Kij5d06tf3SotEVyMSqMCoIW48okdkNZHMtnhDAX2DSlBC045sQ2CbB4ufZS8kD6jUa0WU",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

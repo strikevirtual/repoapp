@@ -2078,10 +2078,15 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-	   
      ]
-       },
-  {
+   }
+ ]
+},
+{
+ "name": "ASIATICA",
+ "mode": true,
+ "lista": [
+   {
      "tipo": "serie",
      "name": "Kingdom TEMPORADA 1",
      "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyfv3BgUM85KXSvMqjMi0NEYDtN.jpg",
@@ -2189,112 +2194,112 @@
        {
     "name": "Snowdrop T1 E1",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101061.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VrdI4pBL6pR/W8pABbqleBQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E2",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101062.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V9lYtDHzGZTEps1qsOheyAA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E3",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101063.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VZDTQbh41XBHr5ngK8jZcHA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E4",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101064.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V/yFItuHXNxOS0zJ2R3gfRA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E5",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101065.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VzXvsfZDLlQXZwDfgsvIvhg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E6",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101066.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VLrA6Bne+JGP7ilSA106d6w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E7",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101067.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V+eNp0vJXOrWLkLrQ7vl+hA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E8",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101068.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VM6DwK+bRcunOaa+f4aBVvA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E9",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101069.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V4A1/9HvZFVf5eR5vvW9GDw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E10",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101070.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VnYe8xDK/HY4/cVKI2mhOuA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E11",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101071.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VmCrPY+ALYbf8aQ10WvXjZw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E12",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101072.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vko3vL/Dj8uEk34KXnpcz6A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E13",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101073.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V6e09Mwaxdh6iM8pwRVorvg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E14",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101074.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VYnmw+/H82KmEJFz73L5VNQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E15",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101075.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VPR2ppR1pyXG+HVhPOGeluA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Snowdrop T1 E16",
     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
-    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101076.mkv",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VaN4BzUu5wQGV1/Aq2Csoiw==",
     "drm_scheme": "",
     "drm_license_url": ""
   }

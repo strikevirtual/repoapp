@@ -2178,6 +2178,126 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "Snowdrop TEMPORADA 1 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+     "temporada": [
+       {
+    "name": "Snowdrop T1 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101061.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101062.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101063.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101064.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101065.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101066.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101067.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E8",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101068.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E9",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101069.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101070.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E11",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101071.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E12",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101072.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E13",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101073.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E14",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101074.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E15",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101075.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Snowdrop T1 E16",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92HEQJhG5HsFOidrdb4YCcWFWHU.jpg",
+    "uri": "http://tecnozone.site:8880/series/OsDLeon/OscarDeL/101076.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

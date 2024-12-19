@@ -3179,6 +3179,63 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "Destino: La saga Winx  TEMPORADA 2 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2w4m8fMKXdU5mx0pbCNkTtQyHr.jpg",
+     "temporada": [
+       {
+    "name": "Destino: La saga Winx  T2 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2w4m8fMKXdU5mx0pbCNkTtQyHr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VrVInfESIDV/ceKLVnMhNfw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Destino: La saga Winx  T2 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2w4m8fMKXdU5mx0pbCNkTtQyHr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VDSnNhyZXjCMBjtMdi3onlw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Destino: La saga Winx  T2 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2w4m8fMKXdU5mx0pbCNkTtQyHr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VMwS7oQhlyogQiWMunJFLlw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Destino: La saga Winx  T2 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2w4m8fMKXdU5mx0pbCNkTtQyHr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VXGTTnjod5PvbJDmizkyM9Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Destino: La saga Winx  T2 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2w4m8fMKXdU5mx0pbCNkTtQyHr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vzq4fpLDxiegXnA0TBB0oig==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Destino: La saga Winx  T2 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2w4m8fMKXdU5mx0pbCNkTtQyHr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VlMSiVxcI4OErP8zIELkWuA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Destino: La saga Winx  T2 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2w4m8fMKXdU5mx0pbCNkTtQyHr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VtOC4DkZLAe23FGLMlbYrWA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

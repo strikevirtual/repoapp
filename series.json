@@ -3604,6 +3604,56 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "Loki  TEMPORADA 2 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4S2xNIEb0DNUxi3L6p1SDxNiLR.jpg",
+     "temporada": [
+       {
+    "name": "Loki  T2 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4S2xNIEb0DNUxi3L6p1SDxNiLR.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VROTgOA5LMxL4iaX7pXELDw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Loki  T2 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4S2xNIEb0DNUxi3L6p1SDxNiLR.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VFem3JMYlDZG/5t/ZgjMa6A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Loki  T2 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4S2xNIEb0DNUxi3L6p1SDxNiLR.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VetwukTFsryAMw0HKJ5SQpQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Loki  T2 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4S2xNIEb0DNUxi3L6p1SDxNiLR.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VAegpofWd5pQjQxXmj6K2CQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Loki  T2 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4S2xNIEb0DNUxi3L6p1SDxNiLR.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VWMd/8cIibLm80sBn6vDslw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Loki  T2 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d4S2xNIEb0DNUxi3L6p1SDxNiLR.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VuxN6LHI/25HZnOhwGe+zbA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

@@ -2996,6 +2996,75 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+     ]
+   }
+ ]
+},
+{
+ "name": "CIENCIA FICCION",
+ "mode": true,
+ "lista": [
+   {
+     "tipo": "serie",
+     "name": "Monstruos de Cracovia  TEMPORADA 1 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qecZdDeBGGxhmM6Py2GFTkmtVUz.jpg",
+     "temporada": [
+       {
+    "name": "Monstruos de Cracovia  T1 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qecZdDeBGGxhmM6Py2GFTkmtVUz.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vt+VgJ8QaX6YdlfgoV7TaZw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monstruos de Cracovia  T1 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjByJfzEPraiPIqCtEmMeAJbTYf.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V/pzHTzZ05ypVOuuiUyCajA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monstruos de Cracovia  T1 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAzOfDLaURGd37aBUuyu29ff6zH.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VZfsamGwJa+k9FanbwXJeDQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monstruos de Cracovia  T1 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxYrygMxpCBSY0idIOwlNu55QDH.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V8Ry8OsjsH242kBrRoBs+QQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monstruos de Cracovia  T1 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBtsplLra6yLOmnlV9cQs8KmQq9.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VICIIg+KN+MGMDKrI7ZrXmA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monstruos de Cracovia  T1 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcN2xh55dox0JEQv6KxxlP3XWnW.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VY15Co7G0fyr0uZEZux83vw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monstruos de Cracovia  T1 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6Vc9taioQk5wGUZPTKyQe8jIZ3.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VTPdEEg+kPwl6ktJgMhbqKg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monstruos de Cracovia  T1 E8",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Crjx3P37c6fQFGthRVItFtvgI9.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VDoZzWPQz1sgwO5Izei6owA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

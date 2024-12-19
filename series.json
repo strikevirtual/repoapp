@@ -3300,6 +3300,84 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "Helstrom  TEMPORADA 1 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+     "temporada": [
+       {
+    "name": "Helstrom  T1 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VziMxqY5exyIJilZioxqlkA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Helstrom  T1 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VxttZ43efMyXR4kZgylKtXA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Helstrom  T1 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V8y8PuntDG5wjV4jSM6xBIA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Helstrom  T1 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+    "uri": "3o1n+lhlglhiTUGWebU9mjQpDRz5f1ZETBoqCs2SyuPD7sVbnkaQ45MvmqitZkw3tPQ8i+dLlW8PnJkMP8CiGVQgFUYx8G2wuPqI6+/H46g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Helstrom  T1 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VtYJbc3YnSGo9rv7i1W/RQA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Helstrom  T1 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VqnOgaJ1LqLaqvFJ+l3UWXQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Helstrom  T1 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VT/TN+2LZwjMfeM4vlCKe9Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Helstrom  T1 E8",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vq+8e0a7wBXx+vozpto9Yrw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Devs  T1 E9",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V67TViTo057Oe9Rg3f2GIIQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Devs  T1 E10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGFuSOOkkhM0XdVFm2ZT20k45Qg.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V+oxhEa4nXLhkYvGgo0dGLw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

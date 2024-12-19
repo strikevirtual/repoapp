@@ -3236,6 +3236,70 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "Hacia el lago  TEMPORADA 1 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3hMTUxGcq6uhtO9vbZEm9wGcym.jpg",
+     "temporada": [
+       {
+    "name": "Hacia el lago  T1 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3hMTUxGcq6uhtO9vbZEm9wGcym.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VZZN/o7bYyQV7EzfBHjGPYA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hacia el lago  T1 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3hMTUxGcq6uhtO9vbZEm9wGcym.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VLVt1SazO0CqEcWmy019syg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hacia el lago  T1 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3hMTUxGcq6uhtO9vbZEm9wGcym.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VlaEZY7LuyY//yPuRh29zpw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hacia el lago  T1 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3hMTUxGcq6uhtO9vbZEm9wGcym.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VmZJ6M4tJk/L2c9i1U4vS+w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hacia el lago  T1 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3hMTUxGcq6uhtO9vbZEm9wGcym.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VBSEJ5YPpe6iodJUhge8ucQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hacia el lago  T1 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3hMTUxGcq6uhtO9vbZEm9wGcym.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VUACEOlBSkCpLPkXRiRbd8g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hacia el lago  T1 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3hMTUxGcq6uhtO9vbZEm9wGcym.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VPhUJsVV7kz5JrAT7pQci2g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hacia el lago  T1 E8",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n3hMTUxGcq6uhtO9vbZEm9wGcym.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VGS+uSLLB+Cy6enuzr+yjxw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

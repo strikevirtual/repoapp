@@ -4514,6 +4514,98 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "American Horror Story  TEMPORADA 5 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCWlFYFMLaRqFzofimGitGbL3Xo.jpg",
+     "temporada": [
+       {
+    "name": "American Horror Story  T5 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VsmBfzduIExmXSwbg8GfGwA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V1hdqfyytVMOu/2ldqRVreQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vd2xfsgzDqAxsi+myBXwBuw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vicunmf9g2ONdxfwbSrwfkw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VCS0Inp2ksm8Hsu2/00jTlQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VYtVbtWOyjeW7V7VIBsuoyA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VQnHEKpRvDhHDZsamQOF96A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E8",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V3QRFPdV2PY0D2KuJW2xmOQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E9",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VUGoo65RF56puGAS8RyPutw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VNlSfKLNJcs5W46Pj+6gNsg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E11",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vg/KTYHMG5SmPP9TMuXqUAA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T5 E12",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VfDv3j3f2Iedr9aaAEFOEnQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

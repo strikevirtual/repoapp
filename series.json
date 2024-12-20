@@ -4769,6 +4769,84 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "American Horror Story  TEMPORADA 8 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+     "temporada": [
+       {
+    "name": "American Horror Story  T8 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VB572bxh0N4DyCTyG5Hh06Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T8 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V3oPGsKikIXKiioh5uOMd0Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T8 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VUAbouuWy3VQPJZzQ1adZxQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T8 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VEPR96VegfROwnrf22BG/Vw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T8 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V3V7r764i2SeefvVRZ6cpiQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T8 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VLTVj70c/9ztYgkUX+dYQAA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T8 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VzHqQYT7pPVtQVVliOTgZoQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T8 E8",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VHWZY9uLbeyOQ0j65tXDvZg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T8 E9",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vi5RaV8mHsPL4jEkwqV3f2g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "American Horror Story  T8 E10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iF5k6AvKfnK4JAcz5Tjxy6labY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vv5ykUDrjIOOcnw4EYhq6Dg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

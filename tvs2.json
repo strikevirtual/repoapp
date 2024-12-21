@@ -2615,6 +2615,90 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKt94JJV7QfkTL0g/c+GaEsjA7hqMggJzTJ6SolDqeXvdpZRS+Jn+zHkUHV+oAicB6WnXx/hsbkW666GAJLTRQlPuTDDnzQP+QvZ0c0ppb1oLWld7EHIC8U+iVVPpzLVjRA==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CIELO TV",
+    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9df45c21ce1d67a2800b19969c8c80cc.webp",
+    "uri": "Ff98wgzF7wgTmpOCzf/2gPGhIVKW33OzbD3T6SJVyXY5xeeskTWLJFC6GpYGfYAhoNFo/thFl10+H7n8kOMHuH3TncANhpTi6D9/gPa+RRow9Z9WjD96BjaQhNLJABo9",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ENLACE TV",
+    "ico": "https://media.licdn.com/dms/image/C4E0BAQGkzVsyv8wkAQ/company-logo_200_200/0/1630629848056/enlace_tv_logo?e=2147483647&v=beta&t=X71naiwFtfy324-44u9p7qo7Sjau7U-0eOVIPGo4a74",
+    "uri": "O0d3EQuudX7XPiHXPxtE00ldzzSfvM4KBg5BNOMX2110ruhIZ4E4xj76JE/qrAX7G3nkN/33xY6Og40+l5vKHcfcs6t7qgVuC9AJLP2ia4BdMf2iNzHoFz+Sf5m6Wztu",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EBENEZER HONDURAS",
+    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/367dce69c71ae47d73ab92638794369e.webp",
+    "uri": "PDXXkF66a1n1sWst+R/kK+xetG4j77i8NQPnyPz+ZHDnbrsdgOHEYboNtEzX9ak+LmLhDZBr+Q9gYvj8jgV3vrTxNXXuEj05UtLz4l4zu8avTF5Y+XJDFvxnl7Aj4dPp",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EXTREMA TV",
+    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp",
+    "uri": "NuTCLDLf9zyI5et9wZA8XIkM2zAG0xGU2KGN97UmD4XcQ+kW6jERKIjv1bEtzENAKRNeKWa+7AolRKx0GmT2jOci8bss4Edcw3CXfZ9LnWi8ranDSyxPw4jLoBtfluYm",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SPIRIT TV",
+    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/28cfc242a64fb8e4ccd47c3488e69f2a.webp",
+    "uri": "AkHOoMGRonJkUwO6E8UnPIri+3RLocz4cUla6ygdzoGQwwMR+FCebPkmhSZAPrVyE6uFo9hDvVqiV940BQP4m4d66V4xA9AxkXBwVKs0OQY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MISION VIDA TV",
+    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/352e33e766ec2e3d17271c7faeac54c4.webp",
+    "uri": "X3/0TETygVWWYE5By4wW3mjBZuE0dnYv69zORhIe+ie+SH+X877ZXWHEly8AFweMS945dQoeGboG4Et1ejVpfJRWnqb1rtjq1xm+UT4hLLTEJUT8G6QzHCLmpNNVi+FR",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PRESENCIA TV",
+    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c32e4c6d73b63dd532a48dd4e17f634.webp",
+    "uri": "w6RHsSrrsq1yRXpg8JN2gIzpJVhIQ2z/fz4JQyrdWQFpO/91OviY0h4Oe2WF4H5qMuRvSMLAi01oURkd17yfxg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CBN ESPAÑOL",
+    "ico": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd3c736b140e74c9afb1c88fb207892.webp",
+    "uri": "F4FG8AWk0axJDxy4C4WUbzaoEmehGPSHiOIFsOKzOfJYOvGh4bRPfiJEopr7j9i86HLvkBrkgPF78VFxwID+c3Rp1v/LHDACoCogAA9mY6wjdjUpvYMKLSdLTi9efjx9pOvttznNYCYN5eTb2dz8JQm/RRYC52Ffo12Beozmw8s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SOLIDARIA TV",
+    "ico": "https://www.solidariatv.com/wp-content/uploads/2022/10/solidaria-tv-en-vivo-web-argentina.jpg",
+    "uri": "a91suXrHoZudArzlglWW80taDcGP8L47IqNoJ06VFkYvAZf0lm6wUAuwF9uaDVtCKuxrSCPV4JDiYKRs3VVXDQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TV MANÁ",
+    "ico": "https://tvmana-argentina.ar/wp-content/uploads/2023/05/LOGO_TV_MANA_ARGENTINA_V1.png",
+    "uri": "5V5Inn2I4ADtkjctrZ6atDx/wK27XHhfELsECaKo/lfuPVy1MuRTmqlB9FZtKmZEMTw8+9R4BWjMqPvGt1v80sTpjy3akF8WIehKne9b5sYzp1uC+tJVktlgpk0PKEMS",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "RED NUEVO TIEMPO",
+    "ico": "https://www.iglesiaadventistasurrey.ca/build/image/302.jpg?or=360&crop=%2C%2C%2C&s=ecbaafdb32012d7234c366a0cf029841",
+    "uri": "bkzor5BlLJucaDuKi3ey3/8rohcFCmeHL55REf8eQR34vY1iNYJE5Tv30lAh2gRVkOcDW4JQrCHWrNVWdapyPJAuYAbhD+HQdQB15Sku/YorpG8eXG3FZ6J8jEN1Unil",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ALIENTO VISION",
+    "ico": "https://static.wixstatic.com/media/59c031_b10c329535aa411ca0d56dbdf8cb7bd1~mv2.png/v1/fill/w_72,h_36,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/alientoVisionLogo.png",
+    "uri": "NuTCLDLf9zyI5et9wZA8XIkM2zAG0xGU2KGN97UmD4XThHTXtwCTmahWW3cGUiP6lQ0B3rFULiZXv8GA1YGmJSKJ3nGzVg5f2GCdr6NhFDKvXfA9RknRCHeK4+X+9fag",
+    "drm_scheme": "",
+    "drm_license_url": ""
   }
     ]
   },

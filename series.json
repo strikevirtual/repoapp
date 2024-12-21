@@ -5067,6 +5067,84 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+	   
+     ]
+       },
+  {
+     "tipo": "serie",
+     "name": "Monarch: El legado de los monstruos  TEMPORADA 1 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPiF2xpe8Grh3YkNiaCMCPv0iJU.jpg",
+     "temporada": [
+       {
+    "name": "Monarch: El legado de los monstruos  T1 E1",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fPiF2xpe8Grh3YkNiaCMCPv0iJU.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VBQXUA5ph2noOUs7T3vH8wQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monarch: El legado de los monstruos  T1 E2",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jy3EDNjby3CCJEi9IS5C47ZHaeO.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vv8caXB8uTNzcgz6W25UGXg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monarch: El legado de los monstruos  T1 E3",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AhimG49qBemmK0twp6DIpY6dUOQ.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V5ypKlRsyf8/PU/01rpCThw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monarch: El legado de los monstruos  T1 E4",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9ujTtg3RWKhRLMkHxS2YEnCL2r.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vn4wskm864cENCKLA2cQS8A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monarch: El legado de los monstruos  T1 E5",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdd06pzKC550ieRoPgzmvh83l5z.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VgH3hmXzeaMtBulRKFEd1cA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monarch: El legado de los monstruos  T1 E6",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwxCfgfDvgk8thR0BKYKt9em81V.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vw8hyBPQ2h6CrbLlNOeuzCw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monarch: El legado de los monstruos  T1 E7",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0MjtkCPMYfBP1LRTBpzXQDAWwx.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V73HwzPkAKINnXBEPTTMTSQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monarch: El legado de los monstruos  T1 E8",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbUy8qEzK9oGVWiI6BRWG6Ga3Sz.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VvQ3DN8aNo3mTaACQRL6s0A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monarch: El legado de los monstruos  T1 E9",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zzeOORrl22hF1RWEEZZHOphVuhB.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VRkuR3I8fGQbxmrDEF/2cOA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monarch: El legado de los monstruos  T1 E10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs9Flm0PqfQXzCDJnAEFlO4RyYN.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VpZyJ7tAi/T9W+I4YFIdSqg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

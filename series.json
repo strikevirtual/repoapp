@@ -8671,11 +8671,7 @@
  "name": "CIENCIA FICCION  4",
  "mode": true,
  "lista": [
-    }
-	   
-     ]
-       },
- {
+      { 
      "tipo": "serie",
      "name": "12 monos  Temp 1 ",
      "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7U32I9XSreE4M2HeLgR12c6wwNU.jpg",

@@ -9162,18 +9162,88 @@
  ]
 },
 {
- "name": "CIENCIA FICCION",
+ "name": "CIENCIA FICCION 5",
  "mode": true,
  "lista": [
-   {
+    {
      "tipo": "serie",
-     "name": "American Horror Story  TEMPORADA 3 ",
-     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7JwJn2j1cwm61uVoKkmktiM8Ss.jpg",
+     "name": "Dark  Temp 1 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljQC5U5Ag86vRylCR5gmf78fVaS.jpg",
      "temporada": [
        {
-    "name": "American Horror Story  T3 E1",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7JwJn2j1cwm61uVoKkmktiM8Ss.jpg",
-    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VJrDe2gPzzZkLoo8f2R669Q==",
+    "name": "Dark S01 E01",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljQC5U5Ag86vRylCR5gmf78fVaS.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V7KDmZsQBBDV5+N0QYcG1/g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dark S01 E02",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oFTNaNwF1g0GCQPTXgHviixMCDM.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VrwG62nZWF6keFIyhHT+xrg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dark S01 E03",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/63pMJ4CLC7MDzjgWWlGZ2NKOG6o.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VbDlfOpFMIHGTik2QfcpKwA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dark S01 E04",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eH3NmNsMv5uNygAn57uOBS3wHqB.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/ViaSM/FqtcxhCLFPxG4CdaQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dark S01 E05",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/piwRYraJ1jUE8pcuQJfWPgs6hdy.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VMzeUC9CiczBFYJ0PXGy1UQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dark S01 E06",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b29shl2dzHgCclnKgk7xXQQ2qC.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V64nNdWyLhVZF6bzogL5yew==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dark S01 E07",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Is0BxZrsvmC7KCNp4v9WVWl5Hj.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V2fUtB+YVIPciVDc3ZtSLRg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dark S01 E08",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSysDFZpO7RZdW6gngkmTVXyswP.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V5agdaPOJuu8UWkJGv7xtiw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dark S01 E09",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8eeWLkL8WlWdOYCWtDRFlN3SKsz.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V5Ty+jrlPgQiRi05osC1ZIQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dark S01 E10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qhvjEJjeyCzTRNWw9RDZuuQMJKO.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VwQAjOUfp6/KFega5ixzoJQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "12 monos S03 E10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSulfM7hKmjdtNeEZKSpf5e4ssG.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VRASyZpG9KoFfF1rbOxEXyw==",
     "drm_scheme": "",
     "drm_license_url": ""
   }

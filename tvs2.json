@@ -78,6 +78,24 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
+    "name": "CANAL 3 ROSARIO",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png",
+    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwTj3vR2QczToHQjfO3ym93scOkg5wf9iCd6m1/qFcVQFJnV/NQnuA98BM7z8JjunYw5bNt2DtEzzuiKnE6cVIxt",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "LS6qxNscpFe9rDy2K+y73APrh5M7mI+kH3wg14EFk/MPJohL8FI7IkWRwaEN2V5GN3MFnz7rTOuQy70Y+29TIbr3WybiYgdmdUb7h6uGbW6M0akMMGvdZD5fsXv1W6UI+5VD5TlgY9OgsyM9xznB5+MhFQX4g3c1bcZ7cnPNfUo=",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "TELEFE ROSARIO",
+    "ico": "https://i.ibb.co/rGbZrTk/Telefe-Rosario-2018-removebg-preview.png",
+    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQdwxSifMwbZ4+jridm3mC1Nd8KLARuSfkseLn3aFHJS6wVAKVsBd8Fv+nZdcUWG3ffisMf1JrqB3i5AkxkQ3CC",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "LS6qxNscpFe9rDy2K+y73KCayB5nWoYJboCvHCLpvYNvHCQ7Kn66/PBcL936kv2b/QlEi7hlnvCeVsKH28SIEwXoArIc3IkzVZaaGN1TOoR1rysMmY7Dap7Rdo1ev3VbsvgwgDUQo61Z85C8D1Dkn8f62gIGUf7p3SIt7CJtmJI=",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
     "name": "TELEFE",
     "ico": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDUxX2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1710400132950",
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCzNOyHqe5EpNHxEWmiJfzVXGzZl1Bywp/2xxUSP04DzPzXFYcFq4q/vWIAK4fpyzO+xGZXZcM2hoBtLXJfQbbu",
@@ -272,6 +290,20 @@
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKto8mYJbNVW4M4HDCymQoX5wZZZYIlPVQkemgTyfDsYJHpFA1roS+dn2ARE1/842QquZnQwyDO51lecRK3MT8B7eZ8HdrLa0iZ/8GpTEbAargDKJurvKXZYaf4FY9rdB2Q==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+   },
+  {
+    "name": "EXTRA TV",
+    "ico": "https://i.ibb.co/BLpHBq6/extra.png",
+    "uri": "UzWpJBKhu8ByyGXQLDZn9PEZTuiW6Bq1n22LrIKjeP+aZ2mjtD+XZM0JPyJfmUZS2eDg32/ALfElFkQMH22TkpU4V8w7WBTKQJOmV3PTam1NqEWC9qaHSL73oNlxUGsx",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpgrbyRxWW6RQJR49dHaCJ/uekP2GoZk4j5Xeyrs79ugZINSCXutloJBSv09xyng+f24vmuQNknHQxgOXgZP8aRb6jXp1gZH9wsDg6zW3VqiTifXRZLVNi/ffKiLzBJXWQ=="
+  },
+  {
+    "name": "EL DESTAPE",
+    "ico": "https://i.ibb.co/yFbrg0L/eldestape.png",
+    "uri": "UzWpJBKhu8ByyGXQLDZn9A8C3AhAGBeVCigteCsRs06jF0dLmc8uZdO0uymStzOjJxLIlICbbn8bj6/ZxwyyQ4DhUGJPQHTveGrKUjqIqGZ6JE46jKzSfTFOi0OeV6kl",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKo9heS4isZFaBxc67QlrDuFLcdLrOlxpT4INjVy5BMrGcVzO8G0dQLN1Wb960gSp87aF3DTUcD/3bUrGM1MQsx/Y6/r/raFnAo/Wx8FSP5+jPD0xD5LutdOWP1+nrREXng=="
   }
     ]
   },
@@ -412,24 +444,6 @@
     "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZCSoQNFGTRH/HMajCREiLe2vNyoQstnn2MqONNdK1gTt0Bi+wBYBe3uFyxhoJgAXpjvq2Wqwrdi95wXFs7wtOej",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvR/A8TjPEwrU2qIyOiOW8QHYfCNScXgtkoeFnps/bZ+avEeSjzxSFXcOMakBRiDq3Ql//d/ZVc+cho9nKL5dlqtCAw7v9XoWZaEMn/BJOSKTD1jZjpj+/te0mK2V3xDkA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "CANAL 3 ROSARIO",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png",
-    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwTj3vR2QczToHQjfO3ym93scOkg5wf9iCd6m1/qFcVQFJnV/NQnuA98BM7z8JjunYw5bNt2DtEzzuiKnE6cVIxt",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "LS6qxNscpFe9rDy2K+y73APrh5M7mI+kH3wg14EFk/MPJohL8FI7IkWRwaEN2V5GN3MFnz7rTOuQy70Y+29TIbr3WybiYgdmdUb7h6uGbW6M0akMMGvdZD5fsXv1W6UI+5VD5TlgY9OgsyM9xznB5+MhFQX4g3c1bcZ7cnPNfUo=",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "TELEFE ROSARIO",
-    "ico": "https://i.ibb.co/rGbZrTk/Telefe-Rosario-2018-removebg-preview.png",
-    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQdwxSifMwbZ4+jridm3mC1Nd8KLARuSfkseLn3aFHJS6wVAKVsBd8Fv+nZdcUWG3ffisMf1JrqB3i5AkxkQ3CC",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "LS6qxNscpFe9rDy2K+y73KCayB5nWoYJboCvHCLpvYNvHCQ7Kn66/PBcL936kv2b/QlEi7hlnvCeVsKH28SIEwXoArIc3IkzVZaaGN1TOoR1rysMmY7Dap7Rdo1ev3VbsvgwgDUQo61Z85C8D1Dkn8f62gIGUf7p3SIt7CJtmJI=",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },

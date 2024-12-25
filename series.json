@@ -10099,6 +10099,47 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
+     ]
+   }
+ ]
+},
+{
+ "name": "CIENCIA FICCION 6",
+ "mode": true,
+ "lista": [
+    {
+     "tipo": "serie",
+     "name": "Duna: La profecía  Temp 1 ",
+     "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIOtr2QGGi1Ktek3vQaU8VaNAmt.jpg",
+     "temporada": [
+       {
+    "name": "Duna: La profecía S01 E01",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIOtr2QGGi1Ktek3vQaU8VaNAmt.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vu3e2PUaG0wkOOFwJLJSS+A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Duna: La profecía S01 E02",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqLJi0tYVwUjRJhvLcRpkG1ttII.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V2+yr9O1VJNdX2IeoutOAPA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Duna: La profecía S01 E03",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRscPri7qXpVTwVQ4IJOVDpGrIw.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VTCp0Tpa+yL0nebRmLv3U7g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Duna: La profecía S01 E04",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMcYRktxx1S0Co8LxXooDwNTrmZ.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VXPsMQzHNf0jZcmd+RmT9Vg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
        ]
      }
    ]

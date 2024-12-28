@@ -26,6 +26,13 @@
         "drm_license_url": ""
       },
   {
+    "name": "Los Simpson: Santa Homero (2024)",
+    "ico": "https://i.ibb.co/JKyVvhJ/SANTA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2p/jGiibs9Z0UiShrEXOQxttlWda6e8a/B10LngT2Oxg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
         "name": "Animal Adventures: Save the Forest (2024)",
         "ico": "https://i.ibb.co/Qdzxfhz/AS.jpg",
         "uri": "https://subida.mmvpnok.online/movies/animaladventure.mkv",
@@ -33,9 +40,23 @@
         "drm_license_url": ""
       },
   {
+        "name": "Kraven el cazador (2024)",
+        "ico": "https://i.ibb.co/x6WS71b/krave.jpg",
+        "uri": "https://subida.mmvpnok.online/movies/kraven.mkv",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+  {
     "name": "Anora (2024)",
     "ico": "https://i.ibb.co/vdBpwcR/anora.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1ZMQje6tM/ni8W7+Mg0iKK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rob Peace (2024)",
+    "ico": "https://i.ibb.co/syfgp57/rob.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0wAwDwu6g2U+Q3A9WYxQs5",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -291,6 +312,20 @@
     "mode": false,
     "lista": [
       {
+    "name": "Pizza, Birra y Faso (1998)",
+    "ico": "https://i.ibb.co/fHV5MqW/piza.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3+vJfiGiQ/sz723Hs74wbZ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Papa se volvio loco (2005)",
+    "ico": "https://i.ibb.co/gPXn6c8/papa.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U20aoinOaon/XnPtWWfDnLV6KllCnEmZItTw/Hbd1T0Mg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "Ferry 2 (2024)",
     "ico": "https://i.ibb.co/nR33tB7/FARRY.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0FFpGyaPX/KP9ot9T4ZltA",

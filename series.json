@@ -22831,6 +22831,26 @@
     "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VNpsY69tTtXkH4ul/ccXj8Q==",
     "drm_scheme": "",
     "drm_license_url": ""
+   }
+     ]
+   }
+ ]
+},
+{
+ "name": "NOVELAS 1",
+ "mode": true,
+ "lista": [
+    {
+     "tipo": "serie",
+     "name": "MONARCA  Temp 1 ",
+     "ico": "https://i.ibb.co/6spv5Kz/MONARCA.jpg",
+     "temporada": [
+       {
+    "name": "Capitulo 01",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2C5Kt4R0rJKrVMIGkWE4xEK2rFN.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VudSATuUqpitodAfvqAWLAg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
   }
        ]
      }

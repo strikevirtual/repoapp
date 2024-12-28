@@ -612,7 +612,6 @@
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
-   
   {
     "name": "ESPN",
     "ico": "https://static.flow.com.ar/images/280/CH_LOGO/350/500/0/0/71306601073189.png",
@@ -648,6 +647,20 @@
     "drm_license_url": "/OENOgf2kRIyAnzHIFyOB6sCUOAuaILn/123srHRKgmBNODV7UlBcr/ZMy4VUo54",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "DirecTV Sports HD ARG",
+    "ico": "https://i.ibb.co/dM1CSPC/dsports.png",
+    "uri": "U5oWy5JBYlNaGAm2hwYa7ENQqvOVed0l+8PESvIQXAfL6FYQGQmpTK5eE1h/PSEJ",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DirecTV Sports 2 FHD",
+    "ico": "https://i.ibb.co/6Rf6CRJ/dsport2.png",
+    "uri": "U5oWy5JBYlNaGAm2hwYa7ENQqvOVed0l+8PESvIQXAcRuBZvAodCi9hZvBQmffcP",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
     "name": "ESPN 4",

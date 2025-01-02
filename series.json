@@ -6227,6 +6227,62 @@
 		]
        },
 	   {
+     "tipo": "serie",
+     "name": "El juego de calamar Temp 2 (2024)",
+     "ico": "https://i.ibb.co/Qn1gt7F/calamar2.webp",
+     "temporada": [
+	     {
+    "name": "Capitulo 1",
+    "ico": "https://i.ibb.co/Qn1gt7F/calamar2.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FFo4oXhEiiQ30xRozMcGT7d+9Vb6Y6C7OmioKLOKadHKSLx+KcwAZbc0L7wl4xlWw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 2",
+    "ico": "https://i.ibb.co/Qn1gt7F/calamar2.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FFo4oXhEiiQ30xRozMcGT7d+9Vb6Y6C7OmioKLOKadHJBrcNcrn+pSjgvxqoBnO8k=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 3",
+    "ico": "https://i.ibb.co/Qn1gt7F/calamar2.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FFo4oXhEiiQ30xRozMcGT7d+9Vb6Y6C7OmioKLOKadHPUSWQz3gkCo6q1rhcVN1O4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 4",
+    "ico": "https://i.ibb.co/Qn1gt7F/calamar2.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FFo4oXhEiiQ30xRozMcGT7d+9Vb6Y6C7OmioKLOKadHIpo+dXjaso2hD72bZAYIaM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 5",
+    "ico": "https://i.ibb.co/Qn1gt7F/calamar2.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FFo4oXhEiiQ30xRozMcGT7d+9Vb6Y6C7OmioKLOKadHOm5Wzs/Eu1/D5Ol4sTgCCM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 6",
+    "ico": "https://i.ibb.co/Qn1gt7F/calamar2.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FFo4oXhEiiQ30xRozMcGT7d+9Vb6Y6C7OmioKLOKadHG2z/pOE7Hz3S8/ZXaKLG8A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 7",
+    "ico": "https://i.ibb.co/Qn1gt7F/calamar2.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5FFo4oXhEiiQ30xRozMcGT7d+9Vb6Y6C7OmioKLOKadHCpGvfz0PhNGqgmlpUURs9E=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+		]
+       },
+	   {
         "name": "LAS VILAMIZAR",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgtyjTlm28h1Vbylv4uMcG66vOV.jpg",
         "temporada": [

@@ -1,58 +1,44 @@
 [
 {
-    "name": "📽️ GRAN HERMANO ARGENTINA",
+    "name": "📽️ GRAN HERMANO",
     "mode": false,
     "lista": [
       
       {
-    "name": "Gran Hermano",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "wIlS+wApZX+/QfT/rSF6aULBTIOZF/6zMle12YNdsvNkhAdxQL7+uzqVRrPEuHZar8HjXwNNN6WnImZ5VSXMlRMpvd2OV+UONKo9aOfEl4s=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "Gran Hermano 1",
     "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "wIlS+wApZX+/QfT/rSF6aULBTIOZF/6zMle12YNdsvNkhAdxQL7+uzqVRrPEuHZar8HjXwNNN6WnImZ5VSXMlXiL1j09yUor2rM12SnRwlA=",
+    "uri": "sJERFwif1YDptpCwfcuSJaspi+0lo75VLOiOZ6MkCo+EnLYJARVLjiy9RkUif4HcXqozLKLndOEhv/oZw2jW3A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Gran Hermano 2",
     "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "wIlS+wApZX+/QfT/rSF6aULBTIOZF/6zMle12YNdsvNkhAdxQL7+uzqVRrPEuHZar8HjXwNNN6WnImZ5VSXMlUzEytXtgejM1MDipctkbmA=",
+    "uri": "sJERFwif1YDptpCwfcuSJaspi+0lo75VLOiOZ6MkCo+EnLYJARVLjiy9RkUif4HcXqozLKLndOEhv/oZw2jW3A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Gran Hermano 3",
     "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "wIlS+wApZX+/QfT/rSF6aULBTIOZF/6zMle12YNdsvNkhAdxQL7+uzqVRrPEuHZar8HjXwNNN6WnImZ5VSXMlTz907P7CUUKXazkCM0z8aI=",
+    "uri": "sJERFwif1YDptpCwfcuSJaspi+0lo75VLOiOZ6MkCo+EnLYJARVLjiy9RkUif4HcTA+Q4nPaanOv/0KeU032dg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Gran Hermano 4",
+    "name": "Gran Hermano 24hs",
     "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "wIlS+wApZX+/QfT/rSF6aULBTIOZF/6zMle12YNdsvNkhAdxQL7+uzqVRrPEuHZar8HjXwNNN6WnImZ5VSXMlbqpghjyeLSLjuyBjtFdH6w=",
+    "uri": "sJERFwif1YDptpCwfcuSJaspi+0lo75VLOiOZ6MkCo+EnLYJARVLjiy9RkUif4Hc71EXBIXAcYz1PkIxDtfpTA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Gran Hermano 5",
+    "name": "Gran Hermano 24hs op2",
     "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "wIlS+wApZX+/QfT/rSF6aULBTIOZF/6zMle12YNdsvNkhAdxQL7+uzqVRrPEuHZar8HjXwNNN6WnImZ5VSXMlXyyMFw6ec5kqM5FKDBQIj8=",
+    "uri": "sJERFwif1YDptpCwfcuSJaspi+0lo75VLOiOZ6MkCo+EnLYJARVLjiy9RkUif4Hcp7vLl46VJgqSyAMTQ7zlDA==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "Gran Hermano 6",
-    "ico": "https://i.ibb.co/ssN5ymR/gh.webp",
-    "uri": "wIlS+wApZX+/QfT/rSF6aULBTIOZF/6zMle12YNdsvNkhAdxQL7+uzqVRrPEuHZar8HjXwNNN6WnImZ5VSXMlbO005QqjIV47n7yVMLC0uE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  } 
+  }
     ]
   },
   {

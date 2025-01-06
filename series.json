@@ -6675,6 +6675,132 @@
 		]
        },
 	   {
+        "tipo": "serie", 
+        "name": "Anatomía de Grey Tem 4",
+        "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+        "temporada": [
+		     {
+    "name": "Capitulo 01",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V0CAMmTStN45w9/hakFGLmA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 02",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vi7xFfhTyROtjD1k/NsDYHg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 03",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VkcCWjKX1rbSxgWGMBsaQog==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 04",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VndC/8oNHiFV1a0DutagPLg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 05",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/Vfbn61wubMS4Eo1Jt0fQapw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 06",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V2Dp5HSP3eWwVOmUFxBOkJA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 07",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VyGMvzI+WiKMgZ4j9yKuaPA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 08",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VmYxFroUh2TNobnzVH/OXJg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 09",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VFhLUmXKKe1JA2HJgpJ95mw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 10",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VHHtNlM6HcMfqNgli/PkfoQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 11",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VV9/02oCcBCRKu29Ll8SB6Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 12",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V2kINrBLfq1Xj5ulbCQ8TTw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 13",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VO86zNWGub4T+xLOC2SYXBw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 14",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VtP8csZTI0HEjjZeKHXNAaQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 15",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VDqG/ozncRkO6aULO8qbMzw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 16",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/V2JIzkM1TQfXdzQA/7ILVuA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitulo 17",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/boZxDO1J9YszoAl4xFITCjOyZry.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlouRA7H6e3aZafLtj6U6AdV9PiwYlN6JY0+7KZKB5+n/VH/kX7/fC4HkpLfQtA3igoA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+		]
+       },
+	   {
      "tipo": "serie",
      "name": "El juego de calamar Temp 2 (2024)",
      "ico": "https://i.ibb.co/Qn1gt7F/calamar2.webp",

@@ -56,10 +56,9 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-  	   
-   }
- ]
-{
+		]
+       },
+	   {
     "name": "SERIES",
     "mode": true,
     "lista": [

@@ -3,66 +3,7 @@
     "name": "SERIES",
     "mode": true,
     "lista": [
-	        {
-        "name": "BANDIDOS Temp2",
-        "ico": "https://i.ibb.co/BnGMvmh/temp2.jpg",
-        "temporada": [
-              {
-    "name": "Capitulo 1",
-    "ico": "https://i.ibb.co/BnGMvmh/temp2.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HZ0BFrIR9ADfcM25PNZzPJU1BnNCJpMNiWo8sLPY7LLO5riTlUJpsifAyczrPmITc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 2",
-    "ico": "https://i.ibb.co/BnGMvmh/temp2.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HZ0BFrIR9ADfcM25PNZzPJU1BnNCJpMNiWo8sLPY7LLKBIDP+AQxXOBOs+RqdrY4U=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 3",
-    "ico": "https://i.ibb.co/BnGMvmh/temp2.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HZ0BFrIR9ADfcM25PNZzPJU1BnNCJpMNiWo8sLPY7LLPAny8Cls5p5blU4ycZTEIU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 4",
-    "ico": "https://i.ibb.co/BnGMvmh/temp2.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HZ0BFrIR9ADfcM25PNZzPJU1BnNCJpMNiWo8sLPY7LLLD2Wuu1TFDNU69+1Ljc+fQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 5",
-    "ico": "https://i.ibb.co/BnGMvmh/temp2.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HZ0BFrIR9ADfcM25PNZzPJU1BnNCJpMNiWo8sLPY7LLBPr8fmHMtyTKVPFG0wVNoA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 6",
-    "ico": "https://i.ibb.co/BnGMvmh/temp2.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HZ0BFrIR9ADfcM25PNZzPJU1BnNCJpMNiWo8sLPY7LLEIhZbUpzxCZwJAsCkx5gPI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Capitulo 7",
-    "ico": "https://i.ibb.co/BnGMvmh/temp2.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+GjaW3khERRGSY0yXssY+5HZ0BFrIR9ADfcM25PNZzPJU1BnNCJpMNiWo8sLPY7LLHZg+qp3fhrixGDqG1iAh80=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-		]
-       },
-	   {
-    "name": "SERIES",
-    "mode": true,
-    "lista": [
-	    {
+       {
         "name": "SIN TETAS NO HAY PARAISO",
         "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7MtHZj7se3bH9CaVXGkKGnP6aK.jpg",
         "temporada": [

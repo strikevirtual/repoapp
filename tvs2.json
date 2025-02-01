@@ -1,174 +1,7 @@
 [
 
 {
-    "name": "馃幍 UN POCO DE RUIDO",
-    "mode": false,
-    "lista": [
-      {
-    "name": "Un Poco De Ruido",
-    "ico": "https://i.ibb.co/V3CcRHT/unpoco.png",
-    "uri": "LMGdjoNUYTJkMN9VIqsDM6i5FTPioIsZw4lAbnbbV+JY1Vk2SBp6WXmrtZrxsGtLFY1DthwrZXWhKlruYNzLD1tCNrqZhJkrVzOHu7d/L+o=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "Q' LOKURA",
-    "ico": "https://i.ibb.co/TgyWDjh/qlocura.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3Lf9cbfyk4BMDyAxnJbgDnYtJz4Oicnwu5OJCEase82w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "AMAR AZUL",
-    "ico": "https://i.ibb.co/YysfVtM/amarazul.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1pa+NdMBzDhnsG559ngfuCpJud2CiXfACSZdBmV3v02A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "ARIEL Y LOS PIBES CHORROS",
-    "ico": "https://i.ibb.co/vmjKyK5/arieleltraidor.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1oEn+rpY1avHBVZYh69jk/SaAezR7WBFqYR0UufkUSIA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "URIEL LOZANO",
-    "ico": "https://i.ibb.co/ns9ZRnS/uriellozano.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3A2Lcl0e9MKDeUMYaoDh9JoD/7XfkhU0qWQCVDrxuK/A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "NESTOR EN BLOQUE",
-    "ico": "https://i.ibb.co/rs7bqD6/nestorenbloque.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2/kjUrqvGxLLr5bDigp2fKonS1ubc7ii0B0fGTqrdj7Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-      {
-    "name": "META GUACHA",
-    "ico": "https://i.ibb.co/YZnsfrZ/METAGUACHA.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2Kt8WY3Yz0/+o+dwnpfEIahZ7dh48A9vFZNsoXQWF7ZA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL POLACO",
-    "ico": "https://i.ibb.co/z4NYk3t/elpolaco.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1dh4Zv5QOuccPeF+QqFAZ1Xcd6wEelee8YPkdPimL9UA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MIGUELITO",
-    "ico": "https://i.ibb.co/PrHGkD6/miguelito.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1n43SY5+sIrX58i0wfF1MOZjHhwWhSX1BfDLr5yVnxMA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL ORIGINAL",
-    "ico": "https://i.ibb.co/VBnN7N0/ELORIGINAL.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2Wpx5DRty4bKG9cJ2sPtTSOpW75/GAvGlWWPVl5XsN/Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "JACKITA",
-    "ico": "https://i.ibb.co/n09Shd1/jackita.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U12mmr0XaiiMbbyqqYB20/aD1t9YGGNNiHFhzw/+mbP8w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "JUNIORS",
-    "ico": "https://i.ibb.co/DkfKXx3/JUNIORS.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U176nFXCo+rWdNe8q/0QbyiUsHVhjskJugbKyLtNqiwyA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ANACONDA",
-    "ico": "https://i.ibb.co/FmsLPcF/ANACONDA.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1TFpEa5uCT4dKmP/TfanEN1gJGJ9xAZCLCWQrwpbGoYA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "MAXI TOLOSA",
-    "ico": "https://i.ibb.co/6YTd9R0/MAXITOLOSA.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3B16CC2oSEW7HwWHE1IlrvmTBLjqvIMnFd8vuX5NrNLA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "NICO MATTIOLI",
-    "ico": "https://i.ibb.co/4M5F1yW/NICOMATIOLI.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2DrU5luPbeQoyhtHgTmdc5DLX6tOVxCcBvT2qfauMofw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CARLOS MONTALVO",
-    "ico": "https://i.ibb.co/41KJ4qz/montalvo.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U26iQ9ItHVkU/pUJbx9GTh3AlV8B8tRaH35CCy8U336/Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GRUPO RED",
-    "ico": "https://i.ibb.co/x5nx4QV/grupored.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3wOaHaWkQWdQyGkewbJ8/4xwS9o6izHkoLdxy6SEKiHQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SERGIO TORRES",
-    "ico": "https://i.ibb.co/4YnMDTx/sergiotorres.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2v8wwgsHeZz+mnLxl8Cpu8jicjT7IzvXZJG/yPLHXGuA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SUPERMERK2",
-    "ico": "https://i.ibb.co/MfBRRnZ/supermerca2.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3nfN4/NZkXO9z2+uwspjYbTGkc9kWUQvuSc5vXBkgJsQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL TECLA",
-    "ico": "https://i.ibb.co/z6hw17b/eltecla.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3QbprtEVU1OdWYnkZBkhRR8+R39Vfo1F7EV8cDnzEZQQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "BANDA UNO",
-    "ico": "https://i.ibb.co/DGtrPFJ/bandauno.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U09pNt4WrA2maJFssluWo9YIjhAkZD4SIiExL2fvmaQ0Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ONDA SABANERA",
-    "ico": "https://i.ibb.co/TRnZJkN/ondasabanera.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2fStCRs0iIor2wweqbzPXBaiuGjZlSBu9SVOR4gZCgBg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GRUPO PLAY",
-    "ico": "https://i.ibb.co/sC84f5X/grupoplay.webp",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U27+PPuyHff3ZplblTnhon/pTiS8RYmUrdkmxY8hx5Tmg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-    ]
-  },
-{
-    "name": "馃摻锔� GRAN HERMANO",
+    "name": " GRAN HERMANO",
     "mode": false,
     "lista": [
       
@@ -210,7 +43,7 @@
     ]
   },
   {
-    "name": "馃嚘馃嚪 ARGENTINA",
+    "name": " ARGENTINA",
     "mode": false,
     "lista": [
 	    
@@ -242,11 +75,20 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "TELEFE INTERNACIONAL",
-    "ico": "https://i.ibb.co/rG8YzVf/telefeinternacional.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZDJ15zmY2NFzPawGMaou95ELYtb4UI18HUTMkp19eMvoLA1FPDYRUJc7yHS0DUoRvT/Ks7OlOD9zFFGdv1kdXW/wSBhULXxdm0UtQOb6Z7JEg==",
+    "name": "TELEFE ROSARIO",
+    "ico": "https://i.ibb.co/rGbZrTk/Telefe-Rosario-2018-removebg-preview.png",
+    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQdwxSifMwbZ4+jridm3mC1Nd8KLARuSfkseLn3aFHJS6wVAKVsBd8Fv+nZdcUWG3ffisMf1JrqB3i5AkxkQ3CC",
     "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKoC+fvUqUlT3DFyD2KlfwifUwdAw75L409dljFdOydk+RsYZJA7Gzft0WrugtpxYLFgRCGF4HqMb14xWB7MHgYfwyQ1HhcMz2b2fHKgFRsHX3IGurMFmXi9Xdu2RPRM1aw==",
+    "drm_license_url": "LS6qxNscpFe9rDy2K+y73KCayB5nWoYJboCvHCLpvYNvHCQ7Kn66/PBcL936kv2b/QlEi7hlnvCeVsKH28SIEwXoArIc3IkzVZaaGN1TOoR1rysMmY7Dap7Rdo1ev3VbsvgwgDUQo61Z85C8D1Dkn8f62gIGUf7p3SIt7CJtmJI=",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CANAL 3 ROSARIO",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png",
+    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwTj3vR2QczToHQjfO3ym93scOkg5wf9iCd6m1/qFcVQFJnV/NQnuA98BM7z8JjunYw5bNt2DtEzzuiKnE6cVIxt",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "LS6qxNscpFe9rDy2K+y73APrh5M7mI+kH3wg14EFk/MPJohL8FI7IkWRwaEN2V5GN3MFnz7rTOuQy70Y+29TIbr3WybiYgdmdUb7h6uGbW6M0akMMGvdZD5fsXv1W6UI+5VD5TlgY9OgsyM9xznB5+MhFQX4g3c1bcZ7cnPNfUo=",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
@@ -256,15 +98,6 @@
     "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwSrlLDvCT6GbljPJh/yS6cNfVhwTxuAFqTuLbPgJU7TPM4HMrfnokKMIUimhSBWPzr7QewpMYSWms4zSs4pxBvs",
     "drm_scheme": "clearkey",
     "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKptOQHhcnBZEN2+QgtmQwWr/hGpiDb/6KLG7m2HfkgQ5vuv4Ir3doL0VbS7/JTHTJ1pXtLqPce1Yngd4jTHoEC0l9kcvQ6iM9/Xk1Fk5hP5rcJpyxuPGDUIaOzWjukoJqw==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "EL TRECE INTERNACIONAL",
-    "ico": "https://i.ibb.co/0qTfhWG/eltrece-internacional.png",
-    "uri": "fU93h+6A4CpkhlDtxeJudeyMv+kyNwVdVje8+ZxZbZB1WAKan1bE2I4nJO0kG+3qL6rw5cSVXqSWof4xLZoBSb4kRAteq4TW97YimQseqNOtin3dLy9kV3sfLHHYeXWHEctpFQAfc6tiRQforZAZWQ==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKqgNtFvpQhv4C/hwjejJKyJlMjzpxu9CdZa1g2TIW6gmQRMCsUqVu/Zch23ohvntjwiFov3GsJtuHFmUHpduQjJQB6HVlGDJtm8yAZIP7Xtk1Xq+V7ui5yCEGwViNidcdA==",
     "origin": "https://web.app.flow.com.ar",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
@@ -440,7 +273,7 @@
     ]
   },
   {
-    "name": "馃嚘馃嚪 CANALES DEL INTERIOR ARGENTINO 1",
+    "name": " CANALES DEL INTERIOR ARGENTINO 1",
     "mode": false,
     "lista": [
     
@@ -634,24 +467,6 @@
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
-    "name": "CANAL 3 ROSARIO",
-    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png",
-    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwTj3vR2QczToHQjfO3ym93scOkg5wf9iCd6m1/qFcVQFJnV/NQnuA98BM7z8JjunYw5bNt2DtEzzuiKnE6cVIxt",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "LS6qxNscpFe9rDy2K+y73APrh5M7mI+kH3wg14EFk/MPJohL8FI7IkWRwaEN2V5GN3MFnz7rTOuQy70Y+29TIbr3WybiYgdmdUb7h6uGbW6M0akMMGvdZD5fsXv1W6UI+5VD5TlgY9OgsyM9xznB5+MhFQX4g3c1bcZ7cnPNfUo=",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
-    "name": "TELEFE ROSARIO",
-    "ico": "https://i.ibb.co/rGbZrTk/Telefe-Rosario-2018-removebg-preview.png",
-    "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwQdwxSifMwbZ4+jridm3mC1Nd8KLARuSfkseLn3aFHJS6wVAKVsBd8Fv+nZdcUWG3ffisMf1JrqB3i5AkxkQ3CC",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "LS6qxNscpFe9rDy2K+y73KCayB5nWoYJboCvHCLpvYNvHCQ7Kn66/PBcL936kv2b/QlEi7hlnvCeVsKH28SIEwXoArIc3IkzVZaaGN1TOoR1rysMmY7Dap7Rdo1ev3VbsvgwgDUQo61Z85C8D1Dkn8f62gIGUf7p3SIt7CJtmJI=",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-  },
-  {
     "name": "TELEFE SANTA FE",
     "ico": "https://i.ibb.co/NmgWmYP/Telefe-Santa-Fe.png",
     "uri": "zHyFxMu2kYvTL1do4oA4FChCN5caQDvZJe9XkeDQvwR70IZSUgFM4MfPp8GuhVZ+ppvdXRP8SOGYLsBO6l7HJIFLf+UtH/UaVRvSTL2Imqq+wHHfL1CHzo0qPHqmdUgT",
@@ -799,7 +614,7 @@
   },
 
 	{
-    "name": "馃嚘馃嚪 CANALES DEL INTERIOR ARGENTINO 2",
+    "name": "CANALES DEL INTERIOR ARGENTINO 2",
     "mode": false,
     "lista": [
              {
@@ -995,7 +810,7 @@
   },
 	    
 {
-    "name": "馃嚘馃嚪 CANALES DEL INTERIOR ARGENTINO 3",
+    "name": "CANALES DEL INTERIOR ARGENTINO 3",
     "mode": false,
     "lista": [
           {
@@ -1333,7 +1148,7 @@
   },
 
 	{
-    "name": "馃嚘馃嚪 CANALES DEL INTERIOR ARGENTINO 4",
+    "name": "CANALES DEL INTERIOR ARGENTINO 4",
     "mode": false,
     "lista": [
            {
@@ -1431,7 +1246,7 @@
 	    ]
   },
   {
-    "name": "鈿� DEPORTES",
+    "name": "DEPORTES",
     "mode": false,
     "lista": [
       {
@@ -1822,7 +1637,7 @@
     ]
   },
   {
-    "name": "鈿� EVENTOS TNT SPORTS,TYC SPORTS,FLOW EVENTOS",
+    "name": "EVENTOS TNT SPORTS,TYC SPORTS,FLOW EVENTOS",
     "mode": false,
     "lista": [
   {
@@ -1878,7 +1693,7 @@
 ]
 },
   {
-    "name": "鈿� DEPORTES INTERNACIONAL",
+    "name": " DEPORTES INTERNACIONAL",
     "mode": false,
     "lista": [
 	    {
@@ -1931,7 +1746,7 @@
     "drm_license_url": ""
   },
   {
-    "name": "WIN SPORTS + 岽犐礃",
+    "name": "WIN SPORTS + ",
     "ico": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032020/win_sport_.jpg?UJIv5b6Z8y29Fb3.N110WFEkJKWE6Rvn&itok=dl41Wxqs",
     "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzq7KQbjz0BZz/iGCtxfFWAQ==",
     "drm_scheme": "",
@@ -2008,7 +1823,7 @@
     "drm_license_url": ""
   },
   {
-    "name": "LIGA 1 岽犐礃",
+    "name": "LIGA 1 ",
     "ico": "https://2.bp.blogspot.com/-r5loufYoCz0/XEtDJZvcfII/AAAAAAABT_E/wXuhxgkPl1o8L5Qi7I1p0YXGhMAzZTMsACLcBGAs/s1600/Liga1PeruW256x.png",
     "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzaROGPjWGGCpArZA89DbLNw==",
     "drm_scheme": "",
@@ -2022,7 +1837,7 @@
     "drm_license_url": ""
   },
   {
-    "name": "LIGA 1 MAX 岽犐礃",
+    "name": "LIGA 1 MAX ",
     "ico": "https://2.bp.blogspot.com/-r5loufYoCz0/XEtDJZvcfII/AAAAAAABT_E/wXuhxgkPl1o8L5Qi7I1p0YXGhMAzZTMsACLcBGAs/s1600/Liga1PeruW256x.png",
     "uri": "qo4mfIIUJW3VM36JDErloga5G9A1XcXgDSw4i2aM1IL/GOqHQUHiwA32/KIt3iSzzi0xsLmeecRe+xogvoumVw==",
     "drm_scheme": "",
@@ -2053,7 +1868,7 @@
 },  
 
 {
-    "name": "鈿� DAZN",
+    "name": "DAZN",
     "mode": false,
     "lista": [
       {
@@ -2106,7 +1921,7 @@
 	  
   
   {
-    "name": "馃幀 CINE PREMIUM ",
+    "name": "CINE PREMIUM ",
     "mode": false,
     "lista": [
       
@@ -2569,7 +2384,7 @@
         ]
     },
   {
-    "name": "馃懇鈥嶐煈︹�嶐煈� INFANTILES ",
+    "name": " INFANTILES ",
     "mode": false,
     "lista": [
       {
@@ -2727,7 +2542,7 @@
     ]
   },
   {
-    "name": "馃徎鈥� NOVELAS Y VARIEDADES ",
+    "name": "NOVELAS Y VARIEDADES ",
     "mode": false,
     "lista": [
       {
@@ -2911,7 +2726,7 @@
     ]
   },
   {
-    "name": "馃摎 CULTURALES ",
+    "name": "CULTURALES ",
     "mode": false,
     "lista": [
       {
@@ -3087,7 +2902,7 @@
     ]
   },
   {
-    "name": "馃摻锔� CANALES 24/7 ",
+    "name": "CANALES 24/7 ",
     "mode": false,
     "lista": [
 	    {
@@ -3282,7 +3097,7 @@
     ]
   },
   {
-    "name": "馃摻锔� CANALES 24/7 INFANTILES ",
+    "name": "CANALES 24/7 INFANTILES ",
     "mode": false,
     "lista": [
        {
@@ -3818,7 +3633,7 @@
     "drm_license_url": ""
   },
   {
-    "name": "M谩gicas aventuras de Quasimodo",
+    "name": "Magicas aventuras de Quasimodo",
     "ico": "https://i.ibb.co/YX613L2/play.webp",
     "uri": "+fBNQ2TK3HtDHphE/hYx3uW4usoAjtoymqoi++64JQ4kBV4Y4sNJoYsq/RI/dXYO8oSE+Pv/cZrQjILRP4PjVJnaHMND0/wQKbMqo5tZfjI=",
     "drm_scheme": "",
@@ -4185,7 +4000,7 @@
     ]
   },
   {
-    "name": "馃摻锔� CANALES 24/7 RETRO",
+    "name": "CANALES 24/7 RETRO",
     "mode": false,
     "lista": [
          {
@@ -4354,7 +4169,7 @@
   },
 
 	{
-    "name": "馃摻锔� CANALES 24/7 CLASICOS",
+    "name": "CANALES 24/7 CLASICOS",
     "mode": false,
     "lista": [
         {
@@ -4991,7 +4806,285 @@
     ]
   },
   {
-    "name": "馃實 INTERNACIONALES ",
+    "name": " ALABANZAS CRISTIANAS",
+    "mode": false,
+    "lista": [
+      {
+    "name": "Un Pacto Con Dios (Rabito)",
+    "ico": "https://i.ytimg.com/vi/uT5CP1JVRL0/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3jedyu02EaoTfahJf/3DAsf798ATdp7SiGtv/Z0tbOqGxu3FJie9pmnLcNKziGfvFUaSCXAiEGRPI8IkkSBbsFLtk0NzuzASxbueyifJr+ZGHbu2iQOMloi5CDV/9dr60=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "Un Mundo Diferente (Rabito)",
+    "ico": "https://i.ytimg.com/vi/61BocQelY_k/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2a7KkIzaPIrvpxMx03DDFuitjzQ8QQvmmC0vz8eSyJd5aNCXwEv4pRv4W1hp6FzPc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "DICEN POR AHI QUE LOCO ME VOLVI",
+    "ico": "https://i.ytimg.com/vi/HPhmUesszxo/hqdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0QeJL84S+Ahr8gwvLv+4gh98NOHW2eXLiY6tN6zhZaOaYnrcOVAN4ssvirUe0q1XG4Wj6d3suPX+DB06teDj6J",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "Si Te Tengo A Ti Lo Tengo Todo",
+    "ico": "https://i.ytimg.com/vi/7Ne9cbREOnk/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2scOCVCz+NKi1sHYERSsdYOG7PHmhaPyQFLFTFkYNaTktio8JUfSdDEkXwyJaqESfYFzC6Bucaaj0Z5kWrX97Jy4TLMIJ7PC+OrF67y8wcgAECfAiJcpg7U+sgQrKbGlyM4J2y9vhR6ZLXb1XIbBJr",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "OSCAR MEDINA GRANDES EXITOS 1",
+    "ico": "https://i.ytimg.com/vi/U2nwjDsIhRs/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2z54tjaVk9Uwtz/LPDvJbOepTWpdwYvYFEtEnrbACTiQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "VICO C DANDOTE VIDA",
+    "ico": "https://i.ytimg.com/vi/k6HBrRmrMmM/hqdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0uAiVujCvmspuEHsGlqhnZmuv6Kz7BUwd7un9+GC0P+E+8T3iEQY/usJhOFChh4CfRd2ojjfdJk3dsooAFgOi3",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "Sin Dolor ¨Lilly Goodman",
+    "ico": "https://i.ytimg.com/vi/9t8Gw4zJHrw/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2pFtN+a8LgtkJySuK09UdNdHcxX9pAD8JUU5mlyFBcpjchsbLCQLZXf8X9Qqc9Ja80O89N26YDG6UYOgV98HVN",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "Alex Márquez - Amado De Mi Alma",
+    "ico": "https://i.ytimg.com/vi/JOqX6Y9ByC4/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1caHQS2spludfy6yUg8Bz+B0YBmtlVBzXVPYFwSzZ/9jRZGTRecGa5VFTTIRIsRk/XU3ycIt3jvYn93PRM6FXr",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "VASIJA QUEBRANTADA",
+    "ico": "https://s.mxmcdn.net/images-storage/albums4/3/1/8/5/4/3/44345813_800_800.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0TZeHVvAkLh2Ghn+uC+6GlkBGhnYprzGFWhoblITNRUviAUNN/VaeWKxa5dL+Y1bARR8C0HKCv56UQ3c/NJbrf",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "BENGIE TU NIÑA",
+    "ico": "https://i.ytimg.com/vi/6-Uh0WfxXKA/hqdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2W/t/S6QoIdRRJ5P79QZl8EfcF0PirF5wdlVQhyNKcdDsbeyPf3Rn4SOn6V+VJXxMwMfgD2GeNjh7o48uIihx5bE/Yb7PYeQuI8h2EFSpPbg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "FUNKI (JUSTO A TIEMPO)",
+    "ico": "https://i.ytimg.com/vi/i-BFdK9KxpA/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3+nBthdd7Ob8CiFNEHAt1H925vK6C4A0TeYu00859t/deqqbnpHW3v68L6poFFpRHUNlAN+RVKCrUam1WFc+fPTMuVb7d/6UDsyuOMXuik1Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "Alex Zurdo - ¿Dónde estás ",
+    "ico": "https://i.ytimg.com/vi/vxrfyhqoXQA/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U013o8w0+0mCgeq18mRsGtu6YBFBWYV0EzGMs3EhnGeGx5N+ruUGGNAzupBzlipbUeEdipOtNcrLZMm5UfPQkhl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "Alex Zurdo - El Semáforo",
+    "ico": "https://i.ytimg.com/vi/Q8GDMV2txlg/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U013o8w0+0mCgeq18mRsGtupV7blm5CbZZ9MFO6HnXaHTx/tF3Jei3WatTDFqy9QO/aPedvZa27ouglXQuOPmQGtpvwlye+dDggtgLjeBd8uut6kdi354ZnG43Ryzl13wXSkUA9KcISf8InuhNRloQK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "Saliendo del pretorio",
+    "ico": "https://i.ytimg.com/vi/VoIxT59VcPE/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U00TLHNTEe4MOr4jCHOtPpEt5jLheMPTiK4jiHYYGtKRVrMjvmTiKTvcSt8BCHqUPFhRLj/Causr/4Y0O8a+byl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "YA YO NO SOY EL MISMO  Alex Marquez",
+    "ico": "https://i.ytimg.com/vi/hJndwzqR9D4/maxresdefault.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1MaVr3FQa60WWwbkSac/cjYEE1cyn+8H5KvMJvqthj4FwpFmFr0TZ59KoI6MSyIao=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+    ]
+  },
+  {
+    "name": "🎵 UN POCO DE RUIDO",
+    "mode": false,
+    "lista": [
+      {
+    "name": "Un Poco De Ruido",
+    "ico": "https://i.ibb.co/V3CcRHT/unpoco.png",
+    "uri": "LMGdjoNUYTJkMN9VIqsDM6i5FTPioIsZw4lAbnbbV+JY1Vk2SBp6WXmrtZrxsGtLFY1DthwrZXWhKlruYNzLD1tCNrqZhJkrVzOHu7d/L+o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "Q' LOKURA",
+    "ico": "https://i.ibb.co/TgyWDjh/qlocura.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3Lf9cbfyk4BMDyAxnJbgDnYtJz4Oicnwu5OJCEase82w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AMAR AZUL",
+    "ico": "https://i.ibb.co/YysfVtM/amarazul.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1pa+NdMBzDhnsG559ngfuCpJud2CiXfACSZdBmV3v02A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+   {
+    "name": "ARIEL Y LOS PIBES CHORROS",
+    "ico": "https://i.ibb.co/vmjKyK5/arieleltraidor.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1oEn+rpY1avHBVZYh69jk/SaAezR7WBFqYR0UufkUSIA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "URIEL LOZANO",
+    "ico": "https://i.ibb.co/ns9ZRnS/uriellozano.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3A2Lcl0e9MKDeUMYaoDh9JoD/7XfkhU0qWQCVDrxuK/A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NESTOR EN BLOQUE",
+    "ico": "https://i.ibb.co/rs7bqD6/nestorenbloque.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2/kjUrqvGxLLr5bDigp2fKonS1ubc7ii0B0fGTqrdj7Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+      {
+    "name": "META GUACHA",
+    "ico": "https://i.ibb.co/YZnsfrZ/METAGUACHA.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2Kt8WY3Yz0/+o+dwnpfEIahZ7dh48A9vFZNsoXQWF7ZA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL POLACO",
+    "ico": "https://i.ibb.co/z4NYk3t/elpolaco.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1dh4Zv5QOuccPeF+QqFAZ1Xcd6wEelee8YPkdPimL9UA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MIGUELITO",
+    "ico": "https://i.ibb.co/PrHGkD6/miguelito.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1n43SY5+sIrX58i0wfF1MOZjHhwWhSX1BfDLr5yVnxMA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL ORIGINAL",
+    "ico": "https://i.ibb.co/VBnN7N0/ELORIGINAL.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2Wpx5DRty4bKG9cJ2sPtTSOpW75/GAvGlWWPVl5XsN/Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JACKITA",
+    "ico": "https://i.ibb.co/n09Shd1/jackita.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U12mmr0XaiiMbbyqqYB20/aD1t9YGGNNiHFhzw/+mbP8w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JUNIORS",
+    "ico": "https://i.ibb.co/DkfKXx3/JUNIORS.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U176nFXCo+rWdNe8q/0QbyiUsHVhjskJugbKyLtNqiwyA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ANACONDA",
+    "ico": "https://i.ibb.co/FmsLPcF/ANACONDA.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1TFpEa5uCT4dKmP/TfanEN1gJGJ9xAZCLCWQrwpbGoYA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MAXI TOLOSA",
+    "ico": "https://i.ibb.co/6YTd9R0/MAXITOLOSA.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3B16CC2oSEW7HwWHE1IlrvmTBLjqvIMnFd8vuX5NrNLA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NICO MATTIOLI",
+    "ico": "https://i.ibb.co/4M5F1yW/NICOMATIOLI.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2DrU5luPbeQoyhtHgTmdc5DLX6tOVxCcBvT2qfauMofw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CARLOS MONTALVO",
+    "ico": "https://i.ibb.co/41KJ4qz/montalvo.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U26iQ9ItHVkU/pUJbx9GTh3AlV8B8tRaH35CCy8U336/Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GRUPO RED",
+    "ico": "https://i.ibb.co/x5nx4QV/grupored.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3wOaHaWkQWdQyGkewbJ8/4xwS9o6izHkoLdxy6SEKiHQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SERGIO TORRES",
+    "ico": "https://i.ibb.co/4YnMDTx/sergiotorres.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2v8wwgsHeZz+mnLxl8Cpu8jicjT7IzvXZJG/yPLHXGuA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "SUPERMERK2",
+    "ico": "https://i.ibb.co/MfBRRnZ/supermerca2.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3nfN4/NZkXO9z2+uwspjYbTGkc9kWUQvuSc5vXBkgJsQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL TECLA",
+    "ico": "https://i.ibb.co/z6hw17b/eltecla.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3QbprtEVU1OdWYnkZBkhRR8+R39Vfo1F7EV8cDnzEZQQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "BANDA UNO",
+    "ico": "https://i.ibb.co/DGtrPFJ/bandauno.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U09pNt4WrA2maJFssluWo9YIjhAkZD4SIiExL2fvmaQ0Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ONDA SABANERA",
+    "ico": "https://i.ibb.co/TRnZJkN/ondasabanera.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2fStCRs0iIor2wweqbzPXBaiuGjZlSBu9SVOR4gZCgBg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GRUPO PLAY",
+    "ico": "https://i.ibb.co/sC84f5X/grupoplay.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U27+PPuyHff3ZplblTnhon/pTiS8RYmUrdkmxY8hx5Tmg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+ }
+    ]
+  },
+  {
+    "name": "INTERNACIONALES ",
     "mode": false,
     "lista": [
       
@@ -5182,7 +5275,7 @@
     ]
   },
  {
-    "name": "馃槆 RELIGIOSOS",
+    "name": "RELIGIOSOS",
     "mode": false,
     "lista": [
   
@@ -5224,7 +5317,7 @@
     ]
   },
  {
-    "name": "馃嚨馃嚲 PARAGUAY馃嚨馃嚲",
+    "name": "PARAGUAY",
     "mode": false,
     "lista": [
       {
@@ -5356,7 +5449,7 @@
 ]
   },
  {
-    "name": "馃嚭馃嚲 URUGUAY",
+    "name": "URUGUAY",
     "mode": false,
     "lista": [
       {
@@ -5452,7 +5545,7 @@
     ]
   },
   {
-    "name": "馃幍 MUSICA ",
+    "name": "MUSICA ",
     "mode": false,
     "lista": [
   {
@@ -5764,7 +5857,7 @@
   },
   
   {
-    "name": "馃敒 PROHIBIDO PARA MENORES",
+    "name": "PROHIBIDO PARA MENORES",
     "mode": false,
     "lista": [
   {

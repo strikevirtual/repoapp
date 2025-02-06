@@ -1,17 +1,170 @@
 [
-   
-   {
-    "name": "▐ ESTRENOS ",
+	{
+    "name": "▐ PROXIMOS ESTRENOS 06-02 17HS",
     "mode": false,
     "lista": [
-       {
-    "name": "De vuelta a la acción (2025)",
-    "ico": "https://i.ibb.co/c8sk8gX/MV5-BMWQ4-YWYx-YTAt-ZTlh-NC00-Nzc3-LWE3-OWUt-Zj-Y5-MThl-NWNi-YTBi-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0c0qEWLreAN2IeM8NVi3/dIg1MPNo38Wkwjb8yUuL7mg==",
+		{
+    "name": "El juego del asesino (2025)",
+    "ico": "https://i.ibb.co/dJcKdsmw/El-juego-del-asesino-656153704-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rfVCDnYB9Oz2knx+qmHMqhps7zzlMY4aTc8k8qxOus3w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+		{
+    "name": "Salve Maria (2025)",
+    "ico": "https://i.ibb.co/zTn1Jm1S/salve-maria-805523701-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rM7NC9tdc6SgZTzlqu/2NsvIBMYbI0wS6PiVrcd+dFtA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
+    "name": "Los destellos (2025)",
+    "ico": "https://i.ibb.co/bj7bDZkv/los-destellos-350196196-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/ovWqdhKR2QyQv4pat674d4pf6EHJaMZv5rPC7jYKqbtA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+		]
+	},
+	 {
+    "name": "▐ ESTRENOS 2025 RECIEN AGREGADAS",
+    "mode": false,
+    "lista": [
+	{
+    "name": "Los dos hemisferios de Lucca (2025)",
+    "ico": "https://i.ibb.co/dJPLcD6V/los-dos-hemisferios-de-lucca-673633623-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pMi++czcZjjhJc7lt0buYyl9Y5Gq4LeXGITf/qaAe+ymhHVNky8sue4gjjeaythVttIq/U3YyK+wKqqrmdH0Hk",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Compañera perfecta (2025)",
+    "ico": "https://i.ibb.co/LdDYv8Wd/fb-img-17383504604617007351916915596345.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rMhTJF/r2F1SetCEe5YSJICpMljt1GUwsqS0Z+JswxGOUOXALHi5s6dIeEfWJogC4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los domingos mueren más personas (2025)",
+    "ico": "https://i.ibb.co/VYSKdPK9/MV5-BMTMy-ODIx-Mz-It-ZWQ0-Ny00-ZGZi-LWIx-Mz-Yt-NWVj-OTNh-Nm-Yz-Nz-U2-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pBz+9CGOPRkYrF8kYoPA8tgVFkH0zUUfrAhzBpY4K/q+sobEvV3fNq78GWB4s69oA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Azrael (2025)",
+    "ico": "https://i.ibb.co/PvTGmngF/Yc9n-ISGdc-Bp-TJx-Lcje8.webp",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/r+PDp9yL5ikbLIM3LOJ2KHcP/auZ4CbJDjXSRzRMTqWayCclVJyGriv9iciOuHjHI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "En verdad inmortal (2025)",
+    "ico": "https://i.ibb.co/CpDy9m4W/En-verdad-inmortal.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pVm28Op+MeH5pBRdAD37enhls5ysV467Hip7jeFQ4CpC/gXbqksefWkV+yqHfrVOA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Queer (2025)",
+    "ico": "https://i.ibb.co/8nNCZskx/queer-369943705-mmed.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qpAOim4xjifsM5xAXASx9T/M9a64nB1vYeIyrj6IFP2EaIMDuG28ttfDCtvTD7dC0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Conde de Montecristo (2025)",
+    "ico": "https://i.ibb.co/0jmJb8sX/le-comte-de-monte-cristo-385502340-mmed.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pOd61xDstvwDGbFndsM2AI84I8+SCEYNAXoQoIK9jdo519tWsnEQ/TMOpeXh/3W9XMLuedC2wwASQPIkxYpwqy",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Bogotá: Tierra de últimas oportunidades (2025)",
+    "ico": "https://i.ibb.co/0R4ckg1d/63610d138b06f47ee5a98c273dba9022.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/oLc0v896z+1CK6czTfKjXrRVO4wxEovPt6h5Wo8o/DVX2OQyNP7E1Rbv3xVxJh//Jd3k/WM6c3PZbfFBl219Uj8xhn3IDJ+qCepxXKMBqNcA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Piglet (2025)",
+    "ico": "https://i.ibb.co/PZW27xFN/piglet-948051946-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qwr866LJlvwlEzNNoZhg0in3jEoSbuAXVu39/R58CYEQrpTlA5ID8blYSOksmJxEE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Amenaza en el aire (2025)",
+    "ico": "https://i.ibb.co/gMfmvf5C/flight-risk-426693593-mmed.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/r+7u4BAuOKXvYXX0z/6vLCcXYoyRMZjHDe+xO2YXzWLK3kj1BOZOAIsyxPx0X3suc4LcMH/sdiR5gxrnwiGKQl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Canina (2025)",
+    "ico": "https://i.ibb.co/MDB9VNP8/nightbitch-440879611-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/o0S6WI90/tk0jwv51kfD5tbntg8zRLb1PuZjLXlp+4GDclImfMqfDdTyEVzuL8U1o=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Emmanuelle (2025)",
+    "ico": "https://i.ibb.co/B5BTrbfX/emmanuelle-380790485-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/o9PSNyXpT4pxFlRjZFx+B2n16Z7gEwRyKEVWJ6+bvRmgaia6cCZl9BCr9BxhEafchBjhjL9d6dj9C5kMOWVgZT",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Sniper: La última resistencia (2025)",
+    "ico": "https://i.ibb.co/679RdF3F/MV5-BMjk3-Zj-Bj-Zj-Yt-MDQ0-ZC00-Mj-Bi-LWE0-YTkt-Zj-Az-Ym-Yy-Nzdi-MTk1-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX100.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pO5TfEPnDdV8qgcf2xNou++zcXsTzC4WCxk5ozrNRnI1dNxF79Ik42TFdk/BdQLbQvYqXAK81NfeLGrb37jzTqcywYHlXum8dPB+PgjHmMig==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Aquí (2025)",
+    "ico": "https://i.ibb.co/23yCLN0d/here-640848952-mmed.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pec1LT1XuUuj0IZ8M0tR3y3AMDfe9ukTlEp32lPzSPWuFFhcnLw7lbFl1ef6ldGuo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Jugaremos en el bosque (2025)",
+    "ico": "https://i.ibb.co/XkSQGY5G/jugaremos-en-el-bosque-926052382-mmed.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qf9UNWQOMiEzGYyPdLQUNwZhLMJVliFHu7lxSOUUVrrMjzICc5luhRBKP/SDwSECInaw60RiS9xjzvJuBo6U4I",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	
+  {
+    "name": "El castillo de arena (2025)",
+    "ico": "https://i.ibb.co/352QNf5y/MV5-BNj-U5-Y2-Rj-YWYt-Mz-Jm-OC00-YWRk-LTk3-Nm-Et-N2-Y0-Yz-Iw-Nz-Q3-Nm-Fk-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pi0d0zs2Qpm8dIlCYXs0gQjvI9HxFaexHtaugoa7sifqqNaOMQNa2GrrWTwGr0UgRY4wP7ArUe0paxB19klTLs",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Despues del apocalipsis (2025)",
+    "ico": "https://i.ibb.co/Z7fW1Ry/MV5-BYm-Q0-OTU4-MDUt-OTM5-Yi00-Y2-Qw-LThh-YTMt-ZGFm-OWU2-ZTU0-Y2-Vl-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/riReapg/qMy2Eq2gJMZh4Qki6x5uguiDoj6RGwRsRUISpeTvZir+Kx92xbPLEwz97VrjOewtTpoVg3xw7j3wUb",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Operación Panda: Misión rescate (2025)",
+    "ico": "https://i.ibb.co/YBn2kKHX/Poster-Panda-Plan.webp",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qaipKmP6AxA1o/R4KzwLEuq+pZe/TrzfZet+1ZqhhnAQi+66oCzMHM1BCrRseyPl1Kft+n5x9Huk8UtRIJiSyo",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Un hombre diferente (2025)",
+    "ico": "https://i.ibb.co/HfCtb89Z/a-different-man-322920270-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/q0IKkA1Evbe9ESsQnVL5o6oXJES3QL8V/m4UbVjCNacg8iATTnDGoFE+9V0oT4JEbPuzLnBusBNer4+YKSfAE+",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	  {
     "name": "El retorno (2025)",
     "ico": "https://i.ibb.co/6RPNcL09/el-retorno-222284769-large.jpg",
     "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/ptQEOO95kP/Ficg5bSpKfcLY1Bal0aVOTIO7vQR1xWMxr/kVD3atfz3za5X3PoXDo=",
@@ -25,7 +178,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+	    {
     "name": "La otra boda (2025)",
     "ico": "https://i.ibb.co/bMP0nqXk/k9q-OMi7-Mhi-NKOjtax8-V023v-Jg-DS.jpg",
     "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pLR7VKyRS2Dz8uALgnHEgVxXzZ7CKmfJO5T//0oEWE9svPUrLSSoAEq6bJpWbQLGs=",
@@ -45,491 +198,228 @@
     "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pV4vEkGJ3w2jj+SVhYgrqy5pFrrX9OHsn8SY/l25t7zxQmOuyAOPS8GvqmYG2tplHneYUIUixVNLvaof5TC1yc",
     "drm_scheme": "",
     "drm_license_url": ""
-   },
-  {
+  },
 
-    "name": "PADDINGTON EN PERÚ (2025)",
-    "ico": "https://i.ibb.co/7nX98JP/6786f77615f0b.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3WXuRVVxhbov4u3Fx1pLqirx9vAETL08Kp685WACYl3A==",
+	    {
+    "name": "Star Trek Section 31 (2025)",
+    "ico": "https://i.ibb.co/8hmvq4B/bx9bt-F0-Jo4r-RF68xny7-VPq-HNt3z.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/q0N9LujXrlz3l+lzA3SBi6dsUteNlqAZRl0+Yo8fa/5Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+	    {
     "name": "Into the Deep (2025)",
     "ico": "https://i.ibb.co/yFgsYqz4/ems.jpg",
     "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qX2yab+kMomi24ef5y0mmot9dGUDDtbdSduB1dXA1QVw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
+	    {
+    "name": "De vuelta a la acción (2025)",
+    "ico": "https://i.ibb.co/c8sk8gX/MV5-BMWQ4-YWYx-YTAt-ZTlh-NC00-Nzc3-LWE3-OWUt-Zj-Y5-MThl-NWNi-YTBi-Xk-Ey-Xk-Fqc-Gc-V1.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0c0qEWLreAN2IeM8NVi3/dIg1MPNo38Wkwjb8yUuL7mg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    
+	    {
+    "name": "PADDINGTON EN PERÚ (2025)",
+    "ico": "https://i.ibb.co/7nX98JP/6786f77615f0b.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3WXuRVVxhbov4u3Fx1pLqirx9vAETL08Kp685WACYl3A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "El asesino del calendario (2025)",
+    "ico": "https://i.ibb.co/sJxWy3g/asesino.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1cQegxTwEsnPGP3GDVkJWtSt7y27jPmKCKWcCHQ0T6Dg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "El Robo Perfecto: Pantera (2025)",
+    "ico": "https://i.ibb.co/5c1vH42/dont.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2aqJjR0B7jr7Q4v09t4+/L",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
+    "name": "Respira (2025)",
+    "ico": "https://i.ibb.co/1KT2KcV/RESPIRA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1Se2m9JYQH/GhP7bYtrAJZfYCwQ1s77WJ8RGO5CiDBAw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Corre o muere (2025)",
+    "ico": "https://i.ibb.co/p4RWnHg/core.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3F3Mby0ICxFk9TJ5iSjW4r",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "No puedo vivir sin ti (2025) ",
+    "ico": "https://i.ibb.co/VLdp04X/nopuedo.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1omEzzotawz4SmXBQPqvv1KWE/80BovSi2MEMKhX4drA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "Ad vitam (2025)",
+    "ico": "https://i.ibb.co/khMtv2C/ad.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0BRHGdaq5rvjxLTtjZWnMR",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
     "name": "Padre no hay más que uno 4 (2025)",
     "ico": "https://i.ibb.co/k6HVPk6/Padre-no-hay-maas-que-uno-4-Campanas-de-boda-959012953-large.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2rRtnsfnHZq8GcgfVkVzFs",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+	    {
     "name": "2073 (2025)",
     "ico": "https://i.ibb.co/SBHhzsS/xsa.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1BxwKEJMKgBVjPEK4O6K74",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "Cómo Tener Sexo (2025)",
+	    {
+    "name": "El mal con el que vivo (2025)",
+    "ico": "https://i.ibb.co/3p8xB3Z/the-beast-within-2024-0.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0/xABHYjqsM9Wu85jp4eih2sRRphIUeVojlsnOSWaiVA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    {
+    "name": "Como Tener Sexo (2025)",
     "ico": "https://i.ibb.co/RQwVDJR/sexo.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3EmaTEKIY5oJhJH1mPUswMXiF4O+yjvzK9zbsgNv5o2Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "BabyGirl: Deseo prohibido (2025)",
-    "ico": "https://i.ibb.co/rfDYwVz/deseos.png",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3u2DgE9mmI8ZIud3VseD8C89aiEkt76wCI0oirnMVZng==",
-    "drm_scheme": "",
-    "drm_license_url": ""
- },
-  {
-    "name": "La bruma (2018)",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9nIOsyC4g0tS3WRTEdCUQUIGcN.jpg",
-    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iSO6TvMKslJNouO8a83q8gA==",
+	    {
+    "name": "Saturday Night (2025)",
+    "ico": "https://i.ibb.co/wWWCWJ5/Saturday-Night-685360607-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1bQZJuUKCZeFTJatTV3uRvBnEAKuM3uC4AF+mcwNfGDA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "Una Pequeña Confusión (2025)",
-    "ico": "https://i.ibb.co/LkvphqS/ocnfu.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2xXwy+d375CTa794yvX6rfUp6Y1kpHv9IsOM3+9UoY9w==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Kromoleo (2025)",
-    "ico": "https://i.ibb.co/M75Q3cv/kromoleo.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1/CIwRo9q0i3xZenUHkBBzxrd4uTu+ZCDdVfgV+iTt8A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
+	    {
     "name": "Nosferatu (2025)",
     "ico": "https://i.ibb.co/hsQKgfv/nosferatu.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1CPzK/ZIrVP+F1cMGW52Fy8BnH3y4VdQLrhCdFW+Dulw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "Culpa tuya (2024)",
-    "ico": "https://i.ibb.co/yYpFzQw/culpatuya.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U08JgesjS7sdlWo420jZNv2ZbDowCp0rrIp68EAm9484A==",
+	    {
+    "name": "Kromoleo (2025)",
+    "ico": "https://i.ibb.co/M75Q3cv/kromoleo.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1/CIwRo9q0i3xZenUHkBBzxrd4uTu+ZCDdVfgV+iTt8A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "Riviera Revenge (2024)",
+	    {
+    "name": "Una Pequeña Confusión (2025)",
+    "ico": "https://i.ibb.co/LkvphqS/ocnfu.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2xXwy+d375CTa794yvX6rfUp6Y1kpHv9IsOM3+9UoY9w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	    
+	    {
+    "name": "Riviera Revenge (2025)",
     "ico": "https://i.ibb.co/ctvTRzd/RIVIERA-REVENGE-120-VA-TITRE.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3fXlJtBKOmzdTymm3afdL3qa1k67cwUeH0y1kxoNAhPA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Un Regalo para papa y mama (2024)",
+    "name": "Un Regalo para papa y mama (2025)",
     "ico": "https://i.ibb.co/X5NFYRy/Un-regalo-para-papaa-y-mamaa-241252508-large.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3rU82BojQjHKlFzwNLuuZ6aUcCIPACreDvKCdrVEVSkFP4XqUI/pK3sFHmZdZ20JU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Buffalo Kids (2024)",
+    "name": "Buffalo Kids (2025)",
     "ico": "https://i.ibb.co/ccWSRpL/Buffalo-Kids-721564893-large.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2k1midzyLTNuu/3Y9fvP/wNrkVUhPvbLbbCzBf+qF76g==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Un Lugar común (2024)",
+    "name": "Un Lugar común (2025)",
     "ico": "https://i.ibb.co/6vcc7Qw/Un-lugar-comaun-200557709-large.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3pWG5EAwj8RRay/JLz0W/JUi0biVgqCXJMUD27Zn9qsA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Isla Perdida (2024)",
+    "name": "Isla Perdida (2025)",
     "ico": "https://i.ibb.co/YXy9znY/Isla-perdida-649840312-large.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1Q1TrewQZ01ynZBu/TTWxEWjd6rPQmAly6TlQCIKsU+Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Cuerpo Escombro (2024)",
+    "name": "Cuerpo Escombro (2025)",
     "ico": "https://i.ibb.co/y5qkh7J/Cuerpo-escombro-537227189-large.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2cUna0qk89bQAZ6HNqH8+MHlWLHT2WJKOTNd1bd3qjug==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "The Front Room (2024)",
+    "name": "The Front Room (2025)",
     "ico": "https://i.ibb.co/K5JDcQH/The-Front-Room-124240033-large.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1KzlnBX9sibkoduWQKhM6wdWaDV4dPeP+KnJCbVBM1UA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+	    {
     "name": "Nr. 24 (2025)",
     "ico": "https://i.ibb.co/M211pnM/noir.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3cEdlDu1nNZYA9Je7Zi5wn",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
+	    {
     "name": "No te mueras: El hombre que quiere vivir para siempre (2025)",
     "ico": "https://i.ibb.co/VYJMmns/dont.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2kFQ2s9MBVJQXF+wytdfMnm1CsESjSSQijFY4oPPbAKg==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "Mufasa: El rey león (2024)",
-    "ico": "https://i.ibb.co/2hB169z/mufasa.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3lM/GQupRabHp8UDy8QLR/",
+  }
+	    ]
+   },
+    
+       {
+    "name": "▐ ESTRENOS 2024",
+    "mode": false,
+    "lista": [
+           {
+    "name": "La hora del silencio (2024)",
+    "ico": "https://i.ibb.co/vBw8QVy/HORA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2izIAbvOfPUmmm0blmPA8iU3jtTa+yODakqCOy+Bb5XA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "Seis Triple Ocho (2024)",
-    "ico": "https://i.ibb.co/BL50y1j/seix.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2Ab7N/ybU2KLxmydED0ni3",
+           {
+    "name": "Culpa tuya (2024)",
+    "ico": "https://i.ibb.co/P5zYx4t/culpa.png",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U08JgesjS7sdlWo420jZNv2ZbDowCp0rrIp68EAm9484A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "Los Simpson: Santa Homero (2024)",
-    "ico": "https://i.ibb.co/JKyVvhJ/SANTA.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2p/jGiibs9Z0UiShrEXOQxttlWda6e8a/B10LngT2Oxg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Animal Adventures: Save the Forest (2024)",
-    "ico": "https://i.ibb.co/Qdzxfhz/AS.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1sh/RYehzkIrQrWncc6rMfKHoR4tSgI0qsrUlh5Uy3kg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Kraven el cazador (2024)",
-    "ico": "https://i.ibb.co/x6WS71b/krave.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2FRUPvsZyI2IdTEC7oLwau",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Anora (2024)",
-    "ico": "https://i.ibb.co/vdBpwcR/anora.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1ZMQje6tM/ni8W7+Mg0iKK",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Rob Peace (2024)",
-    "ico": "https://i.ibb.co/syfgp57/rob.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0wAwDwu6g2U+Q3A9WYxQs5",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Vacaciones desastrosas (2024)",
-    "ico": "https://i.ibb.co/7Rb1TY9/vacas.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3xCRtl5mKpMGNKPeMhG3mJV8YXmPyH5tBgqbakPaq48g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
+           {
     "name": "Sonic 3 : La película (2024)",
     "ico": "https://i.ibb.co/JB3rjQH/sonic3.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1woizmAdEuNI2Xx7UAXjRC",
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "El Jockey (2024)",
-    "ico": "https://i.ibb.co/6Ws8mqW/jocley.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3LPY4+9I5J+hi0W0rgNMjlzC3bdsnUgKFh0/yJuCQH9Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Todo por mi hermano (2024)",
-    "ico": "https://i.ibb.co/kS4THh9/todoxmi.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3HKSJqTQvLpBrrUzr6rOUTAd/JdHyI0jh8XIGmHfMnfw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Un viaje al corazón The Wingwalker (2024)",
-    "ico": "https://i.ibb.co/nQnfNhg/un.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1BHv3QbQjzM5uO6ko+foD5w5y1phDb7uyOAW3RWVfyNw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "El aprendiz (2024)",
-    "ico": "https://i.ibb.co/Q6nD61J/elap.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2uWQuW5S/YBxd6ye2SUKg3giOy1LAQusKiCmHvc4DlfQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-   },
-  {
-    "name": "DESTINO FINAL",
-    "ico": "https://tse3.mm.bing.net/th?id=OIP.wZC-vlPOUv4xAUURFMIwjwHaD5&pid=Api&P=0&h=180",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0JCvlIjnvlH2SAzvZqAl6cYNJHrQle1vg/NkfamIGi3g==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "El plan del asesino",
-    "ico": "https://tse3.mm.bing.net/th?id=OIP.bW5Kch0R4oyyMJssmVRZtgAAAA&pid=Api&P=0&h=180",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3aPn8YiyBnqws8ISSfBYSQh9CoidTwAxU9zBkLyjPUKBru3lwRQ+RgjNcMGpGc7Pwgl6L9UL1rRIduYsUSDBkQfhAcuF3oDAf4MTxaTesmZ+Gm2SrLbsYpKmLN1uP+grsO/led1178lCbM4DyhoRCv",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Rambo last blood (2019)",
-    "ico": "https://www.themoviedb.org/t/p/original/bUHfD9X0Sp4VT36BHpbsgHnNA6a.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0ZkefzhABhljyMp2VchYTwZ1mW6ngg9/IbvGCr1e5zNtX8LsNApWcrKo3u3+d14iA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Detonante",
-    "ico": "https://gluc.mx/u/fotografias/m/2024/6/24/f768x1-131846_131973_5050.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3VzMFTfnDg7TFXngsCJBCkFcRbO+w2xGoN4Ys1rT0bHjCopNkf7fsQiNnpqRJQVoI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "3 metros sobre el cielo (2010)",
-    "ico": "https://is1-ssl.mzstatic.com/image/thumb/L0H-nKYaqSbkgtYP8GQBFg/1200x630.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1vcnvIBaPLqh3lgW+jvdhEFAGgqRtIWYxJOrsmj177yYrdqhJph4vtfCKnXni5FSI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL Cadaver de mi Novia",
-    "ico": "https://tse2.mm.bing.net/th?id=OIP.y09ZaIR5_KIIA48Kh3BUlAHaEK&pid=Api&P=0&h=180",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2PM+sQabMNHcUfPS5zvp6IPXb8L7a+bSE9Oy1e/zY5jw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Apocalipsis Z: El principio del fin (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/2S7KFwcxTjlkjCu6jIbtUSrSQlT.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lRjRgUhed8JR8ObllUABnhLryOburXSTO1LT52lv+8nZfl9cJ5VmqyHWzxCMnMLtPZ9SMDQ66N7sqwPQkny1U01zMbur9Rlzds17MwjgE/Wc",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA ERA DE HIELO UNA NAVIDAD TAMAÑO MAMUT",
-    "ico": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4FD7C50CB43B96D101DA822130516B672104B3EB794EB4051AC28A2D261395B6/scale?width=1200&aspectRatio=1.78&format=jpeg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0JEnm8Qj0vgUNBZlfU27E2zQkF11he/7Yv/PxePRF/CZ40UNKzPhkAldILxYfCyfc=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Devara: Part 1 (2024)",
-    "ico": "https://i.ibb.co/f2PvNLw/devra.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0tMnHjFQBxJiQZK5GbdtUI1tBoI+uWSxUV223h1IW3iA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Emilia Pérez (2024)",
-    "ico": "https://i.ibb.co/nrXP8kZ/em.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1p7OM6fcSkQoQzfIGs4dovFmQtFEwd8SeHmYCyUB2sfg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Hereje (2024)",
-    "ico": "https://i.ibb.co/q9XpMJw/Heretic.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0SsZxNu3tM7npcEY3EVATk5/L2VYJoQRs29TVbG4ipww==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "El precio del dinero Una aventura de Largo Winch (2024)",
-    "ico": "https://i.ibb.co/hYLSGrK/elprecio.png",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3qFc+ZV4uhGiYr5RM4eXqpJPB9cA5lVI38iBNu9jiaUXspvbSOzLHA0dihzd4nuZTwQXayS4ssBuVnmuKZW7nw",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Argylle agente secreto (2024)",
-    "ico": "https://i.ibb.co/W5tsTpK/angente.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0f5HbmkAYUAwLB/kvDplzQk/WFgvkw00jzDpSB1ltDsH4ayhHbnYHcoMd7IdVdZL4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Indiana Jones 5 (2023)",
-    "ico": "https://i.ibb.co/4mjyq0F/indiana.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2orke1+Q3YMLPez77XOpUnl+yeftcuJ5e5yV4IeqbCRg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Lift: un robo de primera clase (2024)",
-    "ico": "https://i.ibb.co/M1tjwSh/robo.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U22VS5TX7mXAzHLnyM0CfTOkErbGmk5hdfTHRmGU2VnQaoH7i1XSUks9BuadyaE8iI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "El Justiciero Capitulo Final (2023)",
-    "ico": "https://i.ibb.co/31ZTPRM/the-equalizer-3.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1p49PHnyg6DLUXT4/yr6xm2Iw/izByWHAWVRVnsNTJAODwffDuBhpR+ZtY0OY+K2g=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Red One (2024)",
-    "ico": "https://i.ibb.co/p13XLdf/Covers-LMHD-2.webp",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWHo+CYildEl90RTzNAONrKBtfaqUKwrJAwLWlU+QKzy4m9Bhcf9m1MfavkuZM1QGQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },     
-  {
-    "name": "Abrazo de madre (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/3bP7sHgrjkGmgJCUu6DscjGzNCw.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lZsncgXc4c+MNexhxFdNn5O9XlxrE7ymsJmDzXdqreHoVSXanpQ9BrXqmmeLTq9aZHs53t0uNHbP3fHCf3u4DeU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },     
-  {
-    "name": "Deadpool & Wolverine (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lffXdyHAnSYbiHHv9oa78qWZKQni2JnjJz22DreatGIKjWa6lkMJvJI2ykXuFrKSHvx+hIstGjMHtbCOVrhnQZ8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },     
-  {
-    "name": "La Civil (2021)",
-    "ico": "https://image.tmdb.org/t/p/w300/11DDA8vryhVHhjSHGKO51MtDhsl.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lfwZBPPO3Yo/jahRxI2xYEyBw5SuDYccfB0Ve49YdExDaRtU6MKHYP3eI+tLeboKmA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },     
-  {
-    "name": "Guasón 2: Folie à Deux (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/tMMYwxrPwVPrxz3DqXs8DnVIOx0.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lV5O0iOmn1/4ER6GUUTByyqK+jtOla7wXYXGoBwJ/s2MG0eKLvlkRJIf24VeUDI2OA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Exorcismo (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/imZhdkfRxvHrzxRejRqodI9sJbr.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lY2OpyhM//xkYgHbpko3HO3aFWOYQ/7Be0ULd7sbecqgtVaeM9c8YyDKfuzRMyIgpw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },     
-  {
-    "name": "Transformers Uno (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/1jzVCZxBmgvpGILuEU8icfX77Io.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lYqibIaljk9f+cMiUa/ypABBI5JEmeoLZpN3z4LP2SYM+RZjG94vQOsZXMBVy3n7Rw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },     
-  {
-    "name": "Tornados. (2024)",
-    "ico": "https://i.ibb.co/wr2N0K8/Twister-Edgar-Jones-Powell-Ramos-2024.webp",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lXBv8mviEM0Ca0Q5lLvKpnbzblSBCWc9XgPohr/zBg2QCKbxENbRNpX3M4p7DtVWTg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },     
-  {
-    "name": "El Cuervo (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/X9iFHeIYgfqoZImvdidx8b9v4R.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lUvyfft3ZjP0uUcFtbllfaSq5VTSSrhLtAsncglK2JUPWwippWfydgw6otZudBqppw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Ahí afuera (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/gNtVxOAmBD42TBwFfN52fDa56XZ.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lb7iDLaD3zQa87Jee2QYP29a0Ocwgmnb7pnpHDzXXiVdKgg4DEgEuDt1WySxMZeyDg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },     
-  {
-    "name": "Venom.El.Ultimo.Baile.(2024)",
-    "ico": "https://i.ibb.co/Dk4H1ZG/descarga.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lS6qVq1IFOFERbZU+D1GjGQSCwpon464GNYjJxWBXaWjT4coEOkgsWSJhC5iRUgmGQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },     
-  {
-    "name": "Robot salvaje (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lf+bq/8P6orXzgVhxNRaTAWNPdwoDeeK7HSiFru3knbIRhzTzRLV3D+BBffLvcA955M7gAFUrLrm0yxveKqcjUQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "MaXXXine (2024)",
-    "ico": "https://i.ibb.co/9G2phBk/maxx.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lWGb+j22Otsa5j0fZAKEfrRkxLwzSWlDYN2sxRYSWl6E",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-    ]
-  },
-  {
-    "name": "▐ ESTRENOS 2024",
-    "mode": false,
-    "lista": [
-      {
-    "name": "Pizza, Birra y Faso (1998)",
-    "ico": "https://i.ibb.co/fHV5MqW/piza.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3+vJfiGiQ/sz723Hs74wbZ",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Sniper: La última resistencia (2025)",
-    "ico": "https://i.ibb.co/679RdF3F/MV5-BMjk3-Zj-Bj-Zj-Yt-MDQ0-ZC00-Mj-Bi-LWE0-YTkt-Zj-Az-Ym-Yy-Nzdi-MTk1-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX100.jpg",
-    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pO5TfEPnDdV8qgcf2xNou++zcXsTzC4WCxk5ozrNRnI1dNxF79Ik42TFdk/BdQLbQvYqXAK81NfeLGrb37jzTqcywYHlXum8dPB+PgjHmMig==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Aquí (2025)",
-    "ico": "https://i.ibb.co/23yCLN0d/here-640848952-mmed.jpg",
-    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pec1LT1XuUuj0IZ8M0tR3y3AMDfe9ukTlEp32lPzSPWuFFhcnLw7lbFl1ef6ldGuo=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Canina (2025)",
-    "ico": "https://i.ibb.co/MDB9VNP8/nightbitch-440879611-large.jpg",
-    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/o0S6WI90/tk0jwv51kfD5tbntg8zRLb1PuZjLXlp+4GDclImfMqfDdTyEVzuL8U1o=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Emmanuelle (2025)",
-    "ico": "https://i.ibb.co/B5BTrbfX/emmanuelle-380790485-large.jpg",
-    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/o9PSNyXpT4pxFlRjZFx+B2n16Z7gEwRyKEVWJ6+bvRmgaia6cCZl9BCr9BxhEafchBjhjL9d6dj9C5kMOWVgZT",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Papa se volvio loco (2005)",
-    "ico": "https://i.ibb.co/gPXn6c8/papa.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U20aoinOaon/XnPtWWfDnLV6KllCnEmZItTw/Hbd1T0Mg==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
+           {
     "name": "Ferry 2 (2024)",
     "ico": "https://i.ibb.co/nR33tB7/FARRY.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0FFpGyaPX/KP9ot9T4ZltA",
@@ -550,918 +440,1504 @@
     "drm_scheme": "",
     "drm_license_url": ""
   },
-  {
-    "name": "junto a los Dioses (2017)",
-    "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2017/12/w1280/hEuIC6M7PnBewZo91DrRr3RIXYx.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3Gt898ZRvhaMkIb0TNNpy0mYNafjcH4ZqVGig9uGOHVZYM/9f1njBaEZMvzetmT67tYo+wpdNfOvxJfqWzmgjh",
+           {
+    "name": "Seis Triple Ocho (2024)",
+    "ico": "https://i.ibb.co/BL50y1j/seix.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2Ab7N/ybU2KLxmydED0ni3",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+           {
+    "name": "Animal Adventures: Save the Forest (2024)",
+    "ico": "https://i.ibb.co/Qdzxfhz/AS.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1sh/RYehzkIrQrWncc6rMfKHoR4tSgI0qsrUlh5Uy3kg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+           {
+    "name": "Anora (2024)",
+    "ico": "https://i.ibb.co/vdBpwcR/anora.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1ZMQje6tM/ni8W7+Mg0iKK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+           {
+    "name": "Mufasa: El rey león (2024)",
+    "ico": "https://i.ibb.co/2hB169z/mufasa.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3lM/GQupRabHp8UDy8QLR/",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+           {
+    "name": "Rob Peace (2024)",
+    "ico": "https://i.ibb.co/syfgp57/rob.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0wAwDwu6g2U+Q3A9WYxQs5",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+           {
+    "name": "Kraven el cazador (2024)",
+    "ico": "https://i.ibb.co/x6WS71b/krave.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2FRUPvsZyI2IdTEC7oLwau",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+           {
+    "name": "Los Simpson: Santa Homero (2024)",
+    "ico": "https://i.ibb.co/JKyVvhJ/SANTA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2p/jGiibs9Z0UiShrEXOQxttlWda6e8a/B10LngT2Oxg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+           {
+    "name": "Cascanueces (2024)",
+    "ico": "https://i.ibb.co/jy6DH1P/casca.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3BsQEizD6asswObAsC10Vk",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+           {
+    "name": "Vacaciones desastrosas (2024)",
+    "ico": "https://i.ibb.co/7Rb1TY9/vacas.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3xCRtl5mKpMGNKPeMhG3mJV8YXmPyH5tBgqbakPaq48g==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Una aventura en Marruecos (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/pN9Vw5A3Eu868XqidnKcTdUW1Kq.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1pVQaA1Dem0RoYLmUvT2mr19/OCd4fBoomNpViNWFVujNz8mm6NuOCiMVpmYCAnyU=",
+    "name": "El Jockey (2024)",
+    "ico": "https://i.ibb.co/6Ws8mqW/jocley.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3LPY4+9I5J+hi0W0rgNMjlzC3bdsnUgKFh0/yJuCQH9Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Código de la Ley (2021)",
-    "ico": "https://image.tmdb.org/t/p/w300/6W0e4PRWPjKX2EnhjXdSpIshKFD.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1Hs1BzVgKP1cVEBbU45fuMYodO/VwLq++j+2CtmG5Zkh3+xEaNibFozA31aHmN8cinRq2CFlzASQaR6A+oVV2o",
+    "name": "Todo por mi hermano (2024)",
+    "ico": "https://i.ibb.co/kS4THh9/todoxmi.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3HKSJqTQvLpBrrUzr6rOUTAd/JdHyI0jh8XIGmHfMnfw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+           {
+    "name": "Equipaje de mano (2024)",
+    "ico": "https://i.ibb.co/JQZ2PVn/equipa.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3/qeBbk0dy40TlAXM9YG/BHgg1xVMs0b/7ydn/JBUkdQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+           {
+    "name": "Un viaje al corazón The Wingwalker (2024)",
+    "ico": "https://i.ibb.co/nQnfNhg/un.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1BHv3QbQjzM5uO6ko+foD5w5y1phDb7uyOAW3RWVfyNw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Gladiador (2000)",
-    "ico": "https://image.tmdb.org/t/p/w300/90QFOG5zSN4cbrIVs4DL4ePAuA5.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0pRTORGMg+dh641WFAtV1SAI9fMhCBE2rOVyEyxHeFbg==",
+    "name": "El aprendiz (2024)",
+    "ico": "https://i.ibb.co/Q6nD61J/elap.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2uWQuW5S/YBxd6ye2SUKg3giOy1LAQusKiCmHvc4DlfQ==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "Hechizados (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/Ai8NWWKif25YCoglnjYuqa5CKRO.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2bnxWpqSnSeTraZSzOIwZsNb8pPL/NaPalpg7tf/Rxag==",
+   }
+     ]
+   },
+
+
+
+
+           
+       {
+    "name": "▐ LO PEDIS, LO TENES PLAYTV",
+    "mode": false,
+    "lista": [
+    
+        {
+    "name": "Indiana Jones 5 (2023)",
+    "ico": "https://i.ibb.co/4mjyq0F/indiana.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2orke1+Q3YMLPez77XOpUnl+yeftcuJ5e5yV4IeqbCRg==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "ALERTA AMBER",
-    "ico": "https://image.tmdb.org/t/p/w400/7rvfugoxG5Omr0QQJk9BdSu1g3Y.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjL3QFyQPZJrEDH5MyEz/u7s=",
+        },
+        {
+    "name": "El Justiciero Capitulo Final (2023)",
+    "ico": "https://i.ibb.co/31ZTPRM/the-equalizer-3.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1p49PHnyg6DLUXT4/yr6xm2Iw/izByWHAWVRVnsNTJAODwffDuBhpR+ZtY0OY+K2g=",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "Moana 2",
-    "ico": "https://photo2.tinhte.vn/data/avatars/l/3173/3173079.jpg?1732619701",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3pSXnkNK9nHYEsOkXwVnqs",
+        },
+        {
+    "name": "Frank & Penelope (2022)",
+    "ico": "https://i.ibb.co/nBFZGHp/frank.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0MbV2YWGAEPJsKXiUieNKXcr8vKkHJpK5btTVERJk5GJztZ2A7VSifx2jm50kEasc=",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "BAD BOYS: HASTA LA MUERTE (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/zp0Y7Nsl4UnWiwX4LxXQXgDfXSz.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjLOeXYDCU5zEbeM/p+kbLzw=",
+        },
+        {
+    "name": "Spider-Man: Sin Camino a Casa (Edición Extendida)",
+    "ico": "https://i.ibb.co/h9DLYyP/sincaminoacasa.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1G3FiylEzjSgiIzEmuXywABkzEU0JI4g6Aw7hq38JYO73+wYzLgPjCtIAdFjiPKyk=",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "BANDIDA: LA NÚMERO UNO (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/eVF4hqkBD1maZueHDEhhe02kNhj.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjH5icrZzkjYhz9UNgmygUgs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "BEETLEJUICE BEETLEJUICE (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjPtNYUIUF1kwetfW87YxANY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "bruja del bosque",
-    "ico": "https://i.ytimg.com/vi/HY3qHdDBNhs/maxresdefault.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U24TpptfCN1c9V9a3VGrk2rVpY7LEutv3RPU2ZcevgU8ydRha5a3L1Bc+zLAm0Ba9HbiosT7JhbRLOzBxzB0L+5",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "BORDERLANDS: EL DESTINO DEL UNIVERSO ESTÁ EN JUEGO (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjONH0dkUetNjIcbvKX4PcrA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CABRINI (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/lQziV6stVMBsi6snbyrlRa0WWue.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjNGnSRVc6G3+NVyqHLAUfFs=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CALLADITA (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/rUxbklEr8ukGeQHbQOmXFkWyTtV.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjPkZVxsqxRgQQZI2rV86h78=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CAÍDA LIBRE (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/9EdGBz7SWudhGMlvucVebiczLrq.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjPtz3QVXRakPYlAhOPnQztU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CONTAMINADOS POR EL MIEDO (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/uE8sz63PFf3exD9WvmW26lONVqA.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjBqfRi8lgjvaUFWuIxXU09w=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CORA (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/nXYh7A28Qcu5K3nkiXYHNiTaVzZ.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjPQK54sj1DABH2+cuztkBf8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CORRUPCIÓN EN BANGKOK: ENTRE EL CIELO Y EL INFIERNO (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/45Yxq9aEfMgPEq6bGZG0BgbDQge.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjNZAu65JqUUpvKU55PZNp+M=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CTRL (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/eCaaJkJqRA6unsVe5hvtgJq301H.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjAxfbrcY+zXbu5MRXaFDrUw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "CULPA CERO (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/3f93YAzZRc2vtOQyRqrakD0YS3O.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjEdlBKDkiz01YCCJxTqzkjY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DIVORCIADOS (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/r0ZdpHIvojr6k9KMizU2e47bxDM.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjP9gdMXQHIxRxIss92epN6c=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "DIVORCIO EN NEGRO, DE TYLER PERRY (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/2Xkdb7J3juzcLe8IrOheNkDgklZ.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjFPLJbvgVXszsGZoRTRynZU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EL SOSPECHOSO (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/94sIggRUBioP19m3vJQfV3lq6Z6.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjAIdUYzNVEKUjVRtwNTPfSQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "EXORCISMO (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/imZhdkfRxvHrzxRejRqodI9sJbr.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjI8lSartFKokG6gYQFY7MIM=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "IMAGINARIO: JUGUETE DIABÓLICO (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/pxM0EWBHs5QRkqVCL4bOAaHlQ8e.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjEdlBKDkiz01YCCJxTqzkjY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA FORJA (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/loYpxub1ZZVmI4JzPC0jLkerq3g.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjAhoE44m+Ixep0ZrciT+4DI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA MUSA DE BONNARD (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/g5CnLouFAgHIfwsXFvah5iUchIS.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjKIBta61MDqS0ghvukzJnRQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA NIÑA DEL MAR (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/ew4MFhQR6NiTdJiiFFGHo8z1qiT.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjAlaVB6L5yoo/PWiCdyrr6A=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LISA FRANKENSTEIN (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/5US9yKtf3STseAhYawGAnRH75S3.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjJYScuKrT6hDXDwi0znA2+U=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PRESA (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/uMILqn3ArGkfDSteAlqsL2WiINT.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjDEay6jrp3GvvdatIjOrCW8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "REVUELTO (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/qqndPiOVIj8gHt61On2vwBlKInt.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjGWVstB8W7ulqCVJDAxKFTg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ROBOT SALVAJE (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/sDoXpaKZmrzCSJH63zZvQQ9A7VK.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjLmcYeW+0XfaCiSn0vNaJdE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TÒKUNBỌ̀ (2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/yV7YWPKH2OWboyAlkZ46gp75Y4j.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjGRJZlE3CyCxolO7ck0+0v8=",
+        },
+        {
+    "name": "El limite del placer",
+    "ico": "https://i.ibb.co/G0chqq5/ellimite.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2yGShjYxYF8hcXTfG5WNqFTNRXOpw/NO/QdhKGrZNWhw==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
-    ]
-  },
-  {
-    "name": "▐ ESTRENOS 2024 II",
+     ]
+   }, 
+
+	{
+    "name": "▐ SAGAS DE DRAGON BALL",
     "mode": false,
     "lista": [
-      {
-    "name": "El Tiempo que tenemos (2024)",
-    "ico": "https://tse1.mm.bing.net/th?id=OIP.oaX7bb-mr8iA2vyp4CIOtAHaHa&pid=Api&P=0&h=180",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1phAPIgWKT792lGcgGfQ0Wsu991hmqc38VxnExaXvXkehrHLwZIWr+Wb3/P6EVoK4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "Un muñeco de nieve para derretirse (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/lRkPjcHcdvkXNQsz2KrgbEzk12Q.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0OVxNN5P7NFqQPgMv4cWazHS3U9Yy1enOBAf6UI16hO93sHVLAICpO6SaizuKAywS7OXU56A+O2QP6lCLKv9Eo",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "Aprender a soltar (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/hyLKAvkKqUb57STkTiPno2nw4Fx.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/leIy4oalzKq3MteyTkrTk74g/PF9fOI80tKPhB0huAOSE+FVtcmaGuQI6FSOKA/a3fkUEomX6cxQiJhiM1U0WXY=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },    
-  {
-    "name": "Thelma: Una abuela en acción (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
-    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U34KRvWVZ13cByPkVPLoMnGZj4brIeh3w5Zhjmz8ghzPS/yMyvEmQDu9FtBJLPrCw1G9AaK8dyAneOG8NFaDfQd",
+	              			
+			{
+    "name": "Dragon Ball: El camino hacia el más fuerte (1996-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sSdhAvMpKfqJ6DYUSkrWURt1L5Q.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/inTGW/1yOB709Oy2kd0Cjog==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "CONTRA TODOS",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2TIz7cpjEOWO51PjF6twWJFJnLw.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWcTXWkwf7dIVpLa/tSAa+rI=",
+    "name": "Dragon Ball: Aventura mística (1988-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7f2vIwxEXryqavvgVAcqUe2CG0Q.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iWvSimTMQZdQBpRLYB1as7w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DINERO SUCIO",
-    "ico": "https://image.tmdb.org/t/p/w400/iiCO3ADeGsFq5clZh52VDBnRInm.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWdtFniIKqGgSMbZr7HXMqVs=",
+    "name": "Dragon Ball: La leyenda de Shenlong (1986-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxDiaqvep05Z9E4nwEzcXDCuAlP.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iilFJhI6uYNBipE57bCViaA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DOS CHICAS A LA FUGA",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJVGU3aNDLdhAy7yYa2G1XtdYOx.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWZFVwH2ZzuzUls+zu0gnbUs=",
+    "name": "Dragon Ball: La Bella Durmiente en el Castillo del Mal (1987-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L6mX0DyItEsG39uYHWjztEfVOn.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/icw+E8WnqGFc50qp7/FuuQQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DUNA: PARTE DOS",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9rk0NJXs1izgJPZwbkSrkiVFWMQ.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWe+cK9gQ3BQGT5BXSESgXsE=",
+    "name": "Dragon Ball Z: Estalla el duelo (1993-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohLUrudLh5WggTa3f7eb4WyJhMo.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iygxXCaSfYP5lj1tlYDc3/Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "EL DURO",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kdefKfrKIqwfwUWuPmTY4fMEr1Q.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakWqmfaPGCoWEyl/UlrsckL2PV+1YBuTYpdVf70goNVzjJeJ3mnWXmgS4IgQbE08mSA=",
+    "name": "Dragon Ball Z: Devolvedme a mi Gohan (1989-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHxHxbysTyZLS6rIK9JF7CuWWW.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iADPVn34uk+NRirGY4wLY0Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "EN UN LUGAR SALVAJE",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KECRbWXZFP1Ar6vdKfOAM7RoQL.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWWRmf0Psf0YgXVjZhVZ240Q=",
+    "name": "Dragon Ball Z: El ataque del dragón (1995-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4dmzS3Y9AlI7AKF14xIzAI4GHa.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iKx4jlOkNWeXNMLI+TUBh7w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "EVIDENCIAS DE AMOR",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/gXg0cuvdri0u9yZPKOHmRPgGpR0.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWVvA0ronGq/mweFGVq4+BGk=",
+    "name": "Dragon Ball Z: El combate definitivo (1994-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hisk55cLc4riBfJRbauwooisTK8.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/ilxs5LHgXTAgJ+VYnMS6b6A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "FLOTAR",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/aEDO2naLenL8pzkzGzsrmmZkwPv.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWcNNesZlRhETdnkatGd1fgk=",
+    "name": "Dragon Ball Z: El más fuerte del mundo (1990-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ipNfb1BIs6xGORZETfL2rYUy4w.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iChzTI4KSAVeSAWkf3SBqmw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "GOLDEN KAMUY",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/rfP2N2EwPCfdAcwm6m4eDj5wqNv.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWV7/J72L0ho1W3fCvxR4TYw=",
+    "name": "Dragon Ball Z: El regreso de Broly (1994-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x83JFWT3zeqI1j2ubPp1xfPhJq4.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iAup6xUqreDMxuJLFn9uUqQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "GUERRA CIVIL",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/iCOQUVVaPqRuR3JqF71akguf6Mj.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWb8C3KiRpYi3HL2fpavbX1E=",
+    "name": "Dragon Ball Z: ¡Fusión! (1995-Lat)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvmQYjg5Nwoeq17IlgvihUa3qfT.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/ikfCW1DMhRocTYHo+qb8R9A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "HOPE",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hCvh28KP7MVPwAAjDXuEFhihp5.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWQylzGufs4PpSJOnDdQJxGc=",
+    "name": "Dragon Ball Z: La batalla de los dioses (2013-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cIyPFIeSKNTiWU9Zny0c0IVPQRY.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iyEpYtfAEZf0fnqDmsgB0Zw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "KALI",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pVsDKj5v0ShRbJkql8hIbO4dM3k.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWQYfNtEhZlE71mJkBd0Q/dM=",
+    "name": "Dragon Ball Z: La super batalla (1990-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uokuEyq7qOSQF9DXPIIk74QyObz.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iMjI5MTTgso5t+1ouY0WFYQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "MI QUERIDA ONI ",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/3dt8zEEpE2HGO2GRVlGr3bT4wo3.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWVZU7UXcNB5shYhh9FLCqBs=",
+    "name": "Dragon Ball Z: Los guerreros de plata (1993-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gNEyR5CofjsasyemTCCE6EFdKd.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/irIwXZmX92fMz++S7mZ5k0w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "R.A.D.A.R.: THE ADVENTURES OF THE BIONIC DOG",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5vqFi3MEHcxFqmbA1MjHSLschNc.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmx4z8RY5Q94j6RjYQoU4GGz0623DpRtLovOCCU/Hz7I5w=",
+    "name": "Dragon Ball Z: Los tres grandes Super Saiyans (1992-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIiqgyZLObr3Z5LIfGZsk2ouDWl.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/ib/03SHcxHe+bDECl+FSPzw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "REBEL MOON - PARTE DOS: LA GUERRERA QUE DEJA MARCAS",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ivhOeG5S2CzKjcKhureKAtfonHg.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWRz7xgUhK4wCPAjXEdqoHkk=",
+    "name": "Dragon Ball Z: La resurrección de Freezer (2015-Lat)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbgpEDDQFFFQz2Q7T8bXpbeUkY9.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iHGtA5gIgHzGdrWrGtnt+zw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "RESCATE IMPOSIBLE",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWb6HGodL/+zK630OrGosNhY=",
+    "name": "Dragon Ball Z: Guerreros de fuerza ilimitada (1992-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gZWXQjDLL6Fxqygbtq8LZaK8h1O.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iqHrp5Tu1WYnL+mqT//MGDA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SASQUATCH SUNSET",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/uZNdH2zfws2BIy9ENtoFTFp0hPG.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWd38e/JBbBMGmKvmM7DCH+g=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TODAS MENOS TÚ",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6MYLLfWEVlAwWvNY5Tdy1Z9ruqH.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWaH2K8rwZuipwP6gPngZFZw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "VAMPIRAS: THE BRIDES",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vGl6JzSvwfTllfw4UZ9MD8nD42Y.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWaEDE1uOAseIsGLQD0kdsmA=",
+    "name": "Dragon Ball Z: Los mejores rivales (1991-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hXkEacbCRYYau4dLv4UZPWxKr5.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iV1Akw/kSq60kzbICxNIX2Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   }
-    ]
-  },
-  {
-    "name": "▐ ESTRENOS 2024 III",
+           ]
+         },
+
+       {
+    "name": "▐ LAS SAGAS DE DESTINO FINAL EN PLAYTV",
     "mode": false,
     "lista": [
-      {
-    "name": "ARTHUR: UNA AMISTAD SIN LIMITES",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWbDTiFDXneipD7beknhaAJI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-   {
-    "name": "Entre el cielo y el infierno (2024)",
-    "ico": "https://image.tmdb.org/t/p/w300/45Yxq9aEfMgPEq6bGZG0BgbDQge.jpg",
-    "uri": "nnQ4vk+dR/V6QKQ9uqk/lcEs9fP+zDpCXw1OKCIbhHgb7d+w9KRFSg8LPJyT3bxPqE5E3Zy9o666bO5WUvfpwtAhxNC1MM7wEPp7M8+packQt/awqvoHWupXaOCmONsEkJQ9QX00g4Mm47xqCxgfBw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },    
-  {
-    "name": "BAD BOYS: HASTA LA MUERTE",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWUyY8G2RbbnP5k0h8UjsRuI=",
+         {
+    "name": "DF1",
+    "ico": "https://media.themoviedb.org/t/p/w220_and_h330_face/6F3MEcGHeMAMxledi7vQfqkZRkc.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3qb8NtjA81eOzW1yOOX3UTRJbtd/xRveLgbbYR3sNjKZI1TM2C8LydK2RXd0Lpa+Mw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
+    "name": "DF2",
+    "ico": "https://media.themoviedb.org/t/p/w220_and_h330_face/w1dJluO5aKK7Puz7qNXoQeUh4Cb.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3qb8NtjA81eOzW1yOOX3UTRJbtd/xRveLgbbYR3sNjKZb1+D+a4X/QZbiauk1OPBfg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DF3",
+    "ico": "https://media.themoviedb.org/t/p/w220_and_h330_face/3PEVkIBOii1fxQxaQ0iKODGnBUp.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3qb8NtjA81eOzW1yOOX3UTRJbtd/xRveLgbbYR3sNjKZwjLOLPcANv01WN5rrlNYLA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DF4",
+    "ico": "https://media.themoviedb.org/t/p/w220_and_h330_face/8b1tsUQW8hogJRi6FFHHfO7D1fu.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3qb8NtjA81eOzW1yOOX3UTQns4MI3j6SmZKqtY7Sse5KcfYkcMOT9ldnA2XGUBLv0g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DF5",
+    "ico": "https://image.tmdb.org/t/p/original/o14jmkwnLD7227okDMjZKfqNId8.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3qb8NtjA81eOzW1yOOX3UTQns4MI3j6SmZKqtY7Sse5Kth13y2x3ZUI/yIhUVwhfUg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+   },
+    {
+    "name": "▐ ESTRENOS 2024 Parte 1",
+    "mode": false,
+    "lista": [
+           {
+    "name": "Codigo: Traje rojo (2024)",
+    "ico": "https://i.ibb.co/SmHJ04n/CAW.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1mhvG+NkwL8X9qbTIyx11ZtTOdQTpbyrlT2wTIB7yrMaEVw2fu/kKM91p6kyXsVmM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+          },
+          {
+    "name": "DetonanteS",
+    "ico": "https://i.ibb.co/6WmsQcX/deto.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3VzMFTfnDg7TFXngsCJBCkFcRbO+w2xGoN4Ys1rT0bHjCopNkf7fsQiNnpqRJQVoI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+          },
+          {
+    "name": "Lift: un robo de primera clase (2024)",
+    "ico": "https://i.ibb.co/M1tjwSh/robo.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U22VS5TX7mXAzHLnyM0CfTOkErbGmk5hdfTHRmGU2VnQaoH7i1XSUks9BuadyaE8iI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+          },
+          {
+    "name": "Argylle agente secreto (2024)",
+    "ico": "https://i.ibb.co/W5tsTpK/angente.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0f5HbmkAYUAwLB/kvDplzQk/WFgvkw00jzDpSB1ltDsH4ayhHbnYHcoMd7IdVdZL4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+          },
+          {
+    "name": "María Callas(2024)",
+    "ico": "https://i.ibb.co/dP2KqJg/mariacallas.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3ALZ4XRyT7saI2kaaWaHNeFdD2mO4/1EMES0MD1E9T3Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+          },
+          {
     "name": "El Mejor Espectáculo Navideño De Todos Los Tiempos (2024)",
     "ico": "https://i.ibb.co/yPQBFpN/asdasd.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U34znHQEdqNfC+ucMm2U5l27FP2YZXQEkPQiROC4LSymCvXsB83taMtY7oD4qYQgKqIKghaiRQfKI4ZPUtMok+j",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
+          },
+          {
     "name": "El espejo del diablo (2024)",
     "ico": "https://i.ibb.co/J7wtynF/elp.jpg",
     "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1TZToGJVq4eJBmZwY/ooH9OYEoUVzdY9x/krkqLQEE2289hiSv/BR3Poy0SpZ5hJo=",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "BAKI HANMA VS KENGAN ASHURA",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/npqKtCydaOCrPBKVsSNoGfLVD14.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWbt0BP6qFHJNOxbKjJHupwk=",
+          },
+          {
+    "name": "Emilia Pérez (2024)",
+    "ico": "https://i.ibb.co/nrXP8kZ/em.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1p7OM6fcSkQoQzfIGs4dovFmQtFEwd8SeHmYCyUB2sfg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+          },
+          {
+    "name": "Hereje (2024)",
+    "ico": "https://i.ibb.co/q9XpMJw/Heretic.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0SsZxNu3tM7npcEY3EVATk5/L2VYJoQRs29TVbG4ipww==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+          },
+          {
+    "name": "El precio del dinero Una aventura de Largo Winch (2024)",
+    "ico": "https://i.ibb.co/hYLSGrK/elprecio.png",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3qFc+ZV4uhGiYr5RM4eXqpJPB9cA5lVI38iBNu9jiaUXspvbSOzLHA0dihzd4nuZTwQXayS4ssBuVnmuKZW7nw",
+    "drm_scheme": "",
+    "drm_license_url": ""
+         },
+         {
+    "name": "Puntos suspensivos (2024)",
+    "ico": "https://i.ibb.co/3MHmztJ/puntos.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3vYJhr3pI4gSI/4UR3i2r3dgJ6iD8RDXAH/v/eMn2n8/fWKH3CP49cy+6R6OV7eYU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+         },
+         {
+    "name": "Devara: Part 1 (2024)",
+    "ico": "https://i.ibb.co/f2PvNLw/devra.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0tMnHjFQBxJiQZK5GbdtUI1tBoI+uWSxUV223h1IW3iA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+         },
+         {
+    "name": "Maria (2024)",
+    "ico": "https://i.ibb.co/rsWghs9/mary.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3rIhZ7TdN0Zx6aQxC8hTO5uq6Jnn68T2L3rn1PztgwGg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },
+         {
+    "name": "Aquella Navidad (2024)",
+    "ico": "https://i.ibb.co/C1mhrS6/aquellanavidad.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U16ir3Y21SFSGTe2HL+Wh+loF/z3fJEfy96dmQASqNREg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },   
+        {
+    "name": "La virgen roja (2024)",
+    "ico": "https://i.ibb.co/bQHVgyK/La-virgen-roja-2024.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1Z8cNhxDnBFXXtaFPmn4AxxHgzXVtz/8czxof5YvCVWA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },
+        {
+    "name": "El tren de los niños (2024)",
+    "ico": "https://i.ibb.co/mNzgLNJ/El-tren-de-los-ni-os-2024.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2+wH+icWuezXeuLkM9c/gRQ3XViCjbxZZI9LVAEq1zOQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },
+        {
+    "name": "Jack llega a tiempo para navidad (2024)",
+    "ico": "https://i.ibb.co/gTCYRg7/jack.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U24xE5u9dnnp/lOG2lsYuRGYxiTyRiWodvR7zhWfBktgwB/JnIXr06aRUBEqOwGE/g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+       },
+       {
+    "name": "Londres, al filo del tiempo (2024)",
+    "ico": "https://i.ibb.co/jzp5rWV/lomdres.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1cB9n0+j2IIH2thGZUfC7qXB9FMZSjO8XDG31IJ5cpO2xkbzKttJBSSJSHvwp8alo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },    
+        {
+    "name": "Hermanos (2024)",
+    "ico": "https://i.ibb.co/VJykR68/hrno.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2qTPlGOiRtkeIxUe19JyHcRpm+PgK7sDUYvNbCPrDLuA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },
+        {
+    "name": "La Avispa (2024)",
+    "ico": "https://i.ibb.co/5cWmhTq/la-avispa.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0SCoP2hw7XFfBoZZY5kmW+1BqyTpU3dlBda0XaGQSc/A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },
+        {
+    "name": "La Navidad Campestre de Arenita y Bob Esponja (2024)",
+    "ico": "https://i.ibb.co/TthJPk9/La-Navidad-Campestre-de-Arenita-y-Bob-Esponja-2024.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1NVxQZjutO3UNYc+wQrGzvCOqOzCSf0glK25qjQLDIE5dMv5AQYolxbE0+KgCNS2Fs/4o+d1Ghj7uuEsx5VQ23",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "BASMA",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/21xIsw0Gk7cUV1xiZdlUn32FKpo.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWS/j2bv4aYLRrKmUy58ZfI8=",
+    "name": "Cash Out (2024)",
+    "ico": "https://i.ibb.co/b2qgGH2/travolta.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1sajOwPetYwqvAmIz0KbUf0DVZfHMPn6Y1Ohur0NguBg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Jurado Nº 2 (2024)",
+    "ico": "https://i.ibb.co/Ybdpwd6/jurado2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3OKItBC2hFOg/ZZsdda8w/",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Carnada (2024)",
+    "ico": "https://i.ibb.co/x6yyWGF/carnad2024.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2+DjCpq6eqocX6X1gT0oroFIV9EKADEPoULCFD2r58Ug==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "¡Hasta la madre! de la Navidad (2024)",
+    "ico": "https://i.ibb.co/9tWWjZp/hastalanvdad.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0Rtlwy8G1tDp+LG58IkuUNn5dsnEA78I/+U6ayUDlLIw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "CÓMPLICES",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2dd7uvQLxzrFet2Svj4geC3tQa6.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWRLRADZCXjrpBGMlUrn7zYg=",
+    "name": "El Destino De Sikandar (2024)",
+    "ico": "https://i.ibb.co/QXzyjrY/sikand.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1e9T2MwZEAU+c4XJWeJ6TfPyIBu5RgGE3jxjq8Q4c/CQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+       {
+    "name": "La hermana de nieve (2024)",
+    "ico": "https://i.ibb.co/k3CspFR/LAHEMANA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3B9ilww8Oq0SFi3OR+FEFGbK+HcnhqVBug5VOsDHhSSg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+       },
+        {
+    "name": "DSI: Departamento Secreto de Intervención (2024)",
+    "ico": "https://i.ibb.co/9ZNT8bM/dsi.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3wCk+OQUZ5LSzeMCeKWeWx0hg+Gry6vOS+jXZcwji1lRNUqboY+iVkS8H5CxTe7VWipwbLz3TER0hqz0EIg/XY",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Sweethearts (2024)",
+    "ico": "https://i.ibb.co/470PgQs/sweethearts-2024.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0Sw6Qo5j6iWcJOprOocoesx0KP90/d0bl0qQJo8ghpvA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Moana 2 (2024)",
+    "ico": "https://i.ibb.co/Zm8nsB7/moana2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3pSXnkNK9nHYEsOkXwVnqs",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Capitán Avispa (2024)",
+    "ico": "https://i.ibb.co/3ppPDt6/Capitaan-Avispa-302490481-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0FT7rYhQK9lZDNDPdwEQtQknUODSR4mIpCYQAoi14B/w==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DAMSEL",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/6tJWxRfBKWGIPFkfLTod2CgCexU.jpg",
-    "uri": "Of3gKsyK6p69G5QH6zpK81g0ulKrfV1/sHKNTiLs6oF4UxBgEYQZZCRJzEzlOEt7tNArGSqEG9MpFk91t4qYE9/CiSoJG9zxdMLB38G6lXKUaKDX+GBWlQGqlbnUmNFhRLISjIQCpPFNiK92a3UXCv7iXn3FkfY+82wdSSxqhbpIpAUxQvBMPk+dIcHXzPxU",
+    "name": "Cambios de bebes 2 (2024)",
+    "ico": "https://i.ibb.co/pWXSd2z/cambios.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2EdLKgl9ttHajKoH3QXlA1qVOgzasfZUXz9Uy6S9SpKQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Remnant (2024)",
+    "ico": "https://i.ibb.co/yVW260J/remant.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U14xLcjG7a175SE793QM56Hdj/4UnQMiAxBkWGojjD1OQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Nuestro secretito (2024) ",
+    "ico": "https://i.ibb.co/8z2sQg5/Nuestro-secretito-494759286-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1VDsUjYvIxA/njcrWBQqg0DTSQLCFiIrTdGM+TIQOEvg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Pimpinero sangre y gasolina (2024)",
+    "ico": "https://i.ibb.co/hZFhjjK/Pimpinero-Sangre-y-gasolina-720679452-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0pg4J2Ds7ZIniDEeWIhwfIBtvPLbDslR2g8UeeWL27eO5UuSxmAVYgYElx9VpKc6Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+       {
+    "name": "Subservience (2024)",
+    "ico": "https://i.ibb.co/6BfYQgJ/ali.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2EHC8h8D1HH5K0EJVNF/zDuEMkZCQNpCLPpVcuddo72Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Conclave (2024)",
+    "ico": "https://i.ibb.co/JpmpKRh/concla.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2CIyR+oBRnjnMm1WaFvnuDf/r9JDD/jXRabgyNDC98ZA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DETONANTES",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ejlwgCS2SJDFvlTlO8tZYPtCci4.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWZwQoYxWOa0LO3u8R3l+Tvw=",
+    "name": "1992 (2024)",
+    "ico": "https://i.ibb.co/FgKFYxz/1992-437288628-mmed.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0Op9EppHFFGCfs+p6egSQrXvhuPxfh0ieQU8lSMrY1kQ==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "FURIOSA: DE LA SAGA MAD MAX",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWRj+vfj+LaPw4Dr5Bd9TfhE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GHOSTBUSTERS: APOCALIPSIS FANTASMA",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWV4SuCzND3UJJIeXYqgdEXQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "I AM: CELINE DION",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/woznEiocvx8HMYKB2KloHATrDji.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWVDoShgeK3kvM6M/lwhotRE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "I.S.S.",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWbqcu8mr0lwH+hzvCeF63HE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "INMACULADA",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kz4y4ngB2DyhIwe81hL76Jj6rKU.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWbILgW0gcUdWig/b2bKL3g0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOS EXTRAÑOS CAPÍTULO 1",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/tnKmLDpSpJ3CfCav43z13fkeEnr.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWfddpThNQzbFKTqM+0mkQwA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LOUD HOUSE: NO HAY TIEMPO PARA ESPIAR",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/eIIklEb7D9MrRxsb4vyXnm08d0G.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWRtUOMsg/o8oelhnbmfV7Ak=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Spitfire Over Berlin (2022)",
-    "ico": "https://image.tmdb.org/t/p/w400/syFEBhLY5rV9QlShUSphD134Rgx.jpg",
-    "uri": "Of3gKsyK6p69G5QH6zpK81g0ulKrfV1/sHKNTiLs6oF4UxBgEYQZZCRJzEzlOEt7tNArGSqEG9MpFk91t4qYE9/CiSoJG9zxdMLB38G6lXK57FG5qkQ0VPQhpj86zFdlPmrePEzshzwwD3m+C8kn32BVlQUva2SHsfQsTFUSOU+AJu3HQmdX2NILYWgm0O0s",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "TAKEN FROM RIO BRAVO",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/a3KR3MwDE3VnvLbl4NyMHScFwka.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWdbEzXHuwe2qyfk6NlQwhsM=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "ULTRAMAN: EL ASCENSO",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2D7SsqU8VZOl838KR7q9pzljaLe.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWd5rOFv1X6EPFTvwc0is3aA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UN ASUNTO FAMILIAR",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/yCwx4wq3LjrBYewMdW6krgiEfhM.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWQ6Wltx3yjwFPZiBXhxUUp0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UN GATO CON SUERTE",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/r2D7MkNocsqKOqGnnGEQThU26JS.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWYm4jpVOVJ8DREtOuequCsM=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UNA PARTE DE TI",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/eV9Zm2z7fd6VvgnqvnVUQ6QVxb4.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWVKUu8aAsce7VJIvaBoaUTw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "¿ESTOY BIEN?",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/arVt18It7zOpOa2WZTzMiBxmyrY.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWYfXsVFbX2pUjtrnC+fdbX4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-    ]
-  },
-  {
-    "name": "▐ ESTRENOS 2024 IV",
+ }    
+     ]
+   }, 
+        
+    
+        
+    {
+    "name": "▐ ESTRENOS 2024 Parte 2",
     "mode": false,
     "lista": [
-      {
-    "name": "CACERÍA HUMANA",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/iAbufkVeB2pE1XqsvXBiV4oWk3K.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWQP5Yyf0ay0r2FtDLI+3DDk=",
+        {
+    "name": "Elevation (2024)",
+    "ico": "https://i.ibb.co/jv6wcSV/ELE.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0yUVol8yE9iOkkCBgfbnkxmebUVt6yXtr+3Gc43jm06w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },
+        {
+    "name": "Querido Santa (2024)",
+    "ico": "https://i.ibb.co/YPXwN15/Dear-Santa.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3qxl/vcCkoAkbLr2v0PT/ckhP7CQycv5j3s4hxI58dog==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }, 
+        {
+    "name": "El Tiempo Que Tenemos (2024)",
+    "ico": "https://i.ibb.co/TTSBp1m/el-tiempo-que-tenemos.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U12ypZRVvkhBmYx7IYoJOiT2IaKymZNi+kYdpqQkDTGh5NW019VKbQwkkdMaxcHccY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Blitz (2024)",
+    "ico": "https://i.ibb.co/41rHPGj/bae.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1Gs6dWB/KOsYL4krjTROYVbtm/9poQxkMpbkfxHydcXA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DESAPARECIDOS EN LA NOCHE",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/mN3euJQibwIodwL0RWYDFGaetO5.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWRWQ3SuOcPZRNCyWeiWEeHM=",
+    "name": "Joy (2024)",
+    "ico": "https://i.ibb.co/jhqcbk3/joy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U19Vnmd9D+KkHzkHVqGovPGkI/3QPQpJaFzUa+u2lynmg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Wicked: Part One (2024)",
+    "ico": "https://i.ibb.co/SB7D6Rc/Wicked.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1LF/U5B2f5RqEPrWte4a8hyg54L5ym+OJA6clee9qd6w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+        },
+        {
+    "name": "Fuera de mí (2024)",
+    "ico": "https://i.ibb.co/G2MS8XK/fuerademi.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0RQ5c76nI7Uldxpg6JVahILW4CT2oxbdGCauP8019MMw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Vengador implacable: Absolution (2024)",
+    "ico": "https://i.ibb.co/Q8cb8bW/veng.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U34BAWAvfAEIF8oQLpm3ijkkpQ4w+DkDxQFVyBoqjl3Kw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DESCENDIENTES: EL ASCENSO DE RED",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/2EsbF2Xr2AAwwNYDIimhigKSL03.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWTvGmirZosCbsW6mynJsmBM=",
+    "name": "Hechizados (2024)",
+    "ico": "https://i.ibb.co/pQ3hh93/echi.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2bnxWpqSnSeTraZSzOIwZsNb8pPL/NaPalpg7tf/Rxag==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Los festivos caballeros (2024)",
+    "ico": "https://i.ibb.co/C28nRkJ/LOSF.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1qnotbAsHDA2Xb6QbS4Qo6CUBwMQlI/Q6DWs7fclzAVSZG06uJG6OWrCiJAnQSsl8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Linda (2024)",
+    "ico": "https://i.ibb.co/0DpVrXy/linda.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2E4lZUPICPOXMdIks5GBEh+FYJKdF3MDvFEtORg9/UVg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Las Tias (2024)",
+    "ico": "https://i.ibb.co/6v2YKTg/latia.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0gWIcwtD1J9IQrAl9jatpKcvcm+4TcSJM9asTd/OXmKw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "EL CLUB DE LOS VÁNDALOS",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/b7Vf9doQIZavdJS16969KfO0Lsa.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWV9qBJvx2j/kCwvWdBHcS10=",
+    "name": "GTMax (2024)",
+    "ico": "https://i.ibb.co/vjyQZdw/gmax.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3nNmB6RJhlWhbM9Ca+MSMjO3oPrlZfAhg1LkQb6HJlXQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "El sindicato (2024)",
+    "ico": "https://i.ibb.co/x2DYDvc/elsin.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U14reV1L0c74Rja/mKzcWR6S7LZrqNYm3HInsItb00aWQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "EL PLANETA DE LOS SIMIOS: NUEVO REINO",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWe6P0wc1ntOy10tY6vlc/Tc=",
+    "name": "Inexpertos (2024)",
+    "ico": "https://i.ibb.co/n8XVVxq/inex.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1Bck8PXIa18FSAjTjWieMKzsgyx1afv2sKdDbG6pDhew==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "EXHUMA: LA TUMBA DEL DIABLO",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/tw0i3kkmOTjDjGFZTLHKhoeXVvA.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWS2W1pbc0wU5uEzNp6oKPQM=",
+    "name": "Colateral (2024)",
+    "ico": "https://i.ibb.co/m6QSf2v/colateral.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0qsYy/DjcpUlLOo5oLtRLZNqdH7nB5VbPmk3GtDqUKkA==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
+  }    
+     ]
+   },
   {
-    "name": "FANCY DANCE: UNA DANZA CEREMONIAL",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/gs5TMl5VI71v5H2bJBoyRYkb1Jd.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWbFkSxLBoGae982CA3zW5pQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "FORCE OF NATURE: THE DRY 2",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bb0439BdFDXbc9bKXeXXs4Va7ss.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWcQ6+tS0yeEv8iKJ/WVb+6M=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "GOYO",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/fCjC1RRbEJUpDjM55RNUMXQen0b.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWR0shBNXX5T/m/sDfX/+BM0=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "JUANPIS GONZÁLEZ: EL PRESIDENTE DE LA GENTE",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ngA9a2p0Yqx23eJL7banw3GShpT.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWW9y+OIhDikoBQ8VUZVhHL8=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA FAMILIA DEL BARRIO: LA PELÍCULA",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9mOEVJCKUWMxTABooY1U0FSwfi6.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWeMwb8UBLDnXpx+QD+2FwzA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "LA HERENCIA DEL TÍO",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/hblBwcjAAgPIVN4db8dWcGcSuOf.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWRcVDMEJAOdXR1HIws1J+4U=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "NOVATA ESPACIAL",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/drXnPoX7sBlq2dqQ5zZkREiO6Hy.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWWgW4fKPPTHFFRT01Ealn0I=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PINCELADAS DE AMOR",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ciuW95pdPaiReudofHwyv6qYi12.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWfx6fkbezZejmR1t+GDouO4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "PROBLEMISTA",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/5uNMGqWEBWvdoWzbffTvlsdyCti.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWVY00m1SXMHn0vAgpFNT5JU=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "SIGHT",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/vICC15G7L5WIqW3lVFxeae4kvKp.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWZdSpgu5NQRO1mK7XxClcig=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UN ACTOR MALO",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/qmYiApzK6e54NRus1iY7oiefS4q.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWXoYrNo7l3irMj07IhfI/vI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UN AFORTUNADO SOÑADOR",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ymyyoJLOKIc9XW7t4RdvLSjf5We.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWcZsoDO9dHkCaxoZYwT7hXI=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UN DESEO IRLANDÉS",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzdsIX1nQZAIcAzIvSuSzKyWI9u.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWfaL3tBMcHWM8eXHXnW/iB4=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UN DETECTIVE SUELTO EN HOLLYWOOD: AXEL F.",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/kmIaT03NZ58gmc0pQZkFUCqMcf1.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWYhR4NhLTPWax8zLw7N/+iA=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "UNICORNS",
-    "ico": "https://image.tmdb.org/t/p/w400/joOEYpfltqoqkaiQio24TUTntGM.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWaAAVud4zYitDR8bXR+uhcE=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  }
-    ]
-  },
-  {
-    "name": "▐ ESTRENOS 2024 V",
+    "name": "▐ ESTRENOS 2024 Parte 3",
     "mode": false,
     "lista": [
-      {
-    "name": "CAPITÁN AVISPA",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWRqYIIWZFZVssPfEaPHM7FI=",
+
+        {
+    "name": "Parano-IA / AfrAId (2024)",
+    "ico": "https://i.ibb.co/GcbgCF6/para.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2bfKfKToTxQRrPFnIGGN072uuxPqaMSGWmlYITq+5yKg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+    "name": "Ritual de la oscuridad (2024)",
+    "ico": "https://i.ibb.co/C9YfTMY/ri.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0xWefh+ZS1/8zvBIWGx7IBzrpP69FTI9p1nO7Veb19r4dt0Np447VS/CVM+TL+CO8=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "CARNADA",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/mehUdQGRSbxTTOgT3zCctg5uj3F.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWZX6LakKGY+93DIOSP9eZg0=",
+    "name": "Crescent City (2024)",
+    "ico": "https://i.ibb.co/tq0ydNj/cres.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2d+cDOp+34K/K4GtSHd3yNbNRVa/sAhEMK3W7Yn8TuVw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DEADPOOL & WOLVERINE",
-    "ico": "https://image.tmdb.org/t/p/w780/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWRDOCcJ1xd+c12zZxuzIfdI=",
+    "name": "Last Straw (2024)",
+    "ico": "https://i.ibb.co/HNcZbHW/Last-Straw-949079399-large.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2ZfExkKcCbyxplplsQwzaxZpe/v5NCu92XvotuZ20oYQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "DETONANTES",
-    "ico": "https://image.tmdb.org/t/p/w780/mOXgCNK2PKf7xlpsZzybMscFsqm.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWZwQoYxWOa0LO3u8R3l+Tvw=",
+    "name": "Muerte en LaRoy, Texas (2024)",
+    "ico": "https://i.ibb.co/4SQMWnF/ste.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1vJtkaX+OtGeplX1hQ+U3WeQOC2kzuHbBpN7BDTGxtpZSuIutyFSimHmaZdDtiqdM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "EL PODEROSO VICTORIA",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAnwuVnnJ52ro72DaVUXKmBHnzq.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxTUBRNehQHNTkA8L8FDVaiHh2A+LC0bE9hD2WLurgQ7E=",
+    "name": "Los niños perdidos (2024)",
+    "ico": "https://i.ibb.co/rMQBKG3/Los-niano.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U22dwqVCs1l2wFpFoj7Fm9rPRxK2uMw89+kwBWsMpSnqB8jQRKTHTWiDE2Sk9w3okg=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "GRANDES ESPÍAS: MISIÓN ITALIA",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ghlwOez45gndnAp3aPMzg5kxMjp.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWVPD5VWzZAZ1JEKLcxLKMz0=",
+    "name": "Gladiador II (2024)",
+    "ico": "https://i.ibb.co/tYN0J31/gladii.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0pRTORGMg+dh641WFAtV1SAI9fMhCBE2rOVyEyxHeFbg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "HORIZON: AN AMERICAN SAGA - CAPÍTULO 1",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pk7CvqHJZGfEwWyn5Dfnp8PVb0I.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWcGPu04F43ux7Ws47x98uic=",
+    "name": "El búho y la niña: Casi una historia navideña (2024)",
+    "ico": "https://i.ibb.co/s3TKmbf/bu.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1BwwzgWeK9oMePpRJKaKywXBSEs9Dv9yGrjNO0Tge9qiVzqtn9jnCkjJZ0IxatOLtf8nTdxALmkmJEobAkSiih",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "LA HERENCIA",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4SJSOxYT4uoUJo7KvMrVnIxP69.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxlrF7h7u8vfnPmk64qQ/uWejYcduaoli76J5oDPv0avA=",
+    "name": "El Boliche del Terror (2024)",
+    "ico": "https://i.ibb.co/PYBm0gR/ela.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3WLS+8+64AS3GJ+BK/XwAJEHPzFVOH2leTlHpKA3hZetRrlZ7xmLgn/wWPUoBhO9E=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "LA JOVEN Y EL MAR",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/oyQXRZD0CHC4sf3lMph3X3cJzSw.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWUNtFOsv7DDueLstX/Bcfb8=",
+    "name": "Descansa en paz (2024)",
+    "ico": "https://i.ibb.co/GtpsMLh/des.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0CNNbgE12jeY8VfEFybopfOJcPK69ku6nxDG3tPFvKig==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "LOBOLA MAN",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/9QusyGRq3X8zmbrqGM1ynGuPFB5.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWQk/RX9luIsBGFI8aO/qUE0=",
+    "name": "Arena Mortal (2024)",
+    "ico": "https://i.ibb.co/HCpL86X/Aren.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2ah3oT1mPs8UdzSqY8SATM1X+KcbE9AwTK4iMdW8z69A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "MAXXXINE",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/jDw7wTs3qg7M06uQyoMvBpT2Y6U.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWTZWPOhRV+pnYlG9Thq3xc0=",
+    "name": "Corrupción en Bangkok: Entre el cielo y el infierno (2024)",
+    "ico": "https://i.ibb.co/wcdhfrG/acs.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1eXr/6DovzYXFSnyxiVE+j8GN9hP1kxA2fQ3w0eDqSeSpelvfnq7sPq/bSlv0InGs=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "PRESA",
-    "ico": "https://image.tmdb.org/t/p/w780/uMILqn3ArGkfDSteAlqsL2WiINT.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWbJwfuGP4uof16XbiOle/GY=",
+    "name": "Un muñeco de nieve para derretirse (2024)",
+    "ico": "https://i.ibb.co/nLqfbds/un.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3lCT6qPvYuGgJBh/+zv4o9GsH4IK2Z/lziczTBooadHw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "RESCATE IMPOSIBLE",
-    "ico": "https://image.tmdb.org/t/p/w780/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWb6HGodL/+zK630OrGosNhY=",
+    "name": "Skincare (2024)",
+    "ico": "https://i.ibb.co/DfFLj1f/sk.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3j+IGd2debODGr9UFiMFk4r+h6YkHP1oETA2Fp4puUvw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SKYWALKERS: UNA HISTORIA DE AMOR",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/ot8WWwG8SllHGXowtgMz9vWcrJJ.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWZ+ZVorKYSRa9BZS93YQqPk=",
+    "name": "Amor platónico (2024)",
+    "ico": "https://i.ibb.co/RbzjqWW/ar.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0YKwyoH2VTS3C3mtrp8MLn6ncZM3ZtkEBaVP3ra2G+Ew==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SOLO UNA NOCHE DE JUEGOS",
-    "ico": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/d6mQAufyjfqGhRcvqTKAmUV6QRo.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWTeS9g8ehpOQaFj+if+FJbw=",
+    "name": "Cuckoo (2024)",
+    "ico": "https://i.ibb.co/Yynm4wm/cucko.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0shmC5ORlYtodEm9MwNMFLxOXnWurCFaphzrufpM3eBw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SOUTH PARK: EL FIN DE LA OBESIDAD",
-    "ico": "https://image.tmdb.org/t/p/w780/iNHa3E72FFVmOz7jmjXnNU27ys1.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWadr5HltbUnsOey29E5+ARc=",
+    "name": "Caminos de sangre (2024)",
+    "ico": "https://i.ibb.co/cQPR2y7/cam.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3mKfkF4EDKNniXYFeu86Sm0+l/xIHV7Mx64sPTzuEMUvCk7JXevgKj/DAu9KwBT2U=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "UN ASUNTO FAMILIAR",
-    "ico": "https://image.tmdb.org/t/p/w780/yCwx4wq3LjrBYewMdW6krgiEfhM.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWQ6Wltx3yjwFPZiBXhxUUp0=",
+    "name": "Blackwater Lane (2024)",
+    "ico": "https://i.ibb.co/gRtTtMV/ab.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U06qZ2Xnd+/IeVKIKAc7kDxRml8HZ9DRAuEw9g/xhgnXw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  
+  {
+    "name": "Longlegs: Coleccionista de almas (2024)",
+    "ico": "https://i.ibb.co/7z5yKFj/co.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0FGEuYPswEgW3OX2j1TD46xl6Y++tF542LHexwb8SGHAc7pNIlIej1YyzTlTeoJdM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "UN CRIMEN ARGENTINO",
-    "ico": "https://image.tmdb.org/t/p/w780/1iGVhDwTaLMPYVK2DeOLa1uAKjN.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxRS/Oe3To1Uo9tCirQweLdIUcpvTe8CL430MxVls1byk=",
+    "name": "Romper El Círculo (2024)",
+    "ico": "https://i.ibb.co/VV2psm5/rop.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U121i5qNTPYkNBQvd3mQatnfmnl17o9Sj/iEV5Lz1dpnQqIgsaOE4UacGrn7wTxlfKf3COWP7ib6JNT0DKFBQ7j",
     "drm_scheme": "",
     "drm_license_url": ""
-  }
-    ]
   },
   {
-    "name": "▐ ESTRENOS 2024 VI",
+    "name": "Kill: Masacre en el tren (2024)",
+    "ico": "https://i.ibb.co/R9Zdj3k/kill.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U35CwaoOHUxacjXFMi8hsExzvqG35XhWg42amkAqHsWb9ZScjn9YLC5ulowMn3mQrU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Pedro Páramo (2024)",
+    "ico": "https://i.ibb.co/BtnjFpZ/pe.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1/mWJuTb7awCJgnQD2faCdCiMA81okUx9cRPZupRoB0w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Megalopolis (2024)",
+    "ico": "https://i.ibb.co/F6XZ9yD/onesheet.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1+nNyH8O8WE2Sg42I/fADMvzJd57w9h3ZfeglZAu9tfA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Una aventura en Marruecos (2024)",
+    "ico": "https://i.ibb.co/TTcNWFv/una.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1pVQaA1Dem0RoYLmUvT2mr19/OCd4fBoomNpViNWFVujNz8mm6NuOCiMVpmYCAnyU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La leyenda del dragon (2024)",
+    "ico": "https://i.ibb.co/Qb9w8wy/las.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0oBIU6hOQfMeHFG75TnZE5IQzsO3Kvk1nEIfyxSQr1Ig==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }    
+     ]
+   },
+    {
+    "name": "▐ ESTRENOS 2024 Parte 4",
     "mode": false,
     "lista": [
-      {
-    "name": "TORNADOS(2024)",
-    "ico": "https://image.tmdb.org/t/p/w400/50xgtaDR0xJkLSVghdTGUeMoPHP.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWc6fn8hTIBpOGZ4UcrsMNSE=",
+
+        {
+    "name": "Smile 2 (2024)",
+    "ico": "https://i.ibb.co/Lp7zzsK/smi.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3qkbsM2nqjQc2B+CAXIatPa7OWx69K9rGQqmJnnW0yvK9oS7t+cn0X4mBOFjzKAe0=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "EN LAS PROFUNDIDADES DEL SENA",
-    "ico": "https://image.tmdb.org/t/p/w780/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWSeAd5YspmHTtUeUs5Vgr1g=",
+    "name": "Transformers One (2024)",
+    "ico": "https://i.ibb.co/sW6RsZr/trans.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0Ot3l6w3u+D9H4LE1CXRxPyANe8DPWCgx5uar2fvd41qxPqn51d6djmGr8DCrhcn0=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "LADRONES DE ÉLITE",
-    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifuKZivA7SKhFpUH8g5vk2UmVd0.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxZ3Dj/cxH6YH3+EuZe5meLmxGqn2VvKrqN8y3hgG7NL4=",
+    "name": "10 dias de un hombre curioso (2024)",
+    "ico": "https://i.ibb.co/8cdjNJH/as.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U16d+/ecVlxYlQLEQaVNd2RdNt6sYsHyPvYX0ZNHW5woISDhf7sqdt+7wm4KZDCUqk=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "AL BORDE DEL ABISMO",
-    "ico": "https://es.web.img3.acsta.net/c_310_420/img/81/72/81722be4bad9f2d0c0ae71a2e99bb5d1.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWUMvS22tiS0bXnNMqZoPNoA=",
+    "name": "Corte en el tiempo (2024)",
+    "ico": "https://i.ibb.co/PN5TsBw/cor.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3P7u9whDDhb1Njmt4QGggR/neh9AdAVQqFBRovCaK1Ff9TCWSPFo1K+oUKy8hcrkA=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "CORAZÓN DE CAZADOR",
-    "ico": "https://s3-eu-west-1.amazonaws.com/abandomedia/indie/foto/db_71060_60.jpg",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWdLHyhA5SLKK787uuvhvm5E=",
+    "name": "No te sueltes (2024)",
+    "ico": "https://i.ibb.co/9tBjWBc/note.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0peZ5Gp+PaHIjFid4x6hZvgqTMwqzL/gLYXM1WvRrnpg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "GARFIELD: FUERA DE CASA",
-    "ico": "https://static.wikia.nocookie.net/doblaje/images/e/e2/Garfield_2024_Poster_Final.jpg/revision/latest/scale-to-width-down/1000?cb=20240412162513&path-prefix=es",
-    "uri": "+fBNQ2TK3HtDHphE/hYx3sTyIOOmVSI+w2DJItLnakXEBOmwj9ESNh5GQj0ukVmxb3ZsbVRgwK8zQoQaOE2wWZiTNSGp2fg2RLGoPRhVl6Q=",
+    "name": "Objetivo Secreto (2024)",
+    "ico": "https://i.ibb.co/rtPNv1Z/clas.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2MCGM0ja55Wd2C0+S/gnhoVY1IQve+V5fNRWMeAdlwibjLpUkfdTnraGAsgnZjM/8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Nos vemos la próxima Navidad (2024)",
+    "ico": "https://i.ibb.co/3mLFRYg/navidad.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2gvyxqBIrxSTzl7BkBPBFLpaCuJoPdwuUZDIa1l4ZXDDBJJNf7FkffmS15xrpe0wE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Robot Salvaje (2024)",
+    "ico": "https://i.ibb.co/xfdWCh8/robot.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1ggZN5+TBdJgbgWJTWzBgMcbG7ZBRzmmrmscnhIduJHhfsciUispz9UwRhu/s1+fY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "VENOM: EL ULTIMO BAILE (2024)",
+    "ico": "https://i.ibb.co/8bM9KWN/venon-el-ultimo.webp",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1e062STPtix0UKJTxUs7ddq9EwvURb1F5bljDaZjQ0aJbSAZ7riMnG0SZZkhsB+1w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Bagman (2024)",
+    "ico": "https://i.ibb.co/qMymRxz/bag.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0GuJSZfwJxPSqnRNdXOYfRkTertvVixBztX1wH7EPUhtSzf8o5ewFPMBu3DFYj2d4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Amityville: Donde vive el eco (2024)",
+    "ico": "https://i.ibb.co/PhFGmtv/we.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0hBNkzJisYzHd5KnnffwPXFuJD3+Xc0UbLNOWlXHhj9i7thCSB6AFUyvB5swd3yKI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El secuestro de 1993 (2024)",
+    "ico": "https://i.ibb.co/xhTjvk4/el-secuestro.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3S0STfdhk3jjFFLZ5cdDX3i0teIKn0o7oQvqSe2BV2iXgCWIjgb5iLU2D9Q8Ne9TE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Sin refugio (2024)",
+    "ico": "https://i.ibb.co/FqpTZfM/sinf.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U11RpTSalmhABm5Z6OWsmOmIDvFUfEu4ec3Xq1TEf3+Pw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA BRUJA DEL BOSQUE OSCURO (2024)",
+    "ico": "https://i.ibb.co/hWbZcpm/LA-BRUKA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1e062STPtix0UKJTxUs7ddq9EwvURb1F5bljDaZjQ0aJbSAZ7riMnG0SZZkhsB+1w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ALIEN ROMULUS (2024)",
+    "ico": "https://i.ibb.co/rk6RwVw/ROMULUS.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U21sAiMeb6W1BbUqfV7PhGsCrxEC/aOW2JshEvFHyYQ5SQvOe4n3W6n6LDhAMyuh2A=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Thelma: Una abuela en acción (2024)",
+    "ico": "https://i.ibb.co/1KYgBsj/thelma.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U34KRvWVZ13cByPkVPLoMnGZj4brIeh3w5Zhjmz8ghzPS/yMyvEmQDu9FtBJLPrCw1G9AaK8dyAneOG8NFaDfQd",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Tornados (2024)",
+    "ico": "https://i.ibb.co/QP8DQsB/tornados.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0oHlqRt3f/I2Y2IsiIPKjFWIzVKeycz88Fzb+YUBGija4xAzXAvTN4Vw997lp+ho4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Abrazo de madre (2024)",
+    "ico": "https://i.ibb.co/HPtszhy/abrazo.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2kSzQwt/ZEZrkS68PDII5NjrM5Rh6HGJAANbrItphh/fJbImGiCadJ15lc5u+Ync8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Fuera de las sombras (2024)",
+    "ico": "https://i.ibb.co/db1rrjn/fuera.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3goOIn+vXzm0+TGsi1gqw2uyZzyXYL3wW4GZeEi+FruWFjX8lfchd+gSgVK2Y6dfTWOxMXTHtkgSSNuvYIAzKl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Harold y su crayón mágico (2024)",
+    "ico": "https://i.ibb.co/tC2kRmL/harold.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2UGTPr8Z/zGZI5082B/zBxqKNe9eUf0jXMoZ68Jvnaj6jz7AkFBK+4kWP6ItDwk1Rusom0e3Xj3GXN+pPHSjGN",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MaXXXine (2024)",
+    "ico": "https://i.ibb.co/kJztLDT/maxx.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3WeLt9yFGsAU3SwlEg5uk/VCiwjDmRYO7+oLeJcPISKw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)",
+    "ico": "https://i.ibb.co/myLjTdL/alrescate.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1rpeVOWcYTh2q2siKEzyMAVrWgJFwLGSOrWn4ioeVTzA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Terrifier 3: Payaso Siniestro (2024)",
+    "ico": "https://i.ibb.co/jgKjJZX/terrifier.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2qT5r+EMlKGWrZrJVNb2yAfjwcF0n4FGI/tjD4HN5m4hBL8FKLo3uBfgEOqk1irqg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Intercambiadas(2024)",
+    "ico": "https://i.ibb.co/rH3mCdj/intercambiadas.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0lbZxIzKg9eMIUml6oDUwkCgmFRFGLTJyeJdXRKtKl7Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HAIKYU: LA BATALLA DEL BASURERO (2024)",
+    "ico": "https://i.ibb.co/LnVwmQh/HAYKYU.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0RpwtdQN+jUnmKhigfSMUu+iXwwSR29BtiqwsvbRNF74RT6486M33xSKUpA68xyZdgQjXEZa0X3MATKHTwMaus",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "APRENDE A SOLTAR (2024)",
+    "ico": "https://i.ibb.co/PNjJsPm/APRENDE-A-SOLTAR.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2unt5Deq80vw3uCXQEZ+hIXnEX8QXwRK0zYKxg6v4pKJVBA0eM/6YMISFrDr4y91w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ALERTA AMBER (2024)",
+    "ico": "https://i.ibb.co/yqSMXkt/ALERTA-AMBER.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3lkouTCee0R7Ob6pQ8KUH2koGQjhCnnjYFBea4MAhNbWt1H95IXSQpow9ke+4M+Gk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANARIO NEGRO (2024)",
+    "ico": "https://i.ibb.co/Xy6f2F5/CANARIO-NEGRO.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3XgXFNllzzKnhxErSogBAOdSS+iSy45UhCfUk7h+VPmRehZXPkw/nolY6VMCssE74=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PHARREL WILLIAMS: PIEZA POR PIEZA (2024)",
+    "ico": "https://i.ibb.co/bz8m8f6/PIEZA-POR-PIEZA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U13WFtuIijG95OYAqf4oONeH4txN2fUl6J1SepYfTXx8Tslaetqw150Yk91TbWTlp5vnyG7hAscqXl0UlMHQtlz",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "MI AMIGO EL PINGUINO (2024)",
+    "ico": "https://i.ibb.co/Z8j938c/MI-AMIGO-EL-PINGUINO.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1NJue0awLb1E43jIkEeT5/YoWAlr9JsjzWD9gcxZVZ7XnzrNF2Cxmfu+FpvXAIXdBurB01M4U/8LS8uCczuLnu",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NO HABLES CON EXTRAÑOS (2024)",
+    "ico": "https://i.ibb.co/ZB1FXN9/NO-HABLES-CON-EXTRA-OS.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3aUOcN0xEelJ29oozcWqKYKfl/5gGn+wW64bq4DLWTCTwBs0hT3POtXDmhV1SG/B+TC6UzaTCBdIU8ld8YVJRm",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS HOMBRES LOBOS (2024)",
+    "ico": "https://i.ibb.co/687V5kD/LOS-HOMBRES-LOBOS.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1FHtgS48Popc+Bda2YheX38ZYnS2m2Glbrl7mmGs3UpgkFsz+wbHgAWe91u3gQFaY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LOS HORRORES DEL CADDO LAKE (2024)",
+    "ico": "https://i.ibb.co/LhM3DHB/LOS-ORRORES.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3695cut/OUCRHJm7Co1gkaMWAH4+sIvN0ewqWcQYdO5lz44eVeduIcC7H6mhZi8ZD51HAXAW1ntB2PjBN+dsvE",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DADDIO (2024)",
+    "ico": "https://i.ibb.co/pfkjG3T/DADDIO.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3LO2fmSFFO/VmK6+FhNBy21wWaCnZdIbIDmSEo5QV23jtvv8Pf8CsQSILX13spi7U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DEPARTAMENTO 7A (2024)",
+    "ico": "https://i.ibb.co/KXkpskW/DEPARTAMENTO-7-A.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U01ehppjXAr5FHehF+Eo53Wbh7t+CIctwDOI0rgLUAuOlwwDCkG9EbKnaT7Evi1Wow=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "AHI AFUERA (2024)",
+    "ico": "https://i.ibb.co/mFTxKmf/AHI-AFUERA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1aiGv4Tbk75S66kY5CrYbcEuyNocspYBwuBEpWd9LfIlj4nYPNFM3Dv+VTwLFzk8s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DEADPOOL & WOLVERIME (2024)",
+    "ico": "https://i.ibb.co/tD7BDvX/DEEDPOOL.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2u4mhWY9vDy6JNo0O0A6RS6nDIgIAw9TsnNXnI5kQHCqQqqGqlQQBKu3WhJNL684dVo2LjfMg2rCy1MLBzlQ1a",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA CASA DE LOS DESPOJOS (2024)",
+    "ico": "https://i.ibb.co/yggpwBC/LA-CASA-DE-LOS-DESPOJOS.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U32IWihBuFmSPNx0rYLxoPD5pILiD5DUu2TLqKP8I/l4BdXGGz5dBh8zAFBTW5qFYflL94LFdAPFLLUToc/kdz5",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "JACK EN LA CASA MALDITA 3: EL ASENSO (2024)",
+    "ico": "https://i.ibb.co/BcFzsT8/jackcasamaldita.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1nWSFDIFtAbobvncD0GrzhwEdT5pECTz8hlqMbd4HPTHABWIOjLWNRE1NAPRap7C1joNclXigxuIYqGAmbf8Fw",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "GUASON 2: FOLIE A DEUX (2024)",
+    "ico": "https://i.ibb.co/Yp1ZvPX/guason-2.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U0+TnDVFeMI2CKn/G5tVu7tW/7lNDhSbwjW2thqjd2CRdLsUI3BlesfuiE7Tb82ot4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL CUERVO (2024)",
+    "ico": "https://i.ibb.co/GxpdckW/el-cuervo.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U2XDvyJHl8E0hrpdKkmbOE5IuEa6TdMZTtvvBVWq26+rY3Ijw4t7pFBsx9uXMpjEC8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "EL AVIADOR (2004)",
+    "ico": "https://i.ibb.co/hxGy3vj/el-aviador.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1+bPBbGEzMZAVMhCUxhc/Jw2TMhQ1GnmtceqofjZSSaeYwrT89RimWDlrwYGTDw/Y=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "LA SUSTANCIA (2024)",
+    "ico": "https://i.ibb.co/8P6LFNY/LA-SUSTANCIA.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U3PPSanWJtdypvIpvw44hXiPTmcXtCEeUnfo6DcvF2kJBGpH7Tj1Vg1I85CnHBzUBk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "APOCALIPSIS Z: EL PRINCIPIO DEL FIN (2024)",
+    "ico": "https://i.ibb.co/0tL0z7y/apocalipsis.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U1CB1CyvZncPWZ1aELeJ9QJaLj40g5yziK/T7vhmJWa3+ihT/gLHoqH7m17I8EHRjlRXlTqh0VgJMhn+xhHKRGl",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "HELLBOYS THE CROOKED MAN (2024)",
+    "ico": "https://i.ibb.co/4MxZsDH/hellboy.jpg",
+    "uri": "Q1ipGdybx4Bmd01sEHYW+C+QhhRuPtjQiAVRy2UK6U02VQmg3k8gSNAxuEOn4rWN+BYQFeL4XB8Jo9K0UAEkDAhIV29eBPhVoNq0vdG13Ks=",
     "drm_scheme": "",
     "drm_license_url": ""
   }
     ]
   },
+{
+    "name": "▐ CINE ARGENTINO",
+    "mode": false,
+    "lista": [
+       {
+    "name": "Los caballeros de la cama redonda (1973)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/723T6aaPQtqicztJp4iLHUJhLPm.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqRsjhWWSdG+8QP+fGQHzpvV3OiRrNs0K62fyKmOnvHvELLINgY8aVk8fVOptp0XNqbI+/tJdgFnysu7FjhUaTvola8K0sb2V/dtoZ0KBgDG1wQIMIF7hSWG4OuynSRyjH0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Doctores Las Prefieren Desnudas (1973)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/pEcX32I7IHypPRFTcpu5PTOS5Ab.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqQGcE/uL2i2HK65qxBmM+4xGSfyLxGl8LGG9+6M62oeIOBvW7iP3qGelLs6XRU+0G0uWDTP0duqyvkaSukzzkR+h+Rn7EEB236tpQv3/xDtnKZWfGhAv0H2dNKOV7JkdyY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Hay Que Romper La Rutina (1974)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/Ai3fMmUF3ysxmvHwGINr2wgeP6E.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqQNHIxGwhQr0lZf2SDAb8b9WRkPqDRFIDKNTITvB7nmj3dFbkHiX0NZ71YixWvzsbm9hmzb/bcgB7EnCaFxTVit+jCG3XB+2nFwbdgiiHbD7w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Vampiros Los Prefieren Gorditos (1974)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/2wvTP7MG6xxSv7b99ZP4MRyrfzw.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqTC+UgS3fxGwAKaBDIOcScJgkW7oSLilTVgOPSD6FLDr9sjBO5Fsd+ALHXGa3AYOlITaTJKI11+DAZGK09jBBRSvLOqILQaMhD6pM84Tmrc7E12tK/7SGIs2qJYvVSHEMc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Maridos En Vacaciones (1975)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/e9rnww1Nh3H2iPtEGLe2UCfgKmm.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqSK4BzRG/iz2SaPk4/qAHKWZEY8iNRfQ22ujJK5Yd+jTAtwISjX2/gm4jxtsMWPxpjVLppCtqcYU/IMJU3UranC",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "06 - Mi Novia El Travesti (1975)",
+    "ico": "https://i.ibb.co/BtwhrsS/mia.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvQYTPSIa3Z8Z2xxZoYPkHQ98AGO/lGb8paagbQxu789aWYbkV4K/vQjp31d1f0jYPw049QyHkKglH/oDYrVnV1j",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Gordo De America (1976)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/8ypOWdaYs7i8MALxqYNOez3YdPy.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqRfIR67PbVI03gaeBkRfn4TkBVycAQJ48UlDV2fzuFNTaoHrUYuH9Q+Cs2ognaSQMBponwA0KduusHPf+rCaX1D",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Hombres Sólo Piensan En Eso (1976)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/vyRvZKHEM0Ake0DBt6Lo5stVwp2.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqT4kYTiCzeVyiSGfkKKFGVwx5qXdXduC09B6r00FjbXlY1ciUA78ZFHQDPaRyHcSCjkt1/g+VGW7hLuEjB+xJLXjU1riUI9jzgui67kF3z46g8VTZuLOfAx+bXfvtXhrKg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Basta De Mujeres (1977)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/3ogA7a2JYib5jvkTyuTQP4UYVK6.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqQ9jbKHbjoI4AvSqJirRg2jofsvu3F1Vbn89eXQq/DeaCw1FFFbaClEMeh6lmapjmTdNxxij1IB+rVMWHiFfIgy",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "10 - El Gordo Catastrofe (1977)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/xt0gKlTMk4KbMXtJeepgpga3OA2.jpg",
+    "uri": "mn7rrNC98O6pe54ftClcgblYLUvYjdtEOMfB7Qcgt83WCjyVRV20Cxya9I2sIaTOxqxMaV9C2HFCkFyKn5mvGACo+CxlP9WAI7M6JKS0xBeZtw615V5LxsbpGJIeTRTWYVXZMBk6nIlUXKS/scKuXnRiogiuXfG9EZ7talgPiAS8zALj7ZAzi+QIM3iQ1Gb+dgAekZ+Rriktz4GJ/5S17w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Las Turistas Quieren Guerra (1977)",
+    "ico": "https://i.ibb.co/YBxCbYj/tur.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvQ9Hz2YjwcNQdPbFZm3kVhyh6gX1wpU8d22kZNbrTWE5TFjN7XHvY+K+Rh1iEodX3tkb+nhox90zBTZWJFqrWNUQtPtyY1UtRJsUqisI9TNpg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Fotógrafo De Señoras (1978)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/c81vHLIkV02GjFqGkWb8sif9lRA.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqQE4i5hfA+dcRfHR9yf98BQ+xEs8/3dTmGfCaqJQgGPQxPhyR/Nz51OssQTElQgZ2mXAt2nQ/7MCAGeY/dzsRF3AKy4wlrLzPoa07mWtf/j4w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Encuentros Muy Cercanos Con Señoras De Cualquier Tipo (1978)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/uKEmHfdhAaeqkQSHUVdrYJywJXz.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqQSpg0QM845vreS2NGcs3mlCF2hkwXAcZCKOki7T8BcjaNSaDeJblWVCMGFyt24sXpQW4WzFcLjP/SDT0RPPMo3OfDW2SwspK/8mr6p+wUE7tEPSh75wnEUkjq1MskF5qCx6dCli3efc+BIzy84a6G6",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Mi Mujer No Es Mi Señora (1978)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/fIbGibQJN8rTlCuYF14iI5hGPaN.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqSGVBDHpExPKVh/dPDRjsEfd4LtfNbMXwsLQA/7rNKPscz3/MXhRb3zGOlOiGPxM2N03C5QCb+QOSBHs3Z3LpsoqLcnfCrprgFRW6FlKRxjHQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Rey De Los Exhortos (1979)",
+    "ico": "https://i.ibb.co/FVmxkhM/rey.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvSNKh1LDTIPjWRXu8tgkFmi75tdZbWwftWjtWOeKc+wmu7JEE/u5ryMLvttwnKTEI75SAFazd9zldRVpqPRPBaq/luApnzKCjO9q5/1/jEqhA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Expertos En Pinchazos (1979)",
+    "ico": "https://i.ibb.co/RBV6rBt/exo.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvQ+Z89Mcbn1DCkli95yAwkx3Xajck/ZpXSwNkEU3DL8+qh7NGlcgmBPQF3IkOPHB4PkEmUyQDtEOkURKoRwL7I2",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Custodio De Señoras (1979)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/ep9WimkMSFri4AlnOBrcMVzQdeh.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqSXIG1THnkPDLp+J0PqgFfdH9VFWh89DrE2tpZXJUkPxzInSUzflXQsXGY2WmMkoNd37g5CveyDbwnZUyJjEFVMnITv5BRm1JrjnmBsFQfuHQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "A Los Cirujanos Se Les Va La Mano (1980)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/tFUOUn3XGoMurj4cMhr7jgpm494.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqThTKxzXxK4ppQ3vh6MUpdI6W9Y45wiAfF4UqbD4HH5X6P8qYOscHJdcpEsk8QqpfD9T0u0htXuCwyFlr0xKdpD8HKlLsF7aNU+Ffd8DGrwActvVESIi4toUbb5HDs6Y24=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Asi No Hay Cama Que Aguante (1980)",
+    "ico": "https://i.ibb.co/Rc80t3P/asi.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvRD4J8/217/P4wCYB5eY4EP1fLHwcnAk7CXLji+yL7/j0lIFsEqKt2TrreA1TQW6TE222upD0yt/nHYwFcpTwEwI0qqjUFI6wxuhLINA8hH6Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Departamento Compartido (1980)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/2bE8zWz6TjfRaD4EqhT8RtGAgC6.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqQiuGW9Uff9ACfl3eirQXKxeivVJVw1WaIsZpirnw2QS80jL7uzCjT+lhJE1x0rDyjTVUUdMvV0d5sXvL/5BdLH8WrC64wATXeGjCPsogU2xQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "expertos en pinchazos (1981)",
+    "ico": "https://media.themoviedb.org/t/p/w220_and_h330_face/3aP4rQoaJsUSJEsIsO7YKjFEBpg.jpg",
+    "uri": "LS6qxNscpFe9rDy2K+y73D0yrmuasTIO34j8i/J6Flnh7tY9V1XFrCNYOV0X21P7YIG4Nf4fpNkhgbwl3qFL2349ZrvkS2kSvVfM6AxTZ7qUr79ngnV1muIJBLoz8SqH6xcxunx6hnQRHVj0N0UhpA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Te Rompo El Rating (1981)",
+    "ico": "https://i.ibb.co/YbTL5hN/terom.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvShAyuBB4XJuzH8epMdzYAQcwaLMAV8P1NB/YDZ+x2fEOafq0MdxGE+cb8QnELeCCdSD+Cxzw79QqiS/HoTltxN",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Amante Para Dos (1981)",
+    "ico": "https://i.ibb.co/nLYT4r6/am.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvT6i4Y++tJ29d/Mb3qCOq5KnoTDxKi3Ul/XJHSGgPaIzmZN303BzxjGJJ+q1SIQjLewtVGLPwhMAWK/QjwjX1gl7CyaOA/r5F/RQaZB0z3Lmg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Las Mujeres Son Cosa De Guapos (1981)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/jj5nwEi7yEfDVISz8gL5Mw88AwS.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqSlKIzNVh18pWxfnQCxk72MdCjZd99zH16ru51dt5ZFVS2wp/oC7dV1k+tDYD0xbWMCL59JUBifSLHy7n/WJOWP4sXYF041hI4kkst8qdCnyA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Fierecillos Indomables (1982)",
+    "ico": "https://i.ibb.co/4jMvwC6/indo.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvQGiiyzWa1D5tbGglhWXrqlaXiYwyP6LeX9/EgcYDf1ft31T3z/W3qYKONf1A7kr4P9kjfqlHIegNtNC2J1Q+CCbMP8Ka8uM8WMYsixXMqz+Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Un Terceto Peculiar (1982)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/l2EvbxvghjjcrumcC7Q8Cxb9uqz.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqQHkP6G4VIxma4cl+7AhutYGhK8JzoCcsLpoLIWC7ysmf2RwL53VZ6oZyyvbLMgeaBfXWtMTy3RF1Afyzyo4xmb",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Fierecillos Se Divierten (1983)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/rhFJeYVL9Er6iCrnW68csaBTxnj.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqTKnrZEInzoXVDgVrzdMnZHYt/EPax7QtyDfFXm59NM+igWdBOOTlMgPfgtcctmf5/fHlGVmIu+R6rHLJVIhE/ktWv/UEkJaXc0tjMsFn6nSA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Extraterrestres (1983)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/ia2AB4D8fYVCDGWUYvKfBdj7f87.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqQFm7SNPVEvs1s4n1we6YIQWnl6SY9MT1ROW04vlegLoFfa2mE0e3PaJWxhBSdv2cJubsNyVHDNNZCFwYMtgKO2",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Reyes Del Sablazo (1984)",
+    "ico": "https://i.ibb.co/F3WmrJK/losr.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvSSjRgI44DlV2xwe8x9p/veAg026zFFhZLLkv0a6INNWQOPeiTkQXpIE8S1LTPoN8vX0yayOTx+tGSL3Fy56qc8TF683FYnssH4klFj661e/Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Salvese Quien Pueda (1984)",
+    "ico": "https://pics.filmaffinity.com/salvese_quien_pueda-982776580-mmed.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqSrQaGNuCbSmOZyQMdqXEJrTLITy89M168TOqyikMZ5LVJuTiX8Fj+CjqCsscGLy2qs5vr6ASQewaLLXo0a5TZ1",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Mirame La Palomita (1985)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/sibPXfrtWz4m4yxSiR0RP5xv4ue.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqTwAtPWmSesqUZVojfMx7an8D6RcNQ3H7JsYTr2oREIZrrQ6/SdB37FKgIOi2ktuhcE6OuuY4vBsOUMx0/82r+h",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Colimbas Se Divierten (1986)",
+    "ico": "https://i.ibb.co/5vRBtw3/col.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvTymS/MwFLnu44+5FOK1diaKnHuEt9zomwS/2c6BxCuodEd3Hp+c1apS2o7k2n7iwKClYR7fX6StBpal+aQXqUaxKYrcUO44pBqAO5zPf0f0g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rambito Y Rambon, Primera Mision (1986)",
+    "ico": "https://i.ibb.co/mBgBP78/rambi.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvRwYBFPEOn9SNtoB0G8Zp3EoSPE63tsaZhpHQGXMubu5phmeRjKnSwGVr2UoD//lb+d4O+/tJpAarNkb36Q+mHs",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Manosanta Esta Cargado (1987)",
+    "ico": "https://i.ibb.co/gZxBhkm/mano.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvTmd/4Z8pYR8+Q9rCreEVyBHpMqWkAwDUg1A2bmyCLt9dWcRyXX48ucKElQPvi7TcTdSpHPlkOmmMKw3Tj3U3eZPFQDGgzrjAdUi4cuomIEFA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Galeria Del Terror (1987)",
+    "ico": "https://i.ibb.co/wCD41bZ/ha.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvSJivDAVDLpVZhOtqyzyG9V2fqfLHBV30e7T0bY9Rf2ihrYscigr1qRYLMwje6Tj4k9a+fWp8jeCJbT8NkHTp81zy9NhoudIbUlVw8HuHHNKg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los Colimbas Al Ataque (1987)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/o8RQP7gEsKzIrNN5pjolvBcvUoG.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqRU25RiFLgPvuVwA9tEhAu4IGYSjb26AZkwtppC1iIPKWkm4ZM2wVPx8RN+//sb0VjNAXq48NPaxm7TU+T2pZ9WhRfnH4fZKrjJh68EOqB0vQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Atracción Peculiar (1988)",
+    "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/vcGmCf3c0UD7a8BfKHq8ba7Jafn.jpg",
+    "uri": "YP7y0cD5XeOAHuAHidYQ3r9RiL680rLvJ4+JVKG2annKCrc2n5OWlpjWD7PERKC49onzrUG03JPQPccxFfpiwyBGdHCxIdjOL3Id5XqFMqTQtQs7/zp74vyqcgXKLI3zcNhae0IMRSUypCIsPYfNUdESthnazbo/EVoCrj11/qJPTI6uFn7TlINmAMKUHxjh",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El profesor punk (1988)",
+    "ico": "https://i.ibb.co/kGbHYk9/elp.jpg",
+    "uri": "BxFhRDd8VkFCTPBoUeEsDs9JsvvX4jPL/kM2AdZAqvSaZ9R5EDsbJgJvcmStW0Y9pLoSG2/LF2VOKieOOzEGcD0UCLfJs0c+UOmk4vuH78rmei0fEnr5fJlSZcH885Hy",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+     ]
+   },
   {
     "name": "▐ ANIMACIÓN",
     "mode": true,
     "lista": [
-          {
+      {
         "name": "Batman and Superman: Battle of the Super Sons",
         "ico": "https://image.tmdb.org/t/p/w500/mvffaexT5kA3chOnGxwBSlRoshh.jpg",
         "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3W9rD+VkNAl4m0IxFStreQxK4hNdeXUAA1Vf9jb508yTXAibNpoy5apQaVHMkBxIp9K+fBVA3HnPb9XKSSXUMJ6",
@@ -20094,37 +20570,65 @@
     ]
   },
   {
-    "name": "▐ PELICULAS CRISTIANAS Y RELIGIOSAS",
+    "name": "▐ SAGA RAPIDOS Y FURIOSOS",
     "mode": true,
     "lista": [
       {
-    "name": "Hermanos (2023)",
-    "ico": "http://37.49.225.114:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLKys0tPU9BVzsYtFP_THbSBNUunb3PNfIw2aRr4ezdjk.jpg",
-    "uri": "/6WIsKSR+m/7wtXJegX6lbyGP1BYtEtAzH1NnX6FvDAAcL8uEUjcJCW2a06xolLhXosJrJDQW4QM8h6/5QcSDMIuc7uwRF/M7ORJ+7M+VEQ2O0QeldZg0gozT6lg23WTZKeBpnU7VOorsVshqtc4uQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Come Sunday (2018)",
-    "ico": "http://tvunido.online:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLP45ih6gXAqJoXZi27XSgmvhbPhi-f47N4lATv_sZT8s.jpg",
-    "uri": "/6WIsKSR+m/7wtXJegX6lbyGP1BYtEtAzH1NnX6FvDAAcL8uEUjcJCW2a06xolLhhuBodDxcIC+afleWyuZ2b/sTO//z5y11nz98jlSPjfoKJWSLC5SVYX7nxBH7vRGjykRjk08hfFKSLY4wg6chQQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Como Flechas (2019)",
-    "ico": "http://tvunido.online:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLmJ9_TcfbO1Hbr4Z8Fr6-8I8LAbt0YPrmuuINXvjAYIE.jpg",
-    "uri": "/6WIsKSR+m/7wtXJegX6lbyGP1BYtEtAzH1NnX6FvDAAcL8uEUjcJCW2a06xolLha8rYr1ZsElxg+OdI3RzoM0QOYOf1ms1QpU62ko4eQA9lnhN/zAxQyTOM0xHapviIhfVnWw9TBYGKGqZ9x4V88A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La razón (2010)",
-    "ico": "http://tvunido.online:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyL2puTdMt99L36h3k9Y_VCfjb9ySZWbp7YKca1Gk-Axjc.jpg",
-    "uri": "/6WIsKSR+m/7wtXJegX6lbyGP1BYtEtAzH1NnX6FvDAAcL8uEUjcJCW2a06xolLha8rYr1ZsElxg+OdI3RzoM0QOYOf1ms1QpU62ko4eQA9lnhN/zAxQyTOM0xHapviIhfVnWw9TBYGKGqZ9x4V88A==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+        "name": "RAPIDOS Y FURIOSOS 1",
+        "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/6/w1280/rCdEN70nBLJfrzE7NwPtCSxjjrA.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqU0dBSm4j5HI1g1IpDoE64MnIq9y20BBCGvp3qPDu4kF7zPOfNXds6dlUCX3VXM34U=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RAPIDOS Y FURIOSOS 2",
+        "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2003/6/w1280/iZUSbYbUXol5AezpNIJwwENdyE0.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73OKQEwXCr+/s6C4vywdAvX3UUiNCqfanc2uSXddrYp7o=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "RAPIDOS Y FURIOSOS Reto Tokio",
+        "ico": "https://www.themoviedb.org/t/p/w220_and_h330_face/iKlO5uVXQo3f78uCqjcB6b31eir.jpg",
+        "uri": "UOc88jbj7b6RtNkOtz9wIaehOl4x2jFsem8Uxd4jsqUZczAh2SGZmP+QqaniJp73TCR7GDrUDHxvUTEoRS88QPOyCyqsfNMHkWdw6I2IXHnYFKydLcIb8Mela7Bq1I46",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Mas Rapido Mas Furioso",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vvewollXh3k2G8ruTYhhBTqZH19.jpg",
+        "uri": "S/GjOHdMWWQjoKmrNuIUNfBiYa39LxBfnBsj/DtkMx4vM2F+IFRXWlFMglXGJ1ETwn68TYzTJE+MoiMnvpgpcYmM6S0bjTZhlZ7OWBTGm5DPqalajDksK2i7/TajCi5sd1tvdpNcEH9VsV1ReJ1hw44XHY/Hlf+uHYAo5uAMLSTuhlaQzI7Vw0tBlXGOOfL3JJqQstKlQAjGFT35/Bi/fDa3gJnSLiCBsAaujDpHMr7gwkunhnI7uC2H9HjIcNP6uF+GHmzrW+5P4tQGRBf2Rj9/NViQ2/Z1UDWH+JxHWcSyX6grNOzlDbLbd6LO5d5pRf058VQqbMMUqbrhj06Qwtzw0YgJCeJdtPvykYdFzNI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Rapidos y furiosos 5control",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d7OwxVxXdkfUOwh5VvW6JpY0Ot9.jpg",
+        "uri": "wrPm1hZdzVwhERb3/sxVKbPuNOLeK4IQ5XrFFERUxA9EQn2j9Kw4vb3kq3lCq6i4Pg5E1jzX9kJLAFoAJGlvweFnSLLT+9pw6GX0SLKBMA2ibijqmtJKbN/Sxc2ACI5Q6ODFbHuX1js3FZd6MfLqLEUeiiZ/2O9MThii+IUAVKEHBnzCibiwCmrMh/JnSSWG+udI0nezY2lnlvM4nhwoKM6DzK9wa5RNhLw97qPQnoUSlYmwjW5wo1gXxd3M4bWPJ7yj9NIHJA5xr9zjXeP7gVF7Lexy55ak9V8vrgTWY9CNv8Wci+9kljiAOEN/J+1G1gXA5wfXwR1r8uoXm9OMRlAJDubuqxDIUb/XFaEc0eE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Rapidos y furiosos 6",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6zUkjB5OtiFhN2DiqdT1IllNJTa.jpg",
+        "uri": "Xd7G8De0jDo0r1e9KdxKrqrQDCj/IdY0RSV1TKVICe9QxD5Z+yDULdHhS9ndHTuKJrAKlQRAx0hCHsAYKAfozS8zqUf8F8o+rx1KeeZ4K+2C7Nyz4fmsuIXf2FfgO1DyMWrFWFO7apUHf4j/g4I3OmBaQsh/bCpnF5tChTxl3EjXzBIuRPJK4RnldCR6J0y0xzOHoPk0JTOzRjgo1iEQuAS8nf/0wpZxdfs8+7XH5DX/KD4M3XqZgTrN8+fN64Phhnbkzon+CRX7A09+gsyMfN8a0mzURUEjPHfaRvxpWq4OSJJKBfR+E31Nc+Zj5+6BxZnkys3u6CdnsQ9nzjunW2fKC3SxiGcCp/+uiddQacQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Rapidos y furiosos 7",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yWG5W4tKCQweHEdnKV4YEvqOBGx.jpg",
+        "uri": "DrfKNBPjCl6oj63n9wQoT03BjRP8U0ZI+tCloucK/lQNpZmm+ygZJBqaEDXTJ+iXr1RCRLeGg1zDiepV7b6vfQpjfhPbTwjyPDIRRFQ8pbHj0NIlKSD7hdPIu6m84CqGJVBcsvsPVmiXZBL0bBnwRkUBKh9v8Rz3QEEjtAsSHiOW1VO6BHI7RcshWZ8iv7cgOE7WJpQ28pqceqnNhn00BbAElYagOOlwjY9Zj23xFxLi0awrCHi70JyCttPPVUpt5oUjHyi+kZKC2tP+lYTZY0vXxg53lmgvlTi5XceRfIc72WF5xEAg28kcusCPS9H9UXr1IcSScI08zsn4XUWLr3StfN2S+W6xidu49/lgMMDf/Qioo7QKk92CI181cG7YXVwdeTTA1aHZfPSV33twJg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "Rapidos y furiosos 8",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5b1zDwWxoDG8p8aHoRYfzOd7Lvy.jpg",
+        "uri": "DrfKNBPjCl6oj63n9wQoT03BjRP8U0ZI+tCloucK/lQNpZmm+ygZJBqaEDXTJ+iXTMRI692v5ghue0+HkQiJBLvJyrxvs8c9lhsFcATAB/ipdUa6GPiLsXVzeGqwLll+fXGmte/jnov0RiXyDqPzksKQoql5SW5Q3cNzgpiqfTjuIbKuJ9nOqrJ3x+OaTq/TofeIUZ/Hjs050HioDJMVUTKpzYW1TQCWxjrXyWf2a3u4PvphJKhiYZVmphKBMHrEaNeMorTPCilkeYYOtSLzmdRbZuervp467osHFl7uGw8psVtrhftzNpqFGBMS3ba1md8QjXs5pQpfQaP3+q4LL8Z/wAfYx+y7UjueDQ5Fe3A=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "Rapidos y furiosos 9",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rI2F6jZ6a7K0bODSJStywn3eHLm.jpg",
@@ -20522,7 +21026,446 @@
         "uri": "f4ZswsDjSyQdmA3kMJ7ejjzHf/GEbxaOKzvviTC3S3XYUcAKAz+utgZCS0+AGdvtqTAAbGUGcxdfoa6eOm+OPw==",
         "drm_scheme": "",
         "drm_license_url": ""
-}
+      }
+       ]
+   },
+
+        {
+        "name": "VOD-EROTIC +18",
+        "mode": false,
+        "lista": [
+            {
+    "name": "Love Clinic +18 (Sub-2015)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kK9ZfwRCX8mCvOtGL4Oal3Bkoy8.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iXnlzzyBNz5Z7kLVehOuG+A==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Desenlace mortal +18 (Sub-1973)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kBU9NdguWQfiEa50xWUFMu4SeTb.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i/Z7uJ+4pAKFt2CycKb1cDw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "A Thought of Ecstasy +18 (Sub-2018)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nK6IfnxlX6KTYwqD3OKV1uiaWde.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iSy0WpG4Sf4v1niMjeR+ZsA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "The Brown Bunny +18 (Sub-2004)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGzU4TgdqmMjIfPIgf2MjDW6H7c.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iiR+zliLg4qglZ0saJg+eDA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Picture of Beauty +18 (Sub-2017)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mH9ngk8aY6a96rlMRoHcSMb1Wno.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/ifysUbqiSckAaYh2897jE1w==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Needle Boy +18 (Sub-2016)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQVEvr21FsTvxxuE44TOXq0w2iz.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iAnLbHhndDO3pjEKQoaG3sA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Emmanuelle +18 (Dual-1974)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sf9oUyo8UOa3Aj6IoXsxNSoeTRI.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iiWXRzdwWfbSHKvZnHHvSjQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Emmanuelle 2 +18 (Dual-1975)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV8kebM5syvKoOtuwy07i61g9xh.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iO1XaqVk9yp5Gw8GJxGHSHw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Emmanuelle 3 +18 (Dual-1977)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnF3rXUwwtiRB2W83pqcXwOH848.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iF500lEsQRAt7M/USjQd21w==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Emmanuelle 4 +18 (Dual-1984)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vaIVtN2W34gHD0WgjdivtALsTp.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i6SZwTPxheWfumOdvNiiw/Q==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Salon Kitty +18 (Ita-1977)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uS0p1bbRcKPwiZpEsS8jPUHTRVd.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i0RlmXa/5FrrIcqtm09W7/g==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Clip +18 (Sub-2012)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHlJrDrHwKbaZVm0Pq6vPY3PERr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/ikrHk/mJai9GjffrBSSR5tg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Porky's +18 (Dual-1981)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqCOt1cWfKqCepxK7LIdT812idH.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iFlYGxnSlvZNhi9CcjtPdSA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Holocausto caníbal: +18 (Dual-1980)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1hRa8hwGp4g20ZAWNIxrQmAk7R.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iyh4FKhofiYJGwnGqtW5Wag==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Doble de cuerpo +18 (Dual-1984)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxh2LIMOdEc6CXUwIEwY6WxgfKr.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iqC1qHQrxOoKsaz6OYInJzQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Oscura Seduccion +18 (Lat-2010)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrwUzLQhCn0SKNKX1Q4FIsVDnvL.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iRRlGb8cLdaa4cz9fzuxA5A==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Las perversiones de Livia +18 (Cast-2002)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jqHrtbT27v0eHcLxdBVNVGX6pY3.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i9dqsf2vmcSB4pGo4qOJ9jg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "La llave secreta +18 (Dual-1983)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWNBAnwsF3e2GxGJEPxIoovbpIF.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/idyyuJumtdPibkgf+TXwvUg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "9 semanas y media +18 (Dual-1986)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bZhJCo1vDzyKgHytAu6FHWJiYdh.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/ijS8CEvaoHXnr5F7+NqI0JA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	  "prot": "1"
+  },
+  {
+    "name": "Los Fuertes +18 (Lat-2019)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l52U5A7TGzcm7NTFrkniRVuKO3O.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iqsiBvSJzy/TXMgd0MqQ44w==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	  "prot": "1"
+  },
+  {
+    "name": "The Dreamers: Soñadores +18 (Dual-2003)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cOKLoNipTI4ONepoEww2cvgEmvP.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iHQg93sac1b8BXkZpySHKtA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	  "prot": "1"
+  },
+  {
+    "name": "365 Days (2020-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plWcrWkuIPbNgQlIFwDr6jt2Mld.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/itZ2oFnB434Ucgnh7QckCwA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	  "prot": "1"
+  },
+  {
+    "name": "El cienpies humano +18 (Sub-2009)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMtjxIkEi0hnTV5lPHbgeZ4ZpUZ.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iTWt3kTvq7u/LLHz3bWXSzg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	  "prot": "1"
+  },
+  {
+    "name": "El cienpies humano 2 +18 (Sub-2011)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YEUMnMhIjD5ek4zIqOhLSnTnJS.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/ihUl7zWNzLK1imY1IZAzoGg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Showgirls +18 (Dual-1995)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIHiWN7kCELUZzbCMpMcxNC8HlS.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i06WnLg5bUAm22BJ2eNr7KQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "El caso de las dos bellezas +18 (Sub-1969)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBW3wiklocmu5TOZkRLyV0IA7nc.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iP4oC8lfkNLPSsgTpOKH1Ag==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Las Computadoras +18 (Lat-1982)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tzDDAd7CtHvDsBXxQadpxPtuPV.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iQxeNZDAfd2eKYpBvHb7EAQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Seduccion De Dos Lunas +18 (Dual-1988)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVYQhaYdUimvuXxWyqktTfe9qxJ.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iwtTbTwTctjnEb4LSpGhyTA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Calígula +18 (Dual-1979)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwWjsDp7xYIo8qCtxAOKPB0X3k9.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iSZnfSXxKAYwUgbA4Nku09g==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Duck Butter +18 (Dual-2018)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQkNvLOudRFzpmLfDY8q2fcSOtE.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i/ManMkzfxZ2TsD0SB2/HXg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Romance X +18 (Sub-1999)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DWiS8oGtEUdbwanHmuPzQJSUSn.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i+XyrRwZHiGG27lcsxeivSQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Amor bandido +18 (Lat-2021)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qb3YySysqo8ikQoagBIz29BZOmi.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iAvvpdM0IHW1zhE+ur6W/1w==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Ninfomania 1: +18 (2013-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3pyIkcXMUv8ToIa3hShqKXDi8F.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i+oJEUSaGYvF6gzYhhlD/pg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "El cienpies humano 3 +18 (Sub-2015)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUk5AGcGvybPBvvMqrDPbAFAknD.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i06WXblJF+5e8NsVtfkdHOA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Kamadora +18 (Sub-2023)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/heu67j6uIpHzWmR785VFjd7cS1W.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/ivGEvr6nL0kPUS3b+MJvdiA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Nekromantik +18 (Sub-1988)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2dyPmBc96fd5NfaaxnE09I5Iwb.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/inudeCl7pTxo8P5QofUTjEw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Nekromantik 2 +18 (Sub-1991)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8P4BdJeHgLRcg8NmD7O3JWhQfSc.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iqQOyscCJj/E/zpbsLtJlFw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Pobres criaturas +18 (Dual-2023)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbfzQ7Q7qmDUf50eZH8C57Ygx6n.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i/Zh+G3E7PH6XfpMMEpXkvA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Monella +18 (Sub-1998)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPEncGdQnXFucHdABzq1TKAE8U0.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iUnFRHn/fuPX5xSBvah7hWQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Confesiones +18(Sub-1995)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVF9vgMY5W7aMC1HJStlIm95FQt.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iGwwQ3x+M6Yk25AqtUOalCQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Capriccio +18 (Sub-1987)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqch33pX8iEX5eiFXLqPw5fpVFk.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/ip9p+9QyN5qAO+sXZicrtEA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "La llave secreta +18 (Sub-1983)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnmudxmnY8iVdyaMEfZ9j8D9d17.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iv008KbAt7AZJLiOMeqQcFw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "99 Lunas De Pasion +18 (Sub-2022)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hdVTMczTVcKEGgdL7ze5Xfor4n.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iXhnUnEM4qV7w2SnhiQDlcw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Ken Park +18 (Sub-2002)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bf2nPnVspSKxirJ4mz2zEXQYVmz.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i7QemanV6JGGSeQ2+qdiMwQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Ninfomania 2: +18 (2013-Dual)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx6iyY3uf1Wn3wUNEFnvAGe5sgW.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/irWIbsELrlMRtiJcoiFPg1g==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Q-Desire +18 (Sub-2011)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUjYfkNN6GEIIUdXdhNcJMo6od.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iqT9m5kUWtt9SIjBAvrVSsA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Carne trémula +18 (Esp-1997)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Z6B2QlktPIw3mJDSBJoSboTkg8.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i8IEBW9IYqb6pqFeScq5Mkw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Cicciolina: Diosa de los escandalos +18 (Cast-2017)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hniLQBXiF3YEcrnli80VT9hL3hK.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i1eDFaVnTekOmKBvQLrZYFw==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "La Puta es Ciega +18 (Lat-2020)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/asqUcchGXjDT5N2jd4xqH2EbYN3.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iR5FHCL/LBBiONYvzuPLE2w==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Pleasure +18 (Sub-2021)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eq2JtD4oWJG82zWMaJvzwsV7whK.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/i+JDEfetgiIl0JIe391dVgA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Carla, bella y puttana +18 (Sub-2000)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/poa998sFasJX2XQtCTLiXvis6aE.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/ixsvwSOcxMnM+Xgrw0lPdAQ==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Cuentos inmorales +18 (Dual-1973)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7avkPYSXPhl2G0FH4lLQozWo1Pl.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/irpOFYZACRr7pZ74ULMexbA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Monamour +18 (Sub-2006)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7s2BlRGejGjUEkOOATtMUEWIk66.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iyeg5b+JQDh6OsAeuPqIzZA==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  },
+  {
+    "name": "Marqués de Sade: Justine +18 (Sub-1969)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wYbYpjUYz2f2TnNuJfIrpgDw9t.jpg",
+    "uri": "qo4mfIIUJW3VM36JDErlou++WCToURN3FJJ6DplvtFeSz9ZvmWtpbEMwWo799s/iWXR9ow/0yMKV+N4xvn0Cmg==",
+    "drm_scheme": "",
+    "drm_license_url": "",
+	"prot": "1"
+  }
     ]
   }
 ]

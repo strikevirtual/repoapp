@@ -1,8 +1,332 @@
 [
 	{
-    "name": "▐ PROXIMOS ESTRENOS 06-02 17HS",
+    "name": "▐ ESTRENOS 2025",
     "mode": false,
     "lista": [
+	{
+        "name": "Capitan America: Un nuevo mundo (2025)",
+        "ico": "https://i.ibb.co/pj071DhQ/MV5-BNDRj-Y2-E0-Zm-Et-N2-Qw-Ni00-NTEw-LWI3-MWIt-ODNk-MGYw-YWFj-NGE0-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/omQrKhfhsTS/01N1K5w2Ph4YnRhr0aFojohfYZd7BnQJNAJmjy8Gsq5iRvXwJszcki5ipytuKtce7uhPmc9k78",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "El caos está en el aire (2025)",
+        "ico": "https://i.ibb.co/VYNGpTtn/karlek-farever-605297392-large.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rAf3t3SoToM1axNWvm9nOd7D5hMUkPgN/P+jm3PTwf9rnvPrVBZT5rZaUh/URGAjLAK570K95UsaRKCBLn4WoWwH8oIkTTOnC6iB+1xpZHSg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "El Hilo Rojo (2025)",
+        "ico": "https://i.ibb.co/fVs5VwjF/MV5-BYTUy-OTJm-Nz-Yt-Mz-Nl-MS00-OGI5-LWE3-Y2-Qt-Zm-Qz-Nzhk-Mjkz-ZWM0-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/oMk3ajtCj/IhsiwlWDgN35ciDyAzEVoGJsVdU5bhn/gYxiAAOYg35B87RIZLstdbW+168nc+5fo/6GuKRGszPH",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Dhoom Dhaam (2025)",
+        "ico": "https://i.ibb.co/q33w8pTB/dhoom-dhaam-600409782-large.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/ouzRyFxT2UcjGbceSqSsYeT7NRbihlOSfASTXfhIHoaVHVbbE5paiNIYzd2s5MrPumRUnzwzVO6R4lHbYJMcd7dT5sncXswz7e4d9e2/AymA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Valenciana (2025)",
+        "ico": "https://i.ibb.co/5qTT6nS/valenciana-354978402-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qOrrXFej/pPn0kIKL5wzZTZewUStsGz/2Pz4xzH/POBtitW2bY29orGgCUI5XF2NkAK3y94rcB6X601oQ8GSJ5yhmH0v4QVHqEPn7ivdWUdA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Cazatesoros (2025)",
+        "ico": "https://i.ibb.co/C36WvNVZ/MV5-BM2-Nm-MDNm-YWYt-MTNj-NC00-Mzdm-LWI1-Zm-Qt-MTEx-YTJm-NTJm-Nj-M1-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qz8FPDjDiW8gDWP0NcJiYCzZurSAS5p5sseFlQtYedkHjXvHNk/cv6OXVtB8QnBhPrMTdL9JKT+++a/149fabWXIL9eMw1iBvQMYiyNDCyWQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Escapando del siglo 21 (2025)",
+        "ico": "https://i.ibb.co/5gxGPPPr/cong-21-shi-ji-an-quan-che-li-287834666-large.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/q7XbmLlLqynFZuMl0+UOm8Eu+MUmDLw4BZPQNnVq7EoBJYdme+6pxoB1onou8jS/JQ+GnAS0RzpwxlaHWaT8t4F8h7HOE9RmskwwzATAz9jfnLiUYALswSxoFP86wB3wE=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+	{
+        "name": "Culpa Mia: Londres (2025)",
+        "ico": "https://i.ibb.co/jYXW91g/my-fault-london-816550087-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qf9fcUKwZ4KlrFCT22rWRIo0lNwTZnBYwnUrlA+bh7bLF+IAdS4+J5W7tLvdxID2F8vgPyvgeFHxsKtRdU+Jy00HLfdi4D5QOKnp18MPAclA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Bridget Jones: Loca por él (2025)",
+        "ico": "https://i.ibb.co/8g8fhpqk/bridget-jones-mad-about-the-boy-609929628-large.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rzVgmlld9kN8DYYSE/m0svtOIb0z71auQYBXLWyrCDA2Pol45aPy6D1JXJ6dqTSQ6h1aByRfd5CeihvmCg2waE9PgZ4RE6XxidPDnOY2SIeg5+4xIRnqkk0NnsqP5nzZ4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "La dolce villa (2025)",
+        "ico": "https://i.ibb.co/7xKWGk9F/AAAABWri-Bym-IVhlnkr-O0r-MWTBLYZPNa-Hsap-Y6-HKwg6-Ya-JTSj-D6-MKe-C41s-IGYEt-R1aecwze-C87oa-C2-IAA3e9.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/r5SheKlaKPrxq/LSwcEYH3mF9rT+RaU4TCcPwDIDviRCAJwIYLJ1KE38549mWlXMOYVQ2uA+xtopD40ZngXf8llNKabyNrYBcVizBUA+oZnw==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Los Simpson: Pasado Furioso (2025)",
+        "ico": "https://i.ibb.co/hx28Bhdb/the-simpsons-the-past-and-the-furious-616588707-large.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/q4Wl30EYDpaD86i0eRAQb7l3eVNO7kpSJ9KoMsrqxPDLWxUoDqRM68UJ356MTVXzm8/RjKCu0/KqJsoVVIxCJD2kK9pv3Wf1wPlZjueWacgwnNBQzpfBVwRNzK72ryVag=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Umami: El sabor de la ambición (2025)",
+        "ico": "https://i.ibb.co/21BZGqms/MV5-BNGYx-MGU4-Yjkt-Nm-Qw-ZS00-M2-M5-LTkx-ZTct-M2-Zk-Zj-A1-OTYx-YTRk-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/otCKKf3WW0YCKKk/Um6wcnmuMqd0kLle3MRBlahh5R7gxmc+9gwVXBzbiamDP/PeI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Médium (2025)",
+        "ico": "https://i.ibb.co/kghJCmXt/MV5-BMj-Mx-OWI1-ZDYt-ZTNl-Mi00-Ym-M5-LTlh-NWQt-Nj-E1-Zj-Vk-YTVl-OTRk-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qYIWf0T7392wW4Hnbamht50z85UUOe4jDMd2owFW/e3xVaujzbh9jIPA9/ZpbT4ST7YaCoRZPP7R4BCAK0iWEF",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+	{
+        "name": "Bandida: La número uno (2025)",
+        "ico": "https://i.ibb.co/ZzyfXbMf/bandida-a-numero-um-317863483-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qzCxLxYQzY8idkmxT2uolT2LJYzthJtum/4/gg4xPrcdSt8a39DvQ5BW2wXw5F2Tw=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+	{
+        "name": "Luna de miel con mamá (2025)",
+        "ico": "https://i.ibb.co/3YFFdmLj/lune-de-miel-avec-ma-mere-952081761-large.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/ogUkcupCz+BN3zUvXplxI+ZTuDU0K1+LiGv0LyqHpmbiIhx9fN5LW1kE+jzt/KR1s=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "La infiltrada (2025)",
+        "ico": "https://i.ibb.co/5hvw2Hks/infiltrada.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/o2YKK4g3MCmTXyb9kOguu162M+4fC7qcsZlu3zznQhYpgRBS341OND6gMdLPOCCvIqZN94G5tyj/6sMmttLIe0",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "El Oro Verde (2025)",
+        "ico": "https://i.ibb.co/fVMXhG6z/la-promesse-verte-219650544-large.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/oStJWTK1RbpJ04ukagD+Z3gsiLlRR/rj0CRKc47aYcX/5MipXcBlNzcY4gWdZY/SryWu5+QAxzKUdyd7fWA7As",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+	{
+        "name": "Fly (2025)",
+        "ico": "https://i.ibb.co/3mjdQ33x/fly.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rlOGG/gyOz6zwYOLHnoQQMUKED4UULkdLn3/46AuSXHuO9QJ5Pzm1gTd7MV4HnKjA=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Nuestro hogar 2: Los mensajeros (2025)",
+        "ico": "https://i.ibb.co/KxRmvrGh/nuestro.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qLScuzZuPzMjyYGDBYAlTkLsPOu9uQ6NNhQNNsf5juRCVbmVjCYSW5cu2br1g8tGKWRs0rSSm0q0sz+o5WZsSACRkX4uQKNUh7XgkkI56DFQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+	{
+        "name": "Sobreviviendo (2025)",
+        "ico": "https://i.ibb.co/V02PKvQB/survivre-191428362-large.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/o1L2GwVq2PPcfzfJ7pvsBD+gBiWSc3dHLixHKQwGJ9S8irJm+mTxErXEpY/mb3wXM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+	 {
+        "name": "El Rey León en el Hollywood Bowl (2025)",
+        "ico": "https://i.ibb.co/k24TXs1w/the-lion-king-at-the-hollywood-bowl-867428510-large.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qtGUYTmHLDvoCwzRi4gflwtmNHIZ/NuSQzNbxmKmgDLJ3ZrCcxCvbP/1NPgZh0AY4=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Una muerte antes de una boda (2025)",
+        "ico": "https://i.ibb.co/zhRbvMfL/latest-cb-20250212163835-path-prefix-es.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qForDKyFEfGPbjTWzN/4DK/YIQZ64nrKA/h8zcWTU/BNZ9bbVijjJ0Z1EEyijXA4dlokocA/OyJNquSy5cLOIl6Aq7A6qAD15SQx5wTx2MKgDryvLaU6sx9GZq2XJldMM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+	 {
+        "name": "Las desapariciones (2025)",
+        "ico": "https://i.ibb.co/nq2sNS4D/MV5-BMGRh-NTZh-Yz-At-Y2-Vm-My00-Mm-Jj-LTg1-MTYt-Y2-E3-OTdk-Nj-A2-NDZm-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX100.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qKeBr3WolbI0I7jv/xfn9eIfJwFvuEUj3RIDJMaWAmoFm/OFJQ2UuaCU0ipyhZnAbT6HslNVrkotd25dSfYeGN",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+	{
+        "name": "The Witcher: Sirenas de las profundidades",
+        "ico": "https://i.ibb.co/N66SpCHX/The-Witcher-Sirenas-Poster-en-espanol.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pgXeGJNfvbXfzjoam812nOfcONKsKPZtuIowbmuvUBotGMtWqOIn/KMtAr1u8LcI5g8C1xT1o/VR9llHl+gcfihsvpiMJ/39ouXXNVBqe+8gmWVBQFi1WrDhatGZ8CufM=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+	{
+    "name": "Better Man: La historia de Robbie Williams (2025)",
+    "ico": "https://i.ibb.co/p6F3t6YD/Better-Man.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rKmaYN/o41COZNeCs+JVyJm87e3c01wKiMOOMY0EKQYxeD6i2NXgm9ESEJwQl7++U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Niko: La Aventura De Las Narices Frías (2025)",
+    "ico": "https://i.ibb.co/XxN9wz89/MV5-BZWYy-ZGNj-Mj-Mt-YTIx-Mi00-Zm-Nk-LWFh-OTYt-Mj-U5-OWVh-ODYx-MTQw-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qfRcuVMeJ3hmbqZnoglBXoAHsiN9LGmuXZJ3H+fbKp9Bse0m/TKPUsWO7bSkU9bcGy4fGGCBRF5ZOfgsKWAjkYTn207io0I302oSvKDtNvmA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Camboya, 1978 (2024)",
+    "ico": "https://i.ibb.co/21wHsHzR/rendez-vous-avec-pol-pot-182634163-mmed.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pssPbvY9+UHxSJVsUmUKLvie+C/cQo1ftZRD8HxvgMI44rdyc4tiZua6L+7bKt2911tMCXax/8J+A9t41RKrs7",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Heart Eyes (2025)",
+    "ico": "https://i.ibb.co/hFz0v2XT/descarga.webp",
+    "uri": "https://alm.digitalscreentv.com/movies/hearteyes2025.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	
+	{
+    "name": "La habitación de al lado (2025)",
+    "ico": "https://i.ibb.co/zhf2g3NT/la-habitacion-de-al-lado-552320776-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pRGs/Bo+FnoDRck8selytLVeflMY7WuYzjxWBm6PwWlIdObDzOiN+Gq4/Ji99Yhow=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El llanto (2025)",
+    "ico": "https://i.ibb.co/GDj6QY1/el-llanto-518745023-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pj1b3Ekvr6bAOGrqVsNBN2A8+0k+w59f32c5QfuAgAms70j5gjcS/QuKIofNh2Fo+9imG8zoZJdajapurQBnbD",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Camino cruzados (2025)",
+    "ico": "https://i.ibb.co/mCHKJx2P/crossing-428264926-mmed.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/oFGgioPJJa9rOHIAs4z2B9ey7DcbU/mWe3XoQGLuGipEAKxUH7zyR/rxoYhfgF6Ng=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Soy Nevenka (2025)",
+    "ico": "https://i.ibb.co/tMm4Y4Dr/soy-nevenka-545809603-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/oFnua0/439eJAUlOga0MvxXYHfGKUTA82bsQefMWl3diLkR3xqdbn8/Uwqy3pE9aoOSnIzMycd493/0Jvr4mu7",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "A Mistake (2025)",
+    "ico": "https://i.ibb.co/r2Ntt7Wy/a-mistake-811950738-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/repZa/5Xi3R71qibdaj4u0sN+OwwR+9tZZ2kJKOixj2sruymiw+7cX9piC/oOfyz4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+	{
+    "name": "Amor Explosivo (2025)",
+    "ico": "https://i.ibb.co/cXgGYXFg/amor.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pKis/Wltv/jlx8Epes5FHDfXdLldfBzdZ8SZ735iLTcVrO9tXNgPeMdE2MLXmMrzA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Algo Azul (2025)",
+    "ico": "https://i.ibb.co/nsM5p3vg/algo-azul-936166049-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qpzNWMiiHHaJGMWP51H5WAbnMA8NQvTikTUnGMnF8NBC4ZoDyCYZffOAPq868TTH4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+ {
+    "name": "Chico Bestia Lobo Solitario (2025)",
+    "ico": "https://i.ibb.co/WW3JCJ2B/ves.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qAcS3HfPdtJM2ReXCLjr8jkd1QsQZM6RmBKlNPWJYzKWg8gaaqs0hRBe0z5K53ENthTpv3SWXH7hcsV3IQtv4F",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+{
+    "name": "Polvo seran (2025)",
+    "ico": "https://i.ibb.co/HJfgTZ3/polvo-seran-585099078-mmed.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/oOdbWwuWxLka+xBIrS+21l+2jsKQaATWLd1dLRmxlgCQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Susurros mortales 2 (2025)",
+    "ico": "https://i.ibb.co/sJ1TyxLY/tee-yod-2-329848516-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qVdUhwg5wx+Gcfw23T+rCvDLFZiUQdCraTubNavsHwu49ko62ZmK3aIWGsfvLV81sg9RcoLh1Ume9Kzl7/7krG",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Sting Araña asesina (2025)",
+    "ico": "https://i.ibb.co/FLq67VYV/sting-264068018-mmed.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rW4m2/gKuWH04SwBH7IbGbr09zMZCiXc1P8IgF7feCYJisazJ9Z6GtpCw1Ek6P/pFluAOMA+RbfLulzJTGdjoM",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Contigo en el futuro (2025)",
+    "ico": "https://i.ibb.co/rKJQtDnD/Contigo-Poster-1.webp",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rK3oPfsmm4bo+amWjeBdaRzF3iDjTDSHlqn0WStEKS4G2ac1YlNwBPOeNa7vfePZzZYlSVkKAW+iE6UYTF5b/h",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  
+  {
+    "name": "Las aventuras de Dog Man (2025)",
+    "ico": "https://i.ibb.co/HpDZsPPB/MV5-BNDVl-ZGQy-M2-Mt-Nj-A2-OS00-Mjdk-LThi-NDQt-ZTYz-MTA1-MGU3-M2-M0-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pEytNvojc/aeKFqly/Ukx5spncQphNJjzsHA+NxNhhbg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The Bad Shepherd (2025)",
+    "ico": "https://i.ibb.co/nsrngrX8/the-bad-shepherd-543295957-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/oe/0IQJfG3dzoln2ptdUpObVaZ4tkD27V9ss3BkU54duazE6/lthYcAn34vnqGP0k=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+		{
+    "name": "La hermandad silenciosa (2025)",
+    "ico": "https://i.ibb.co/Y7CzKsrC/the-order-654856932-mmed.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/oO5b6MU8wpWvgIpYKAlx7kc8GaL5d07tOmu7iaAVVhXM2MuUyd9BRP0lj9QtV4+kPf9Mqn8d6jG5ZJKL0IumlK",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Reagan De Hollywood A La Casa Blanca (2025)",
+    "ico": "https://i.ibb.co/CcJtYY8/reagan-329476610-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rZYhM5eBS1ON3qqmrTLY9qgfidOu+w/t3JzBE0nIlTTVvbKLFgP+GcpIP5mLw69fQPu/ERz7LSbHuuIhIX2MVqhIQBLBXgDk+XykKCsdOxzw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rita (2025)",
+    "ico": "https://i.ibb.co/JwMZxzWf/rita-2024.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/r9IjgMMgfdAl3ysOB27WaQ4HMkXgjUkpaPsik/6en7I2y9gpovB6Im/fsZ6xECaqI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+		{
+    "name": "Algo embarazada (2025)",
+    "ico": "https://i.ibb.co/V0n6f2Yj/kinda-pregnant-550514113-large.jpg",
+    "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/r42636GaDoClgPVXQCgEla1VRwbPdtL5vGzKNvSGUk2A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
 		{
     "name": "El juego del asesino (2025)",
     "ico": "https://i.ibb.co/dJcKdsmw/El-juego-del-asesino-656153704-large.jpg",
@@ -549,7 +873,111 @@
     "name": "▐ LO PEDIS, LO TENES PLAYTV",
     "mode": false,
     "lista": [
-    
+		{
+        "name": "De vuelta al deseo (2023)",
+        "ico": "https://i.ibb.co/99SdZ4Xw/heaven-in-hell-611558223-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/ouzbgA2uWimVsx3DhhB4zla15F+ZwErkQsUu2COoPimi7NQE8m6eXRlk6x4eKzeqTtfKX4lB3Ahk2mb1Y1OBUg",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+	 {
+    "name": "La madre de mi novia (2023)",
+    "ico": "https://i.ibb.co/gLyxnt4h/katie-s-mom-876523368-large.jpg",
+    "uri": "https://alm.digitalscreentv.com/movies/kariemom.mkv",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+        {
+        "name": "The Convert (2023)",
+        "ico": "https://i.ibb.co/NdgshNnh/the.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pfKyvc1KtI6A/rENTPzW0nHbFSMTH9eRaV2i5KMKM3rpjKI2YCfaPcfVj5b2cePlElOrrOL+LDbPvOFaF5K7tH",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "La guerra de los abuelos (2023)",
+        "ico": "https://i.ibb.co/cXV66dVt/la-guerra-de-los-abuelos-poster-2927805-SPA-51-V.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pV5uAfZGpupkmnlZPPQ5sWp2Xa7JykXTqitIk/9TYFL555syFDYvIGPfQ2+itinnbiLPu01JwG8I/HEBh6UP95Yvik0qpfz0eNru9kvbLQ2Q==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "The Moon: Sobreviviente (2023)",
+        "ico": "https://i.ibb.co/GQx5v2WY/theee.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/quaHUqzkj25+xXKpcgLALRcnnLsSvBtQJNofvnQVWMYIVyfQV4IAdUCUTgBVdFdB5ClCKXj80vUNSFGweRP96s",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Extinción (2022)",
+        "ico": "https://i.ibb.co/XZ9Y4nBG/ex.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/ohOwQLuUCLn8Mb+8uPqslVo3dPC0FOmcE3i+kIb3YKpBcv+jHkUP93JuIX9cC+C68=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "La reina guerrera (2023)",
+        "ico": "https://i.ibb.co/ynHCbqyL/boudica.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/o4JAlVJJskj2GuViktDHx/8aCV/9xgkf9HLzJCsNOo7cdb/y3ZxFJb08kk+UH1qCGUSFpYDPiBWroUdRYjajIB",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Seals: Operación Rescate (2023)",
+        "ico": "https://i.ibb.co/t94rQyn/war.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/ok0+L/qQ67iN8zw2D/2AS/f/bhXyLxzshwz6y1Qo/PJ7rNE1jRnh8uetAq+t96xl4l/E0MXdSvvKVDYAyWTE6m",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Fuego Cruzado (2023)",
+        "ico": "https://i.ibb.co/27C98zPk/d59-EGLv-OJXQBNbvfe-Vj2-Cb-WETb-C.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qN7NeF6n5XWRO/7j2rrdG0eCtJQQWZ5nH9d8dP7OSiRH5sOTRTkCptsm9BB9TWvw8BO+/7F+9UOsa6oLs5ef/x",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Sleep: El Mal No Duerme (2023)",
+        "ico": "https://i.ibb.co/d0q7y4fS/MV5-BZWMz-OWQ5-ZDMt-NGJm-Ny00-NDdl-LTkw-N2-Et-Zm-Iy-ODY0-ZTZh-Yj-Iy-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/q5x3P1znffTjAbmifJgdfbi5LjWzw6zmY61iLPwFVjORz+XRzeM0baTyUGa7L7YriEbOa3WRCFFiiIodin/FcoJPpp7ci0cc9j40mP9HsgqQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Huye, conejo, huye (2023)",
+        "ico": "https://i.ibb.co/5WKK4rZb/run-rabbit-run-605052060-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rm8mCzep1S/hceCkQ3xVq8ZcQOBH455hhyJkOvLLE8IzL3irjeOB1vQW+6h63remgjvHmRl7GqxEnjQhgtiDD2KMPDRUFHG0dQKtV8u4IsiQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "El Demonio de Hielo (2021)",
+        "ico": "https://i.ibb.co/TMKY5SFv/MV5-BMjdk-Nz-Qy-MTEt-Zj-Yw-Zi00-ZWI1-LTk0-ZDMt-NGNk-OTNm-MTJk-ODA3-Xk-Ey-Xk-Fqc-Gc-V1-FMjpg-UX1000.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rR8spqFn9DkvIyfw0BdyLYKthXB/S19kNj2f0O0MPqcadoVJDt83t9F0PW2eqXjFNzrwdkvh0Pv4fhARefC2D/BnCUe5MAlGfehD8Y6SFVhg==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Horrorland (2023)",
+        "ico": "https://i.ibb.co/N6Gf9zQh/karusell-541663208-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rP6xUgNGkiZT4z++V3Z9m+OFRWtygR7TK25rFlAhkQsQGy+eI12whVXX5ufnHktQu5fF/9+hGorc8LGU7dwqpP",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Dogman: Vida Inquebrantable (2023)",
+        "ico": "https://i.ibb.co/wD4YGxQ/dog.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/rHBXijvxLcQvwLvA660s8dwmAn8xRfoT1QZiYvZHw0/ANMCChjAVdwrkDKS3jz9qWLTKfb6VMxGgxbbPOfJZi1",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Sin Piedad (2023)",
+        "ico": "https://i.ibb.co/d3PzM5d/sin.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qR2RtrClbo+Mkkx3VSVsIBF6VcF05hzKxcj+/S82agkZIhy373S5fWplwhOV9YyYW1yF9nCfokDGVEl+2CiLvA",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
         {
     "name": "Indiana Jones 5 (2023)",
     "ico": "https://i.ibb.co/4mjyq0F/indiana.jpg",

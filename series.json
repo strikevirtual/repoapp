@@ -80,6 +80,70 @@
     }
   ]
 },
+
+	{
+  "name": "Tu amigo y vecino Spider-Man (2025)",
+  "ico": "https://i.ibb.co/KxSfHDsn/your-friendly-neighborhood-spider-man-970131418-mmed.jpg",
+  "temporada": [
+    {
+        "name": "Capitulo 01",
+        "ico": "https://i.ibb.co/KxSfHDsn/your-friendly-neighborhood-spider-man-970131418-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qYXV3qqic+heQ0v6A//yj10ixOJaNyb8Ec2ze0p1w+RzZQKwYX0yPUUQJlppYsuRyT9dSjrnVwl1Z08cU4Hr0Z7OG62JJ6C1ZVGjkA9LGwBA==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Capitulo 02",
+        "ico": "https://i.ibb.co/KxSfHDsn/your-friendly-neighborhood-spider-man-970131418-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/qYXV3qqic+heQ0v6A//yj10ixOJaNyb8Ec2ze0p1w+R1V2l8c2DmQptTKkY4QHEZPFkp89nqP0Cf1N8bVF28HdSI5d39ZBho6o3ZC3wIAzyQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Capitulo 03",
+        "ico": "https://i.ibb.co/KxSfHDsn/your-friendly-neighborhood-spider-man-970131418-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pcP21wA89oPV0kVPYR/TVZmyGtOkm2ec50QV30DyZylrvK/svnYPN8JKG2CjB2Z77nUdeYU8PX5QlxLMyw+qVmC9H3WHzPryeJiIKqIHDFO1Xq2go6h96zLSRu5oXv9M8=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Capitulo 04",
+        "ico": "https://i.ibb.co/KxSfHDsn/your-friendly-neighborhood-spider-man-970131418-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pcP21wA89oPV0kVPYR/TVZmyGtOkm2ec50QV30DyZyljrzjlYtqh+0gBG/x4GkLuPZJg6hD8/q0M/kN4cWvKlZ34xz/rqQ0VCZZrvs95Ug2JfRzY8QTAqRChvdngkss00=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Capitulo 05",
+        "ico": "https://i.ibb.co/KxSfHDsn/your-friendly-neighborhood-spider-man-970131418-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pcP21wA89oPV0kVPYR/TVZmyGtOkm2ec50QV30DyZylitFoCfYCxJSB78zBgF5JsTyxxnrXRZsfd3D/sKSnLk/hqYk9rGCA9cETzZf3aOYk1+2CQ8Hl3ULPp7RRipk6Lk=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Capitulo 06",
+        "ico": "https://i.ibb.co/KxSfHDsn/your-friendly-neighborhood-spider-man-970131418-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pcP21wA89oPV0kVPYR/TVZmyGtOkm2ec50QV30DyZylpaLwQXmmvgAEkLvR+RJkVdDHQ3q4tNuC7p9tY4h6Y8Y7e7a8wvyiFA70yQizvlE8fK9MMfaBq2rigG3B88CvkI=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Capitulo 07",
+        "ico": "https://i.ibb.co/KxSfHDsn/your-friendly-neighborhood-spider-man-970131418-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pcP21wA89oPV0kVPYR/TVZmyGtOkm2ec50QV30DyZyllLzBJlLXkuLzm/HX0jj8cxarLlUpGoxQUHDxGUEQ1nBGbMat74t95/1cwg/B/TUvZFzKF52hVz7CcDgOUV7X1A=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    },
+    {
+        "name": "Capitulo 08",
+        "ico": "https://i.ibb.co/KxSfHDsn/your-friendly-neighborhood-spider-man-970131418-mmed.jpg",
+        "uri": "dRW5B3Cu6TWhJ/oOPOz9jxzf+xdgKIHhE2xexC5NT/pcP21wA89oPV0kVPYR/TVZmyGtOkm2ec50QV30DyZylo6fSVUOhBfn20cIlMCO4+Qlz1uwGAsGUywf3IUGBMWZA1D5Sdz0HyKxLUWrZ0FGUqJxdwTIsPaFY5lyYop47dQ=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+    }
+  ]
+},
+
 	{
   "name": "El Problema De Los 3 Cuerpos Temp. 1",
   "ico": "https://i.ibb.co/N2xyZpQZ/temporada-1.jpg",

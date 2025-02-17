@@ -1302,9 +1302,17 @@
         "drm_scheme": "",
         "drm_license_url": ""
     }
-  ]
+  	   ]
+   }
+ ]
 },
-		{
+  	
+{
+    "name": "▐ SERIES",
+    "mode": true,
+    "lista": [
+           
+      {
   "name": "Invisible Temp. 1",
   "ico": "https://i.ibb.co/N2DVdCxK/invisible-310057671-large.jpg",
   "temporada": [

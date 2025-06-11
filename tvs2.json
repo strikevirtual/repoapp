@@ -2584,6 +2584,239 @@
   
     ]
   },
+{
+    "name": "▐ CANALES 24/7",
+    "mode": false,
+    "lista": [
+  
+  {
+    "name": "Pajaro Loco",
+    "ico": "https://i.pinimg.com/originals/6a/0a/77/6a0a77a49e190ba1ec1211b426b0ef7c.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5CXFQSx6oAaIt3jzlKGHbNw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga ( Terminator )",
+    "ico": "https://i.ibb.co/4SkNt3v/CINE-PISTOLEROS.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5bDig+olovhxcI2JrqiQfwg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 El Chapulín Colorado",
+    "ico": "http://tvstarlife.com:25461/images/aa0b168caba819ec4e8ea96ceffd6464.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+585uwdWg+NqKUL2gj9Pfatg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DISNEY MARVEL",
+    "ico": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1f2230f3-d395-4701-9831-457e72d51cdf/detbd5i-4eced9ff-ab18-451b-99f0-f3118922e898.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5FBJhiWrgQNUV4Yu+7Ek3lg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DISNEY PRINCESAS",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Disney_Princess_logo_2015.png/1280px-Disney_Princess_logo_2015.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5SRk6fLex2Vrmq05wzCGZqg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DISNEY FAMILY",
+    "ico": "https://static.wixstatic.com/media/f19dde_bc216aee09774640b3d54ffde1e7b19a~mv2.jpg/v1/fill/w_400,h_400,al_c,q_90/file.jpg",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5SteGR1++ellSIceQm8KzvQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DISNEY PIXAR",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Disney_pixar_logo.png/640px-Disney_pixar_logo.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5o3E0Q9rDGEz1idfWYzE7DQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Happy Madison 2",
+    "ico": "https://alchetron.com/cdn/happy-madison-productions-47c18039-c0a5-4f02-884e-98e704a6073-resize-750.jpeg",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5t8Q1bRaq7yiXzrRB8ZO0BA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Cine Ficción",
+    "ico": "https://i.ibb.co/r3Qck91/CINE-FICCION.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5KzMajvu+jC/lIbzeRAMjoQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TERROR 24/7",
+    "ico": "https://i.ibb.co/r3Qck91/CINE-TERROR.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5y9YDEMZX1NCjmINPi0RwQw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DISNEY RETRO",
+    "ico": "https://ephrazygraphics.com/assets/images/products/2881/big/d7bae017022de4e7ccdb5a487aac18e73727cad0.jpg",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5Yz32QgEiVmj7UZPqLNa9tw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Acción 24/7",
+    "ico": "https://i.ibb.co/wwjB00q/CINE-ACCION.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5Z4RdZwBmt2Gj57bB6CAoag==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 ANIME",
+    "ico": "https://i.ibb.co/p1XKsq8/CINE-ANIME.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5f3eI/xKdYYGk/5GuOIpvDw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 FAMILIAR",
+    "ico": "https://i.ibb.co/kMwFxCD/CINE-FAMILIAR.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+58K0IVMfOsY8dJ5Ygz1AlVA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga (John Wick)",
+    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQE8C1Sfdh1bPpQ-tRmCUt3wGqHbdf6otZng&usqp=CAU",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+50r9TreoeRSU3JluMlil1Gw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga (Avatar)",
+    "ico": "https://sm.ign.com/ign_es/movie/a/avatar/avatar_3gqz.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5lBXE/ZevPwZ2e2pcH7LHUg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 |Saga (Marvel Heroes)",
+    "ico": "https://www.pngkey.com/png/detail/431-4313355_marvel-heroes-transparent-png-marvel-super-heroes-png.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5czoF4ontRZu1Apx9w5c0XA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga ( SAW )",
+    "ico": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Saw_movie_logo.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+59CLioEC4LkNrpz+wBNuCSQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga ( Volver al Futuro )",
+    "ico": "https://seeklogo.com/images/V/volver-al-futuro-parte-2-logo-5F07C94AA9-seeklogo.com.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5KGzNn9GbCH1pH0aBlVLR7A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga ( Harry Potter )",
+    "ico": "https://static.vecteezy.com/system/resources/previews/022/101/125/original/harrypotter-logo-transparent-free-png.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+57DcaEsqfo/LD6RZlbzrNrA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga ( El Conjuro )",
+    "ico": "https://pixellblog.files.wordpress.com/2013/08/el-conjuro.jpg",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5RghugFvayUsgXoAKlxRStA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga ( Annabelle )",
+    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0822rZAvEccTWxMdzPi43x0PVWx6eILceYg&usqp=CAU",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5NKd+hto/X643fs/wlAID8Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga (La Profecia)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0u95VL153ywMlzc7MmBO8ATV4L.jpg",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5g9Ti637b9ANNLHUM4Jx3Ow==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga (Batman)",
+    "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zBFZpWs0OaRyJdtIR7gpt6sIyvZ.jpg",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5Xw+KF4QDr65+RLA/Nk0SeA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga (Jurassic Park)",
+    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6WYyfXdl2MeK48FQM4ls_H3eQ30VOb0fSf03w4b1YKr4OFdoKk6_FYKGinFtnJY8c6NE&usqp=CAU",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5rzOAmG0cRcNoV5TpA7rHBA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 | Saga (Star Trek)",
+    "ico": "https://static.wikia.nocookie.net/memoryalpha/images/c/c4/Star-trek-splash-logo-6.png/revision/latest/scale-to-width-down/1200?cb=20181112015731&path-prefix=es",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5qlX2c2DwEX9ylULU3jmscg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 Saga (Robocop)",
+    "ico": "https://png.pngitem.com/pimgs/s/1-11211_robocop-robocop-typography-hd-png-download.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+56m66npIwI1EC7E/cDUDTRQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 Saga (Spy Kids)",
+    "ico": "https://upload.wikimedia.org/wikipedia/en/b/b4/Spy_Kids_logo.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5mtFhKkigUQnjYP4E37Y4Pg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 Saga (Crepusculo)",
+    "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOIh6B_Tff8ydFcd8bzNy1obgjUCBRUhrSkw&usqp=CAU",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5cNKxwFHS1ytRJcpqYR9brA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "ESTRENOS",
+    "ico": "https://i.ibb.co/4SkNt3v/CINE-PISTOLEROS.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5bzQ7x91Qn4rZ2wg1U8bvVg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "24/7 COMEDIA",
+    "ico": "https://i.ibb.co/kMwFxCD/CINE-COMEDIA.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+57P9TXh85EwR50edUH2/k3w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "PISTOLEROS 24/7",
+    "ico": "https://i.ibb.co/4SkNt3v/CINE-PISTOLEROS.png",
+    "uri": "iteXNJ4dhgcd5NPTQnUSEbHy4ay29YLjjpY6Z7M8N8EVhSLSJpNzPOaED1M4EW+5BzVhbX5d9E8gNEqyYN2srg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+
+
+    ]
+},
   {
     "name": "NOVELAS Y VARIEDADES ",
     "mode": false,

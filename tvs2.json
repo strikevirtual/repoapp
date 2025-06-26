@@ -2069,6 +2069,90 @@
     ]
   },
   {
+    "name": "▐ DIGITAL TV MOVIES",
+    "mode": false,
+    "lista": [
+      {
+    "name": "CINE ACCIÓN",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3nZ2v+otN+V7gOgeLXxaZYGEiIR45Zoea56YdZ2ZQtb/XkkeyvFCQBacJmOkzbALT2wqBJnuB+EyBwb6u/vtuuCka++czIi16yd3llw4QGHQBYmcc1/vSfxyofGt+BGOpSOgc+BmoDVOGRAjyIfNUZ3WZjgxLLB1Knn2DPF388sI+05YctpA6ZDZl/9vE4TnWMoad313HXagmAPikdz5CoZxI6FuBW9J4wk30Vs+Jy3yvRB4U365MfnTuIvsazEGz7HYVYUaOGdkaeZSVL/A8KwRp17r8QcN4rG1rTnmWovJ1r0TOSQ0pUMBKJEif2iaxNiqF3rYwQmnBlkgQcIv7IcFRqaQs6EqDpIKla2gEmCwQ6XTZuRTrUbX03Jg0QLA1b",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE CLÁSICO",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3ncuFiytKfw441vcoEmiKUyNCKQCzwKXIzpol6sAgwZ7lVFOIiygyGfDjtOM8YvLETcTUR0z1MlXQQJetOGEiOa3QJey84QNU/45e6bPqx6prC7tsEAQRdRZRd8LvYRZxTc61VXD7XKfbrpDxmhcrzQ5qI3Dh+Kvd1I79qzob7aTV8pn4tGrHe9UHc9+S5TUyKQq652fOPSUoQ7b1OejgUtLOSq62Ov9WrIyH9Yf8DpoRRwatLzQEgpZGUv8ba1FqkQ5vxFPbGbULGn18Zu5i/KDGqYckR6NbsXka1CeuPYrFzeiIFZ6gT6A2/lfIYC8ggvzG+RIgdHDPsY/Y6kVgXv9AP90d+5in5WSByERplUkrKml5sT0XYLLE1ucPUKobG",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE COMEDIA",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3nKoXm7ZhhCXPx5cfgkypuOxvTNy7QPtMCboan1twpQh5mR8IkPGUl1XM4KKOcg4cenmoPNtA+Vlz9HRq+JxHZ02MG7HlwSK7sMJxewYoVlxsS8iq/TJWDS5MNNPBzfFoBlb8+R5zJM3vLrt7hKaRejY8CxyU4ctqz4k4QxXzQX1PSrE3lVcrVZbonzr9yhWEbMDwOrvlvXa2iIyuBsPiAlqfq2Vx9Vx0uIPloIpVfRToTjkclUIdhMUlLE53GV7++MuaYczORvbhc+lKyXBWT4NbLFlBr7S4OgRK4pYmzaqGwR2eLJXSrqDpeRx92JpPa4+j6wCPoe7bgI3/H4NNjkSCXGZJDXu4Me0GupbbEmPYpsxWtckn4WEPD2RggwoXY",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE SUSPENSO",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3nMB/wTMf/ZojgmYjHHQC/8uzgnCBY/JaN24DciqdmhffZ1WLgr8dPN6sZc/Sc0eDDRMy+si/zt/GDYs1DSit2abk6pjOsSKmW9s5FnAZZvqNEqrPUDEZkGLmqxuEA4DGCtrQyOfBYYD62aRd1m/VjQA6pyvZZ6iZWeqfF329NXgpIne8p2l//SNvMkIsKVudtYaO65O+KGAHlurNFNMK16vnVST2QfyXnvsK6wyVZLzJb+mlRfoBWkK6mLLqnzDATU8TrtfBQnIDrvru7FRm/nlme5acLBuZ+YlJbE1sJNYCm7hTRL5HYZRkM8aPEFBlYpK7D5APpDEsSZCRdjmFogYm7sNkiFL/bmWXWzCVOMlJXJmbYhcdEJrbMt0k3uCNr",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE CRIMEN",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3nlotKtz1wKit3GRPIyBLjCav8RBEicaT/NIABmjbhjVANO4BnNbr+vG/GGg35uf3XFdfOyQUDJdJngxqI49IGqiP7jbhlSKZK7BGwu8yuXqV/lyapVaK2PGnZ+XpBxCtTknAArNqCIbBUzbZrXWVYRjq61TNSWCxOHKu5iBM80vGlYYdmd7EdqBmrzSnYqrGPB9ObIm5RXXO63W/LWxMAcKj6fZQEgwyXdEDUVgACdjkemNUt+VUfAf3Z0D50g4+dMg4lK5PiXFmyfqGLM0CRig0b/ZxYklpt9ryW0bc3r7nbClLqnViE9V/0wL7vy8DZsYq9exNY/qqLtVgt/PUguHfcGFgHUy86KnPlvcm3m4WZvUxYYeLtrt5CqzzMBLxn",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE DRAMA",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpgg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3nUrjD0jfdrNvnAOfAa2WCW3GS/YgjKXo1zplViC/skCb3hPwCepqrQAT3O6gJ/xwFDrrLFBJ9XT47O0ZY/4zBsKDBSqdqudKVMeylgBqarxCVUzAO5hH25wNVfelKkZnZ3DLZ9pDateSuJfI9l6nLqYpUXbCFr1IV/abRPR70roDEweFq/3jzgy2QdU+OOhI8TQLLdm+sdQIWKq3pYj1itC0qj6s8XFm1kAGk95CNjxOSGRGQPme/Zm0E6vCLwBk7K/r1HbCjUA4vSVdQ2TDwwx/p53322ZYsr4O2S6y+4D0J6PuWqVOqdSBFSpzsiF0C7MLlmj73l5CQwOFwtVvM71cdzfJX7/ECkMkDHbNDO2l8cpgUK7XsgvWdPVYRPYwL",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE FAMILIA",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3nx8xtTijdQ5KAxNTHBA5rfqLAZtfL6TKzrYVFZorQWiJ1OhpDn8pTrtX3Th7r0ofOzP6SR8CMBUMEe72O2dl5OqL0EKpc/MqDyaSRwKCJz6x/rz9N+9ZpfoPedcI6zPmt0LmyfNmNK3gmMVq2I2bx9UknCm9CGnmfwfI5GaLY+sru1FFeCdbbOv4jGW0UdS6P6d16QpFVpS4i7Xx/gn8JZFTyGKGxSgbP+tvJnePqr8/Na/Ptc/jWBu32Ad/XpK2T0ZSMmV01ZiU0AfDzbu3GYDqQe0O0soUFY5c1faGI2poaJEHaoebUxIJTFXtzfLwI2vOVKy9Agt0+PK/xbvvsNjXN7Oy7R7anbaXGw6J8HNkPfOHkNtHWqB94Ek4gvVbd",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE ROMANCE",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3nH7vD3oja916Rrg2mcOqk4FCnJbRySwv5Y77cAqTzyNKuPR17jYorugJe67mDLqT0zWHOAcxNP7SCH1S30sSQf9+V7Yb26M264QK5fh/pBzW5YOapNKjUaSaonEc8h48oZoTLS9D63vIwWryxHM1OMCCiCc8NoSwCjd10sY8g1N5MccVGngsavqLmfA8OcrkiNueuz4x755jDESlSZ7DxolT5yi89wl6feCdGpWxClzBOiFRmxhTnTbnNihxWi+9CcBplzjpqalPn/bVs3KV7UOWAtn+Hav8tAKtCCWEW+IkWqjfvvL8FrV+JKBd9CMvYMyP8DTZl/su+fPaMcipDHv3jHERe7/ys+4bw/Jh8gc5EG9qURLhJY2548y4IUEZE",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE TERROR",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3nUrjD0jfdrNvnAOfAa2WCW6suRAMBb2lytWTRyCU3K7x/1fs3Dgpjh50lF7+MJaqa/JDOnXIyBAbVg+6SX50OShK4/Rg1ga7xuQSEmKmy72RZZhoMtZb4ZPcSb1v2FrPIfqM8QCr7X0d+FNnrGcFILWzaFnGPFSuCdA7QvSre16WpBe9W583SEViorLnjnA9ImVRk4tJReDcpn5dwaBknsXH1KWK88/itfgFVn4WMUg1klSSh1Jdc2cNnYOp/hOyK91AsevoESPHBk9SBqQdEfodPBcuuLEoMCsFRt+KD9uF3a+5AcVu7VgELRXgM/8cSMUt10DcXtIdnX0I4ShGzX4/k4C/gTdPsLevymfwEfG/H09FTg7g+EwkxQi9TK+L8",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE INVESTIGACIÓN",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3nzrE4v5fzUKnDS0fDONZZUb3orA3vGcNTXVDN9I2daifl+u/xnnVcdbc5WoLYQqHgj0TKD9qafSVHaqNhvvldplQX1Q5pR9C+3zQ/S6UxHrcf6WHXGN3k7fXtlVEweA24RivRQL/vFE9vqoCLHsL9HbmL0bBebhgmRlYKjscxUMsA5gG+J/9F6Pnuf5NTyUInymMCpsAENKPOxaa/mZiR30nREwjt/HcyY8YpAfeNbBpg6hIOufbTcrLYCCEUx1JxrnXJmsX3H4YZ3OgCd+CaAc7XPxqqIX6IL20Oybx3OoHr2l8Lb9Td+BZB5iOxBxtOrlJ+13F88m/pBTrV1ACSCP5hzlJ0ebqq5HRhd30bTost4RXJubCJfmhiy+uKHeIX",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CINE FICCIÓN",
+    "ico": "https://3.bp.blogspot.com/-gMgy0mSf-r4/WfSBUiHvZTI/AAAAAAAACYQ/O4ZutPpfHEoIKtgVW1ebvbHe7AnhoLCWgCLcBGAs/s1600/tv%2Bdigital.jpg",
+    "uri": "t7/r8hGl++M8Qq1saT9x1QH7OFh5tnfHg5YAxKpuMWtArQyNebxJdEv18MrB6T3n49d/VB+NQ/4KIQAQrroZFqy9KO8WKUTH7HSv+19NuGUISTmRzXjcrGC6n0PYDBs/P9C6A+rVeEUX91L9f0ZsSDQPv1e/HPSnn0+gA0f0uAnlf2nDUn55UcaRXoQxmAp2UcyBK96RjF6QLlCoUEnBqKtsfVRppjg/dj44rHR3ronGzeq82q9EYAQcAAklwMtdIgEoyxPbvqJN1Mm8EsHrrhGWk2PQCSaqokyd04JSca5OotNTKgySN/H4T0qqeb1Lbbqp9yBXYwCHHPIa7rJ4pwOGcxHpFBmI33FQR4blnPp9Ow31E6TvJ8GahJL0aRakXCf2yyWIOSxiHlah8uIUs1gN6E0XfURSSWx3JALsmWRHYvZVlOltI2BR3MamECJ5",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+	]
+},  
+
+{
     "name": "▐ 📦 HBO Pack",
     "mode": false,
     "lista": [

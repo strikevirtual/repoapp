@@ -604,6 +604,40 @@
     ]
   },
   {
+    "name": "⚽ DEPORTES SKY",
+    "mode": false,
+    "lista": [
+      {
+        "name": "SKY LA LIGA",
+        "uri": "6Iu3fYoxXTCJurAJEYmDs7Cr1NwuQtWZpqYHjDioE5UQYoEnvqcfdR/12wGB8MigTtlJwopKmHSaa0mCtx311NIanRDhXTCwcGROnx/+2xA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKpM/p7xhFVE07nQJivkAF3P+SK06fOroC6k7AFUCNQYG9FQ765JwWlVg35CxSYT5/+TIZlcEMmzcdClVDb0HbBaH9A37ART1ofaqJo0w7b0unc/8aiVcxnr8dPsJm2en+w==",
+        "ico": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      },
+      {
+        "name": "SKY BUNDESLIGA",
+        "uri": "6Iu3fYoxXTCJurAJEYmDs53d9mhBSggLSDrNAE0cZBkKygJ111QxlEQeXSKPtw6zK0LsQmEStyebQnaqeWp/3MZE5F5UXjWMPcefrzMzg3c=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKgx9btZOiaKDFZMokr0f3m7FiJ6fmqOEetcCrzLrxVm6nEFMXKGjxSklBX1GAIPhg6l8H7231bPkdmRGe8Be+uN6CbECDPwBaZ779dRxXek4LhjY0+XnsSJ206cCHLRjHA==",
+        "ico": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      },
+      {
+        "name": "SKY PRIMERA LIGA",
+        "uri": "ryeaYDkAlkHB3GVkiw1VyI4gZ1pDBp5PdIVEAgHuryNm/0PkU3umBsTG4nMmYrLK4ho4eCVstORm89S8CZANxdXSttnZIl9Ny9Em+Vcjb5dE9XSvf4UJMofxWKBQ5Ie6",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKoiYq+SpV4whwLtfxaX3L5rNapqkdMbyXG1oyPm3BEnJo5Ulth6j+RbQ5+ruRKJpGt7s9moQrIa03Ka+yIXsd1t8sSEdGOY2AAGOFh0y7gpA++D+XTL1Oe6d+52BOO8//Q==",
+        "ico": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      },
+      {
+        "name": "SKY PADEL",
+        "uri": "W6PDDCqFZriDr+DNxUYIs7Jsz862hthEzoWRVB7JEUxDjTOvAAp7wxlg4rvR0t6+X5APQ6sro1XcwDP4EaTKpDge0JQH56Z6uEzRP1vDqvoT9iRIQtKyJD2FKy2SZ/5FP9X3Xx/AxUZ4zQBXRJwG7Vk08WNg87OVZ03MQWa9bO3XjXy09iD0OmShG2ziZtvPaBvxIRtSwVwg73bJtqNXjMVFOpdIAnG2DzxExmpKxpHqgkVmPok4SXznUzcGHL0m",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "EkBHLoBtoxGY/qCKZODXizydrrv/aUje9vT99jm1LgQi8LTRgEpuMnFuCLFoPNjP+v/jIJ/yiJav5NWZEZdqKvhNmK6lKtTaxkOs7+6Mb/UXW73Etvjwislvs5ippPtMGuxWyPLHFSNyRWYk9OAZ1DFbNFQvEGIBNZXt/kEy5AZ7fFEzOMESiEydLL6Nv2UDxmnlolNKQ+DnvQRfJD5xRA==",
+        "ico": "https://i.postimg.cc/9F81DyyN/descarga-37.jpg"
+      }
+    ]
+  },
+  {
     "name": "▐ 🇦🇷 CANALES DEL INTERIOR ARGENTINO 1",
     "mode": false,
     "lista": [
